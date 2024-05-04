@@ -31,7 +31,14 @@ public class Main {
                     sourceFile = sc.next();
                     System.out.print("archive name: ");
                     resultFile = sc.next();
+
+                    long startTime = System.currentTimeMillis();
                     comp(sourceFile, resultFile);
+                    long endTime = System.currentTimeMillis();
+                    long compressionTime = endTime - startTime;
+                    double compressionRate = calculateCompressionRate(sourceFile, resultFile);
+                    System.out.println("Compression completed in " + compressionTime + "ms");
+                    System.out.println("Compression rate: " + compressionRate + "%");
                     break;
                 case "decomp":
                     System.out.print("archive name: ");
@@ -57,6 +64,8 @@ public class Main {
                     break;
                 case "exit":
                     break loop;
+                default:
+                    System.out.println("Invalid command, Please choose again.");
             }
         }
 
@@ -107,7 +116,6 @@ public class Main {
             inputFile.close();
             outputFile.close();
 
-            System.out.println("Compression completed.");
         } catch (IOException ex) {
             System.out.println("Error: " + ex.getMessage());
         }
@@ -170,8 +178,9 @@ public class Main {
     public static double calculateCompressionRate(String sourceFile, String compressedFile) {
         File source = new File(sourceFile);
         File compressed = new File(compressedFile);
-        double originalSize = source.lenght();
+        double originalSize = source.length();
         double compressedSize = compressed.length();
-        return (1 - (compressedSize / originalSize)) * 100;
+        double compressionRate = (1 - (compressedSize / originalSize)) * 100;
+        return Math.round(compressionRate * 100.0) / 100.0;
     }
 }
