@@ -2,8 +2,7 @@
 // 231RDB340, Lauris Limanovičs, 6. grupa 
 // 231RDB378, Ksenija Šitikova, 6. grupa
 
-import java.io.FileInputStream;
-import java.io.IOException;
+import java.io.*;
 import java.util.Scanner;
 
 public class Main {
@@ -56,7 +55,6 @@ public class Main {
     }
 
     public static void comp(String sourceFile, String resultFile) {
-        // TODO: implement this method
         try {
             FileInputStream inputFile = new FileInputStream(sourceFile);
             FileOutputStream outputFile = new FileOutputStream(resultFile);
@@ -66,10 +64,35 @@ public class Main {
 
             int bytesRead;
             while ((bytesRead = inputFile.read(buffer)) != -1) {
-                // TODO: Implement LZ77 compression logic here
+                int pos = 0;
+                while (pos < bytesRead) {
+                    // Find the longest match within the sliding window
+                    int matchLength = 0;
+                    int matchOffset = 0;
+                    for (int i = Math.max(0, pos - windowSize); i < pos; i++) {
+                        int len = 0;
+                        while (pos + len < bytesRead && buffer[i + len] == buffer[pos + len]) {
+                            len++;
+                        }
+                        if (len > matchLength) {
+                            matchLength = len;
+                            matchOffset = pos - i;
+                        }
+                    }
 
-
-                // outputFile.write(compressedData);
+                    // Write the LZ77 tuple (offset, length, next_character) to the output file
+                    if (matchLength > 0) {
+                        outputFile.write(matchOffset); // Offset
+                        outputFile.write(matchLength); // Length
+                        outputFile.write(buffer[pos + matchLength]); // Next character
+                        pos += matchLength + 1;
+                    } else {
+                        outputFile.write(0); // No match, write zero
+                        outputFile.write(0); // Zero length
+                        outputFile.write(buffer[pos]); // Next character
+                        pos++;
+                    }
+                }
             }
 
             inputFile.close();
@@ -119,7 +142,7 @@ public class Main {
                     }
 
                 }
-            } while (!(k1 == -1 && k2 == -1));
+            } while (!(k1 == -1));
             f1.close();
             f2.close();
             return true;
