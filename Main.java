@@ -166,4 +166,12 @@ public class Main {
         System.out.println("231RDB340, Lauris Limanovičs, 6. grupa");
         System.out.println("231RDB378, Ksenija Šitikova, 6. grupa");
     }
+
+    public static double calculateCompressionRate(String sourceFile, String compressedFile) {
+        File source = new File(sourceFile);
+        File compressed = new File(compressedFile);
+        double originalSize = source.lenght();
+        double compressedSize = compressed.length();
+        return (1 - (compressedSize / originalSize)) * 100;
+    }
 }
