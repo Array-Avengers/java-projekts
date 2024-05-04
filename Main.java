@@ -2,8 +2,7 @@
 // 231RDB340, Lauris Limanovičs, 6. grupa 
 // 231RDB378, Ksenija Šitikova, 6. grupa
 
-import java.io.FileInputStream;
-import java.io.IOException;
+import java.io.*;
 import java.util.Scanner;
 
 public class Main {
@@ -13,8 +12,17 @@ public class Main {
         String choiseStr;
         String sourceFile, resultFile, firstFile, secondFile;
 
+        System.out.println("List of commands:");
+        System.out.println("(1) comp - Compress a file");
+        System.out.println("(2) decomp - Decompress a file");
+        System.out.println("(3) size - Check the size of a file");
+        System.out.println("(4) equal - Check if two files are equal");
+        System.out.println("(5) about - About the authors");
+        System.out.println("(6) exit - Exit the program");
+
         loop: while (true) {
 
+            System.out.println("Choose a command: ");
             choiseStr = sc.next();
 
             switch (choiseStr) {
@@ -23,7 +31,14 @@ public class Main {
                     sourceFile = sc.next();
                     System.out.print("archive name: ");
                     resultFile = sc.next();
+
+                    long startTime = System.currentTimeMillis();
                     comp(sourceFile, resultFile);
+                    long endTime = System.currentTimeMillis();
+                    long compressionTime = endTime - startTime;
+                    double compressionRate = calculateCompressionRate(sourceFile, resultFile);
+                    System.out.println("Compression completed in " + compressionTime + "ms");
+                    System.out.println("Compression rate: " + compressionRate + "%");
                     break;
                 case "decomp":
                     System.out.print("archive name: ");
@@ -49,6 +64,8 @@ public class Main {
                     break;
                 case "exit":
                     break loop;
+                default:
+                    System.out.println("Invalid command, Please choose again.");
             }
         }
 
@@ -56,7 +73,52 @@ public class Main {
     }
 
     public static void comp(String sourceFile, String resultFile) {
-        // TODO: implement this method
+        try {
+            FileInputStream inputFile = new FileInputStream(sourceFile);
+            FileOutputStream outputFile = new FileOutputStream(resultFile);
+
+            int windowSize = 1024; // Size of the sliding window
+            byte[] buffer = new byte[windowSize]; // Buffer to hold data from the input file
+
+            int bytesRead;
+            while ((bytesRead = inputFile.read(buffer)) != -1) {
+                int pos = 0;
+                while (pos < bytesRead) {
+                    // Find the longest match within the sliding window
+                    int matchLength = 0;
+                    int matchOffset = 0;
+                    for (int i = Math.max(0, pos - windowSize); i < pos; i++) {
+                        int len = 0;
+                        while (pos + len < bytesRead && buffer[i + len] == buffer[pos + len]) {
+                            len++;
+                        }
+                        if (len > matchLength) {
+                            matchLength = len;
+                            matchOffset = pos - i;
+                        }
+                    }
+
+                    // Write the LZ77 tuple (offset, length, next_character) to the output file
+                    if (matchLength > 0) {
+                        outputFile.write(matchOffset); // Offset
+                        outputFile.write(matchLength); // Length
+                        outputFile.write(buffer[pos + matchLength]); // Next character
+                        pos += matchLength + 1;
+                    } else {
+                        outputFile.write(0); // No match, write zero
+                        outputFile.write(0); // Zero length
+                        outputFile.write(buffer[pos]); // Next character
+                        pos++;
+                    }
+                }
+            }
+
+            inputFile.close();
+            outputFile.close();
+
+        } catch (IOException ex) {
+            System.out.println("Error: " + ex.getMessage());
+        }
     }
 
     public static void decomp(String sourceFile, String resultFile) {
@@ -97,7 +159,7 @@ public class Main {
                     }
 
                 }
-            } while (!(k1 == -1 && k2 == -1));
+            } while (!(k1 == -1));
             f1.close();
             f2.close();
             return true;
@@ -111,5 +173,14 @@ public class Main {
         System.out.println("231RDB376, Aleksandrs Belkins, 6. grupa");
         System.out.println("231RDB340, Lauris Limanovičs, 6. grupa");
         System.out.println("231RDB378, Ksenija Šitikova, 6. grupa");
+    }
+
+    public static double calculateCompressionRate(String sourceFile, String compressedFile) {
+        File source = new File(sourceFile);
+        File compressed = new File(compressedFile);
+        double originalSize = source.length();
+        double compressedSize = compressed.length();
+        double compressionRate = (1 - (compressedSize / originalSize)) * 100;
+        return Math.round(compressionRate * 100.0) / 100.0;
     }
 }
