@@ -12,8 +12,17 @@ public class Main {
         String choiseStr;
         String sourceFile, resultFile, firstFile, secondFile;
 
+        System.out.println("List of commands:");
+        System.out.println("(1) comp - Compress a file");
+        System.out.println("(2) decomp - Decompress a file");
+        System.out.println("(3) size - Check the size of a file");
+        System.out.println("(4) equal - Check if two files are equal");
+        System.out.println("(5) about - About the authors");
+        System.out.println("(6) exit - Exit the program");
+
         loop: while (true) {
 
+            System.out.println("Choose a command: ");
             choiseStr = sc.next();
 
             switch (choiseStr) {
