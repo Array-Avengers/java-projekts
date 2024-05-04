@@ -57,6 +57,28 @@ public class Main {
 
     public static void comp(String sourceFile, String resultFile) {
         // TODO: implement this method
+        try {
+            FileInputStream inputFile = new FileInputStream(sourceFile);
+            FileOutputStream outputFile = new FileOutputStream(resultFile);
+
+            int windowSize = 1024; // Size of the sliding window
+            byte[] buffer = new byte[windowSize]; // Buffer to hold data from the input file
+
+            int bytesRead;
+            while ((bytesRead = inputFile.read(buffer)) != -1) {
+                // TODO: Implement LZ77 compression logic here
+
+
+                // outputFile.write(compressedData);
+            }
+
+            inputFile.close();
+            outputFile.close();
+
+            System.out.println("Compression completed.");
+        } catch (IOException ex) {
+            System.out.println("Error: " + ex.getMessage());
+        }
     }
 
     public static void decomp(String sourceFile, String resultFile) {
