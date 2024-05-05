@@ -115,15 +115,52 @@ public class Main {
 
             inputFile.close();
             outputFile.close();
-
+            System.out.println("Compression completed successfully.");
+            
         } catch (IOException ex) {
-            System.out.println("Error: " + ex.getMessage());
+            System.out.println("Error during compression: " + ex.getMessage());
         }
     }
 
     public static void decomp(String sourceFile, String resultFile) {
-        // TODO: implement this method
+        try {
+            FileInputStream input = new FileInputStream(sourceFile);
+            FileOutputStream output = new FileOutputStream(resultFile);
+
+            String result = "";
+    
+            while (true) {
+                int offset = input.read();
+                if (offset == -1) break;
+    
+                int length = input.read();
+                if (length == -1) break;
+    
+                byte nextChar = (byte) input.read();
+                if (nextChar == -1) break;
+    
+                if (length == 0) {
+                    result += (char) nextChar;
+                } else {
+                    for (int i = 0; i < length; i++) {
+                        int pos = result.length() - offset;
+                        result += result.charAt(pos);
+                    }
+                    result += (char) nextChar;
+                }
+            }
+
+            output.write(result.getBytes());
+    
+            input.close();
+            output.close();
+            System.out.println("Decompression completed successfully.");
+            
+        } catch (IOException e) {
+            System.out.println("Error during decompression: " + e.getMessage());
+        }
     }
+    
 
     public static void size(String sourceFile) {
         try {
@@ -159,7 +196,7 @@ public class Main {
                     }
 
                 }
-            } while (!(k1 == -1));
+            } while (!(k1 == -1 && k2 == -1));
             f1.close();
             f2.close();
             return true;
