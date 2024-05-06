@@ -74,8 +74,8 @@ public class Main {
         try (FileInputStream inputFile = new FileInputStream(sourceFile);
              FileOutputStream outputFile = new FileOutputStream(resultFile)) {
 
-            final int windowSize = 8192;
-            final int bufferSize = windowSize + 1024 * 1024;
+            final int windowSize = 32768;
+            final int bufferSize = windowSize + 2048 * 1024;
             byte[] buffer = new byte[bufferSize];
             int bufferEnd = inputFile.read(buffer);
 
@@ -235,7 +235,7 @@ public class Main {
         double compressedSize = compressed.length();
         if (originalSize == 0) return 0; 
     
-        double compressionRate = (1 - (compressedSize / originalSize));
+        double compressionRate = (originalSize / compressedSize);
         return compressionRate; 
     }  
 }
