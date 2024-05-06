@@ -73,61 +73,74 @@ public class Main {
     }
 
     public static void comp(String sourceFile, String resultFile) {
-        try {
-            FileInputStream inputFile = new FileInputStream(sourceFile);
-            FileOutputStream outputFile = new FileOutputStream(resultFile);
+        try (FileInputStream inputFile = new FileInputStream(sourceFile);
+             FileOutputStream outputFile = new FileOutputStream(resultFile)) {
 
-            int windowSize = 1024; // Size of the sliding window
-            byte[] buffer = new byte[windowSize]; // Buffer to hold data from the input file
+            final int windowSize = 4096;
+            final int lookAheadBufferSize = 1024;
+            final int MIN_MATCH_LENGTH = 4;
+            final int bufferSize = windowSize + lookAheadBufferSize;
+            byte[] buffer = new byte[bufferSize];
+            int bufferEnd = 0;
 
-            int bytesRead;
-            while ((bytesRead = inputFile.read(buffer)) != -1) {
-                int pos = 0;
-                while (pos < bytesRead) {
-                    // Find the longest match within the sliding window
+            int bytesRead = inputFile.read(buffer);
+            bufferEnd = bytesRead;
+
+            int pos = 0;
+            while (pos < bufferEnd) {
+                int maxMatchDistance = Math.min(pos, windowSize);
+                int maxMatchLength = 0;
+                int bestMatchDistance = -1;
+
+                for (int i = pos - maxMatchDistance; i < pos; i++) {
                     int matchLength = 0;
-                    int matchOffset = 0;
-                    for (int i = Math.max(0, pos - windowSize); i < pos; i++) {
-                        int len = 0;
-                        while (pos + len < bytesRead && buffer[i + len] == buffer[pos + len]) {
-                            len++;
-                        }
-                        if (len > matchLength) {
-                            matchLength = len;
-                            matchOffset = pos - i;
-                        }
+                    while (matchLength < bufferEnd - pos && buffer[i + matchLength] == buffer[pos + matchLength]) {
+                        matchLength++;
+                        if (matchLength == lookAheadBufferSize) break;
                     }
 
-                    // Write the LZ77 tuple (offset, length, next_character) to the output file
-                    if (matchLength > 0) {
-                        outputFile.write(matchOffset); // Offset
-                        outputFile.write(matchLength); // Length
-                        outputFile.write(buffer[pos + matchLength]); // Next character
-                        pos += matchLength + 1;
-                    } else {
-                        outputFile.write(0); // No match, write zero
-                        outputFile.write(0); // Zero length
-                        outputFile.write(buffer[pos]); // Next character
-                        pos++;
+                    if (matchLength > maxMatchLength) {
+                        maxMatchLength = matchLength;
+                        bestMatchDistance = pos - i;
                     }
                 }
-            }
 
-            inputFile.close();
-            outputFile.close();
-            System.out.println("Compression completed successfully.");
-            
+                if (maxMatchLength >= MIN_MATCH_LENGTH) {
+                    outputFile.write((bestMatchDistance >> 8) & 0xFF);
+                    outputFile.write(bestMatchDistance & 0xFF);
+                    outputFile.write((maxMatchLength >> 8) & 0xFF);
+                    outputFile.write(maxMatchLength & 0xFF);
+                    pos += maxMatchLength;
+                } else {
+                    outputFile.write(0);
+                    outputFile.write(0);
+                    outputFile.write(0);
+                    outputFile.write(0);
+                    outputFile.write(buffer[pos]);
+                    pos++;
+                }
+
+                if (pos + lookAheadBufferSize >= bufferEnd && bufferEnd < bufferSize) {
+                    int remaining = bufferEnd - pos;
+                    System.arraycopy(buffer, pos, buffer, 0, remaining);
+                    bytesRead = inputFile.read(buffer, remaining, bufferSize - remaining);
+                    if (bytesRead != -1) {
+                        bufferEnd = remaining + bytesRead;
+                    } else {
+                        bufferEnd = remaining;
+                    }
+                    pos = 0;
+                }
+            }
         } catch (IOException ex) {
             System.out.println("Error during compression: " + ex.getMessage());
         }
     }
 
     public static void decomp(String sourceFile, String resultFile) {
-        try {
-            FileInputStream input = new FileInputStream(sourceFile);
-            FileOutputStream output = new FileOutputStream(resultFile);
-
-            String result = "";
+        try (FileInputStream input = new FileInputStream(sourceFile);
+             FileOutputStream output = new FileOutputStream(resultFile);
+             ByteArrayOutputStream byteArrayOutput = new ByteArrayOutputStream()) {
     
             while (true) {
                 int offset = input.read();
@@ -136,32 +149,33 @@ public class Main {
                 int length = input.read();
                 if (length == -1) break;
     
-                byte nextChar = (byte) input.read();
+                int nextChar = input.read();
                 if (nextChar == -1) break;
     
                 if (length == 0) {
-                    result += (char) nextChar;
+                    byteArrayOutput.write(nextChar);
                 } else {
-                    for (int i = 0; i < length; i++) {
-                        int pos = result.length() - offset;
-                        result += result.charAt(pos);
+                    byte[] byteArray = byteArrayOutput.toByteArray();
+                    int startPosition = byteArrayOutput.size() - offset;
+                    if (startPosition < 0 || startPosition + length > byteArray.length) {
+                        throw new IOException("Invalid offset or length in compressed data.");
                     }
-                    result += (char) nextChar;
+    
+                    for (int i = 0; i < length; i++) {
+                        byteArrayOutput.write(byteArray[startPosition + i]);
+                    }
+                    byteArrayOutput.write(nextChar);
                 }
             }
-
-            output.write(result.getBytes());
     
-            input.close();
-            output.close();
+            byteArrayOutput.writeTo(output);
             System.out.println("Decompression completed successfully.");
-            
+    
         } catch (IOException e) {
             System.out.println("Error during decompression: " + e.getMessage());
         }
     }
-    
-
+         
     public static void size(String sourceFile) {
         try {
             FileInputStream f = new FileInputStream(sourceFile);
@@ -196,7 +210,7 @@ public class Main {
                     }
 
                 }
-            } while (!(k1 == -1 && k2 == -1));
+            } while (!(k1 == -1));
             f1.close();
             f2.close();
             return true;
@@ -217,7 +231,7 @@ public class Main {
         File compressed = new File(compressedFile);
         double originalSize = source.length();
         double compressedSize = compressed.length();
-        double compressionRate = (1 - (compressedSize / originalSize)) * 100;
-        return Math.round(compressionRate * 100.0) / 100.0;
+        double compressionRate = (1 - (compressedSize / originalSize));
+        return Math.round(compressionRate);
     }
 }
