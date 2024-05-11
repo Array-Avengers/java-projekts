@@ -1,0 +1,4054 @@
+Opinion polling for the next United Kingdom general election is being carried out continually by various organisations to gauge voting intention. Most of the polling companies listed are members of the British Polling Council (BPC) and abide by its disclosure rules. The dates for these opinion polls range from the 2019 general election on 12 December to the present day.
+
+Under the Dissolution and Calling of Parliament Act 2022, the next general election must be held no later than 28 January 2025. The Act mandates that, if it has not already been dissolved at the request of the prime minister, Parliament automatically dissolves five years after it first met (17 December 2024) and polling day occurs no more than 25 working days later.
+Graphical summary
+
+The chart below shows opinion polls conducted for the next United Kingdom general election. The trend lines are local regressions (LOESS).
+National poll results
+
+Poll results are listed in the table below in reverse chronological order. The highest percentage figure in each poll is displayed in bold, and its background is shaded in the leading party's colour. The "lead" column shows the percentage point difference between the two parties with the highest figures. When a poll result is a tie, the figures with the highest percentages are shaded and displayed in bold.
+
+Most opinion polls do not cover Northern Ireland, which has different major political parties from the rest of the United Kingdom. This distinction is made in the table below in the area column, where "GB" means Great Britain, which is made up of England, Scotland and Wales, and excludes Northern Ireland, and "UK" means United Kingdom, which includes Northern Ireland. Plaid Cymru only stand candidates in Wales and the SNP only stand candidates in Scotland. The parties with the greatest numbers of votes in the 2019 general election are listed here. Other parties are listed in the "Others" column.
+
+"Green" in these tables refers to combined totals for the green parties in the United Kingdom, namely the Green Party of England and Wales, the Scottish Greens, and, for polls of the entire UK, the Green Party Northern Ireland. The three parties share a commitment to environmental policies, but are independent of one another, with each contesting elections only in its own region.
+
+The polling company ComRes was acquired by Savanta in July 2019.[1] It was rebranded as Savanta ComRes in November 2019[2] and as Savanta in December 2022.[3] In August 2023 the market research company Omnisis rebranded its public polling arm as We Think.[4] In October 2023, the Norstat group acquired Panelbase.[5] None of these organisational changes entailed changes in methodology.
+2024
+For political events during the year, see 2024 in United Kingdom politics and government and 2024 in the United Kingdom.
+Dates
+conducted 	Pollster 	Client 	Area 	Sample
+size 	Con 	Lab 	Lib Dems 	SNP 	Green 	Reform 	Others 	Lead
+					
+9–10 May 	Survation 	N/A 	UK 	1,054 	24% 	44% 	10% 	2% 	7% 	8% 	5% 	20
+9–10 May 	We Think 	N/A 	GB 	1,183 	24% 	47% 	9% 	2% 	6% 	10% 	3% 	22
+8–9 May 	Techne 	N/A 	GB 	1,638 	21% 	45% 	11% 	2% 	6% 	12% 	3% 	24
+7–8 May 	YouGov 	The Times 	GB 	2,072 	18% 	48% 	9% 	3% 	7% 	13% 	
+3%
+	30
+6–8 May 	John Swinney is elected Leader of the Scottish National Party and First Minister of Scotland
+3–7 May 	Deltapoll 	N/A 	GB 	1,993 	26% 	43% 	10% 	3% 	5% 	10% 	
+2%
+	17
+5 May 	Redfield & Wilton 	N/A 	GB 	2,000 	21% 	44% 	9% 	3% 	5% 	15% 	1% 	23
+3–5 May 	Savanta 	The Telegraph 	GB 	2,267 	27% 	43% 	11% 	3% 	4% 	9% 	4% 	16
+2–5 May 	JLPartners 	The Rest is Politics 	GB 	2,011 	26% 	41% 	11% 	3% 	5% 	13% 	2% 	15
+2–3 May 	More in Common 	N/A 	GB 	2,135 	26% 	43% 	10% 	3% 	5% 	11% 	1% 	17
+2–3 May 	We Think 	N/A 	GB 	1,177 	24% 	44% 	8% 	2% 	6% 	13% 	2% 	20
+1–3 May 	Opinium 	The Observer 	GB 	1,402 	24% 	40% 	11% 	3% 	7% 	12% 	
+3%
+	16
+2 May 	Local elections in England and Wales and the Blackpool South by-election
+1–2 May 	Techne 	N/A 	GB 	1,633 	22% 	44% 	10% 	2% 	6% 	13% 	3% 	22
+30 Apr – 1 May 	YouGov 	The Times 	GB 	2,010 	18% 	44% 	10% 	2% 	8% 	15% 	
+3%
+	26
+26–29 Apr 	Deltapoll 	N/A 	GB 	1,577 	24% 	44% 	8% 	3% 	5% 	12% 	
+3%
+	20
+19–29 Apr 	Labour Together 	N/A 	GB 	9,403 	22% 	44% 	10% 	3% 	6% 	13% 	
+3%
+	22
+28 Apr 	Redfield & Wilton 	N/A 	GB 	2,000 	22% 	45% 	9% 	3% 	6% 	14% 	2% 	23
+26–28 Apr 	More in Common 	N/A 	GB 	2,053 	24% 	43% 	11% 	3% 	6% 	11% 	2% 	19
+26–28 Apr 	Savanta 	The Telegraph 	GB 	2,144 	26% 	44% 	10% 	3% 	3% 	10% 	4% 	18
+25–26 Apr 	We Think 	N/A 	GB 	1,265 	22% 	44% 	9% 	3% 	6% 	13% 	3% 	22
+24–25 Apr 	Techne 	N/A 	GB 	1,642 	23% 	44% 	9% 	3% 	6% 	11% 	3% 	21
+23–25 Apr 	Survation 	N/A 	UK 	2,036 	26% 	44% 	9% 	3% 	4% 	10% 	5% 	18
+23–24 Apr 	YouGov 	The Times 	GB 	2,100 	20% 	45% 	9% 	3% 	7% 	13% 	
+3%
+	25
+22–23 Apr 	BMG 	The i 	GB 	1,500 	25% 	41% 	9% 	3% 	6% 	14% 	1% 	16
+19–22 Apr 	Deltapoll 	N/A 	GB 	1,525 	27% 	43% 	9% 	3% 	5% 	12% 	
+3%
+	16
+21 Apr 	Redfield & Wilton 	N/A 	GB 	2,000 	20% 	43% 	12% 	3% 	6% 	14% 	1% 	23
+19–21 Apr 	Savanta 	The Telegraph 	GB 	2,332 	27% 	43% 	9% 	2% 	4% 	10% 	4% 	16
+18–19 Apr 	We Think 	N/A 	GB 	1,266 	26% 	43% 	9% 	2% 	7% 	11% 	2% 	17
+17–19 Apr 	Opinium 	The Observer 	GB 	1,431 	25% 	41% 	10% 	2% 	7% 	13% 	
+3%
+	16
+17–18 Apr 	Survation 	N/A 	UK 	1,010 	26% 	44% 	11% 	3% 	4% 	8% 	4% 	18
+17–18 Apr 	Techne 	N/A 	GB 	1,640 	22% 	45% 	9% 	3% 	5% 	13% 	3% 	23
+16–17 Apr 	YouGov 	The Times 	GB 	2,048 	21% 	44% 	8% 	3% 	8% 	14% 	
+3%
+	23
+12–15 Apr 	Deltapoll 	N/A 	GB 	2,072 	25% 	45% 	9% 	3% 	5% 	11% 	4% 	20
+3–15 Apr 	Ipsos 	N/A 	GB 	1,072 	19% 	44% 	9% 	3% 	9% 	13% 	6% 	25
+14 Apr 	Redfield & Wilton 	N/A 	GB 	2,000 	22% 	44% 	9% 	3% 	6% 	15% 	1% 	22
+12–14 Apr 	Savanta 	The Telegraph 	GB 	2,221 	25% 	43% 	10% 	3% 	4% 	9% 	4% 	18
+11–12 Apr 	We Think 	N/A 	GB 	1,271 	24% 	44% 	9% 	2% 	6% 	11% 	1% 	20
+10–11 Apr 	Techne 	N/A 	GB 	1,630 	23% 	44% 	10% 	3% 	5% 	12% 	3% 	21
+10–11 Apr 	YouGov 	The Times 	GB 	2,044 	19% 	45% 	8% 	3% 	7% 	15% 	
+2%
+	26
+7 Apr 	Redfield & Wilton 	N/A 	GB 	2,000 	21% 	44% 	10% 	2% 	6% 	15% 	1% 	23
+5–7 Apr 	Savanta 	The Telegraph 	GB 	2,210 	27% 	42% 	10% 	3% 	4% 	10% 	4% 	15
+4–7 Apr 	JLPartners 	The Rest is Politics 	GB 	2,011 	24% 	42% 	10% 	4% 	5% 	13% 	2% 	18
+4–5 Apr 	We Think 	N/A 	GB 	1,280 	24% 	45% 	10% 	2% 	5% 	13% 	2% 	21
+3–5 Apr 	Opinium 	The Observer 	GB 	1,318 	25% 	41% 	10% 	3% 	8% 	11% 	
+2%
+	16
+4 Apr 	PeoplePolling 	GB News 	GB 	1,809 	19% 	45% 	9% 	4% 	8% 	14% 	1% 	26
+3–4 Apr 	Techne 	N/A 	GB 	1,638 	22% 	45% 	9% 	3% 	5% 	13% 	3% 	23
+2–3 Apr 	BMG 	The i 	GB 	1,530 	25% 	43% 	8% 	3% 	6% 	14% 	1% 	18
+2–3 Apr 	YouGov 	The Times 	GB 	2,004 	20% 	43% 	8% 	3% 	8% 	16% 	1% 	23
+31 Mar 	Redfield & Wilton 	N/A 	GB 	2,000 	22% 	46% 	10% 	3% 	5% 	14% 	2% 	24
+27–28 Mar 	Techne 	N/A 	GB 	1,641 	23% 	44% 	10% 	3% 	5% 	12% 	3% 	21
+27–28 Mar 	We Think 	N/A 	GB 	1,295 	25% 	44% 	10% 	3% 	5% 	10% 	3% 	19
+26–27 Mar 	YouGov 	The Times 	GB 	2,061 	21% 	40% 	10% 	3% 	8% 	16% 	
+3%
+	19
+25–27 Mar 	Savanta 	The Sun 	UK 	3,302 	24% 	45% 	10% 	3% 	3% 	12% 	4% 	21
+7–27 Mar 	YouGov (MRP)[a] 	The Times 	GB 	18,761 	24% 	41% 	12% 	— 	7% 	12% 	1% 	17
+23–24 Mar 	More in Common 	N/A 	GB 	1,966 	27% 	42% 	10% 	3% 	5% 	11% 	
+2%
+	15
+22–25 Mar 	Deltapoll 	N/A 	GB 	2,072 	26% 	44% 	9% 	3% 	6% 	11% 	2% 	18
+24 Mar 	Redfield & Wilton 	N/A 	GB 	2,000 	22% 	42% 	12% 	2% 	6% 	14% 	2% 	20
+22–24 Mar 	Savanta 	The Telegraph 	UK 	2,216 	24% 	44% 	10% 	3% 	4% 	11% 	4% 	20
+20–22 Mar 	Opinium 	The Observer 	UK 	1,874 	25% 	41% 	10% 	3% 	8% 	11% 	2% 	16
+21–22 Mar 	We Think 	N/A 	GB 	1,270 	24% 	47% 	10% 	2% 	6% 	11% 	2% 	23
+8–22 Mar 	Survation 	Best for Britain 	UK 	15,029 	26% 	45% 	10% 	3% 	4% 	9% 	3% 	19
+20–21 Mar 	Techne 	N/A 	GB 	1,632 	22% 	43% 	10% 	3% 	6% 	13% 	3% 	21
+19–20 Mar 	More in Common 	N/A 	GB 	2,027 	25% 	43% 	11% 	3% 	5% 	11% 	
+2%
+	18
+19–20 Mar 	YouGov 	The Times 	GB 	2,047 	19% 	44% 	9% 	3% 	8% 	15% 	
+2%
+	25
+15–18 Mar 	Deltapoll 	N/A 	GB 	2,072 	23% 	46% 	9% 	2% 	5% 	12% 	3% 	23
+17 Mar 	Redfield & Wilton 	N/A 	GB 	2,000 	21% 	47% 	8% 	3% 	6% 	14% 	1% 	26
+15–17 Mar 	Savanta 	The Telegraph 	UK 	2,133 	26% 	44% 	9% 	3% 	4% 	11% 	4% 	18
+14–15 Mar 	Labour Together 	N/A 	GB 	1,270 	24% 	42% 	10% 	3% 	7% 	— 	13% 	18
+14–15 Mar 	We Think 	N/A 	GB 	1,270 	25% 	43% 	10% 	2% 	6% 	12% 	2% 	18
+13–14 Mar 	Techne 	N/A 	GB 	1,624 	22% 	44% 	11% 	3% 	5% 	12% 	3% 	22
+11–14 Mar 	Survation 	N/A 	UK 	1,043 	26% 	45% 	11% 	2% 	3% 	8% 	5% 	19
+12–13 Mar 	YouGov 	The Times 	GB 	2,047 	20% 	44% 	9% 	3% 	7% 	14% 	
+3%
+	24
+8–11 Mar 	More in Common 	N/A 	GB 	2,027 	27% 	42% 	10% 	3% 	6% 	10% 	
+2%
+	15
+8–11 Mar 	Deltapoll 	N/A 	GB 	1,502 	27% 	44% 	10% 	2% 	4% 	11% 	2% 	17
+7–11 Mar 	Lord Ashcroft[b] 	N/A 	GB 	5,299 	23% 	45% 	6% 	3% 	8% 	11% 	5% 	22
+10 Mar 	Redfield & Wilton 	N/A 	GB 	2,000 	24% 	42% 	12% 	2% 	5% 	14% 	1% 	18
+8–10 Mar 	Savanta 	N/A 	GB 	2,032 	25% 	43% 	11% 	3% 	4% 	9% 	4% 	18
+7–8 Mar 	We Think 	N/A 	GB 	1,216 	24% 	43% 	9% 	3% 	6% 	13% 	2% 	19
+6–8 Mar 	Opinium 	The Observer 	UK 	2,054 	25% 	41% 	10% 	3% 	7% 	11% 	4% 	16
+7 Mar 	PeoplePolling 	GB News 	GB 	1,734 	18% 	46% 	10% 	4% 	7% 	13% 	
+2%
+	28
+6–7 Mar 	BMG 	The i 	GB 	1,541 	25% 	41% 	10% 	3% 	6% 	13% 	1% 	16
+6–7 Mar 	YouGov 	The Times 	GB 	2,053 	20% 	47% 	9% 	3% 	7% 	13% 	
+2%
+	27
+6–7 Mar 	Techne 	N/A 	UK 	1,640 	23% 	44% 	11% 	3% 	6% 	11% 	2% 	21
+1–4 Mar 	Deltapoll 	N/A 	GB 	1,500 	27% 	41% 	9% 	3% 	6% 	12% 	3% 	14
+3 Mar 	Redfield & Wilton 	N/A 	GB 	2,000 	23% 	43% 	10% 	3% 	6% 	13% 	2% 	20
+1–3 Mar 	Savanta 	N/A 	GB 	2,245 	27% 	44% 	10% 	3% 	4% 	8% 	4% 	17
+29 Feb – 1 Mar 	We Think 	N/A 	GB 	1,240 	23% 	47% 	9% 	3% 	5% 	10% 	3% 	24
+28 Feb – 1 Mar 	Opinium 	N/A 	UK 	2,050 	25% 	40% 	10% 	3% 	7% 	12% 	3% 	15
+29 Feb 	Rochdale by-election
+28–29 Feb 	YouGov 	The Times 	GB 	2,100 	20% 	46% 	7% 	3% 	7% 	14% 	
+2%
+	26
+28–29 Feb 	Techne 	N/A 	UK 	1,632 	23% 	44% 	10% 	3% 	7% 	10% 	3% 	21
+21–28 Feb 	Ipsos 	Evening Standard 	GB 	1,004 	20% 	47% 	9% 	4% 	8% 	8% 	2% 	27
+23–27 Feb 	More in Common 	N/A 	GB 	2,075 	28% 	43% 	10% 	3% 	5% 	9% 	1% 	15
+23–26 Feb 	Deltapoll 	N/A 	GB 	1,490 	23% 	44% 	11% 	3% 	5% 	10% 	3% 	21
+25 Feb 	Redfield & Wilton 	N/A 	GB 	2,000 	23% 	43% 	10% 	3% 	8% 	12% 	2% 	20
+23–25 Feb 	Savanta 	N/A 	GB 	2,097 	26% 	44% 	10% 	3% 	4% 	10% 	4% 	18
+21–23 Feb 	Opinium 	The Observer 	UK 	2,079 	27% 	42% 	10% 	3% 	7% 	10% 	1% 	15
+22–23 Feb 	We Think 	N/A 	GB 	1,243 	25% 	44% 	9% 	3% 	6% 	10% 	2% 	19
+21–22 Feb 	Techne 	N/A 	UK 	1,637 	24% 	44% 	10% 	3% 	6% 	10% 	3% 	20
+20–21 Feb 	YouGov 	The Times 	GB 	2,035 	20% 	46% 	9% 	4% 	7% 	13% 	
+2%
+	26
+16–19 Feb 	Deltapoll 	N/A 	GB 	1,519 	27% 	48% 	8% 	3% 	6% 	7% 	2% 	21
+18 Feb 	Redfield & Wilton 	N/A 	GB 	2,000 	23% 	46% 	9% 	3% 	6% 	11% 	1% 	23
+16–18 Feb 	Savanta 	N/A 	UK 	2,118 	28% 	42% 	10% 	3% 	4% 	8% 	5% 	14
+15–16 Feb 	We Think 	N/A 	GB 	1,246 	26% 	46% 	9% 	2% 	6% 	8% 	2% 	20
+14–16 Feb 	Opinium 	The Observer 	UK 	2,002 	27% 	43% 	10% 	3% 	7% 	9% 	2% 	16
+15 Feb 	Kingswood by-election and Wellingborough by-election
+14–15 Feb 	Techne 	N/A 	UK 	1,628 	23% 	42% 	11% 	3% 	7% 	11% 	3% 	19
+14–15 Feb 	YouGov 	The Times 	GB 	2,030 	24% 	44% 	9% 	3% 	8% 	11% 	
+1%
+	20
+13–15 Feb 	Survation 	N/A 	UK 	1,020 	29% 	44% 	9% 	3% 	3% 	7% 	4% 	15
+9–12 Feb 	YouGov 	WPI Strategy 	GB 	4,014 	22% 	45% 	9% 	3% 	7% 	12% 	2% 	23
+8–12 Feb 	Deltapoll 	N/A 	GB 	1,977 	27% 	45% 	8% 	3% 	4% 	10% 	2% 	18
+8–12 Feb 	Lord Ashcroft[b] 	N/A 	GB 	5,046 	27% 	43% 	7% 	3% 	8% 	10% 	3% 	16
+24 Jan – 12 Feb 	FindOutNow 	The Mirror 	GB 	18,151 	22% 	42% 	11% 	4% 	7% 	10% 	4% 	20
+11 Feb 	Redfield & Wilton 	N/A 	GB 	2,000 	21% 	46% 	11% 	3% 	5% 	12% 	2% 	25
+9–11 Feb 	Savanta 	N/A 	UK 	2,224 	29% 	41% 	11% 	3% 	3% 	8% 	4% 	12
+7–11 Feb 	More in Common 	N/A 	GB 	2,050 	29% 	40% 	11% 	3% 	6% 	10% 	1% 	11
+8–9 Feb 	We Think 	N/A 	GB 	1,171 	26% 	42% 	11% 	3% 	6% 	10% 	2% 	16
+6–9 Feb 	Opinium 	The Observer 	UK 	2,050 	25% 	43% 	11% 	2% 	7% 	10% 	3% 	18
+7–8 Feb 	Techne 	N/A 	UK 	1,639 	24% 	44% 	10% 	3% 	6% 	10% 	3% 	20
+7–8 Feb 	YouGov 	The Times 	GB 	2,029 	21% 	46% 	9% 	3% 	7% 	12% 	
+1%
+	25
+23 Jan – 7 Feb 	Whitestone Insight 	Lady McAlpine 	GB 	13,534 	20% 	42% 	10% 	3% 	8% 	13% 	
+3%
+	22
+3–5 Feb 	Redfield & Wilton 	N/A 	GB 	5,000 	23% 	44% 	11% 	3% 	5% 	12% 	1% 	21
+2–5 Feb 	Deltapoll 	N/A 	GB 	2,004 	27% 	43% 	10% 	3% 	5% 	9% 	3% 	16
+4 Feb 	Redfield & Wilton 	N/A 	GB 	2,000 	24% 	45% 	9% 	3% 	4% 	12% 	
+2%
+	21
+1–2 Feb 	We Think 	N/A 	GB 	1,283 	23% 	45% 	9% 	3% 	9% 	11% 	2% 	22
+31 Jan – 1 Feb 	Techne 	N/A 	UK 	1,634 	23% 	45% 	10% 	3% 	6% 	10% 	3% 	22
+30–31 Jan 	BMG 	The i 	GB 	1,505 	29% 	44% 	11% 	2% 	6% 	8% 	1% 	15
+30–31 Jan 	YouGov 	The Times 	GB 	2,008 	23% 	44% 	9% 	3% 	6% 	12% 	
+3%
+	21
+30–31 Jan 	Survation 	N/A 	UK 	810 	27% 	44% 	11% 	4% 	3% 	7% 	5% 	17
+26–31 Jan 	More in Common 	N/A 	GB 	3,113 	29% 	43% 	10% 	3% 	6% 	8% 	1% 	14
+29 Jan 	Redfield & Wilton 	N/A 	GB 	2,000 	22% 	45% 	11% 	3% 	6% 	12% 	
+1%
+	23
+26–29 Jan 	Deltapoll 	N/A 	GB 	2,064 	29% 	43% 	10% 	2% 	6% 	9% 	
+2%
+	14
+26–28 Jan 	Savanta 	N/A 	UK 	2,279 	27% 	46% 	10% 	2% 	3% 	9% 	4% 	19
+26 Jan 	We Think 	N/A 	GB 	1,264 	23% 	47% 	9% 	2% 	6% 	12% 	2% 	24
+23–26 Jan 	Opinium 	The Observer 	UK 	2,060 	27% 	42% 	10% 	3% 	6% 	10% 	1% 	15
+25 Jan 	PeoplePolling 	GB News 	GB 	1,648 	20% 	45% 	10% 	4% 	9% 	12% 	1% 	25
+24–25 Jan 	Techne 	N/A 	UK 	1,641 	24% 	44% 	10% 	3% 	7% 	9% 	3% 	20
+23–24 Jan 	YouGov 	The Times 	GB 	2,008 	20% 	47% 	8% 	4% 	6% 	13% 	
+2%
+	27
+17–23 Jan 	Ipsos 	Evening Standard 	GB 	1,003 	27% 	49% 	7% 	4% 	7% 	4% 	1% 	22
+19–22 Jan 	Deltapoll 	N/A 	GB 	2,176 	28% 	45% 	9% 	3% 	5% 	8% 	
+1%
+	17
+21 Jan 	Redfield & Wilton 	N/A 	GB 	2,000 	22% 	45% 	11% 	2% 	6% 	12% 	
+2%
+	23
+19–21 Jan 	Savanta 	N/A 	UK 	2,017 	29% 	43% 	10% 	3% 	4% 	8% 	4% 	14
+18–19 Jan 	We Think 	N/A 	GB 	1,163 	23% 	48% 	9% 	3% 	5% 	10% 	2% 	25
+17–18 Jan 	Techne 	N/A 	UK 	1,640 	25% 	43% 	11% 	3% 	6% 	9% 	3% 	18
+16–17 Jan 	YouGov 	The Times 	GB 	2,092 	20% 	47% 	8% 	3% 	7% 	12% 	2% 	27
+12–15 Jan 	Deltapoll 	N/A 	GB 	2,136 	28% 	44% 	10% 	3% 	6% 	7% 	
+2%
+	16
+11–15 Jan 	Lord Ashcroft[b] 	N/A 	GB 	5,149 	27% 	44% 	6% 	3% 	6% 	10% 	
+3%
+	17
+14 Jan 	Redfield & Wilton 	N/A 	GB 	2,000 	25% 	44% 	10% 	3% 	5% 	11% 	2% 	19
+12–14 Jan 	Savanta 	N/A 	UK 	2,148 	27% 	44% 	11% 	3% 	4% 	7% 	4% 	17
+11–12 Jan 	We Think 	N/A 	GB 	1,161 	23% 	45% 	11% 	3% 	5% 	11% 	2% 	22
+10–12 Jan 	Opinium 	The Observer 	UK 	2,050 	27% 	41% 	11% 	4% 	6% 	10% 	2% 	14
+10–11 Jan 	Techne 	N/A 	UK 	1,633 	24% 	44% 	10% 	3% 	6% 	10% 	3% 	20
+10–11 Jan 	YouGov 	The Times 	GB 	2,057 	22% 	45% 	9% 	3% 	8% 	10% 	2% 	23
+9–11 Jan 	More in Common 	Times Radio 	GB 	2,056 	27% 	42% 	10% 	3% 	8% 	9% 	0% 	15
+7 Jan 	Redfield & Wilton 	N/A 	GB 	2,000 	27% 	43% 	10% 	3% 	5% 	11% 	2% 	16
+5–7 Jan 	Savanta 	N/A 	UK 	2,268 	26% 	45% 	10% 	3% 	5% 	8% 	4% 	19
+4–5 Jan 	We Think 	N/A 	GB 	1,226 	25% 	47% 	9% 	2% 	5% 	10% 	2% 	22
+12 Dec – 4 Jan 	YouGov (MRP)[a] 	Conservative Britain Alliance[6] 	GB 	14,110 	26% 	39.5% 	12.5% 	3% 	7.5% 	9% 	2.5% 	13.5
+2–3 Jan 	YouGov 	The Times 	GB 	2,016 	22% 	46% 	10% 	3% 	7% 	9% 	2% 	24
+2023
+For political events during the year, see 2023 in United Kingdom politics and government and 2023 in the United Kingdom.
+Dates
+conducted 	Pollster 	Client 	Area 	Sample
+size 	Con 	Lab 	Lib Dems 	SNP 	Green 	Reform 	Others 	Lead
+					
+28–30 Dec 	We Think 	N/A 	GB 	1,181 	26% 	43% 	11% 	3% 	6% 	11% 	2% 	17
+22–29 Dec 	Deltapoll 	Daily Mirror 	GB 	1,642 	28% 	42% 	12% 	2% 	6% 	9% 	
+2%
+	14
+28 Dec 	PeoplePolling 	GB News 	GB 	1,987 	23% 	45% 	10% 	4% 	6% 	10% 	
+3%
+	22
+21–22 Dec 	We Think 	N/A 	GB 	1,177 	27% 	41% 	12% 	3% 	6% 	9% 	
+2%
+	14
+20–21 Dec 	Techne 	N/A 	UK 	1,646 	23% 	43% 	11% 	3% 	7% 	10% 	3% 	20
+19–20 Dec 	YouGov 	The Times 	GB 	2,052 	24% 	43% 	10% 	3% 	8% 	11% 	1% 	19
+15–18 Dec 	Survation 	N/A 	UK 	1,044 	28% 	45% 	10% 	2% 	2% 	8% 	4% 	17
+17 Dec 	Redfield & Wilton 	N/A 	GB 	2,000 	24% 	42% 	11% 	4% 	6% 	10% 	2% 	18
+15–17 Dec 	Savanta 	N/A 	UK 	2,286 	27% 	43% 	10% 	3% 	3% 	9% 	5% 	16
+14–15 Dec 	We Think 	N/A 	GB 	1,065 	25% 	46% 	10% 	3% 	5% 	9% 	2% 	21
+13–15 Dec 	Opinium 	The Observer 	GB 	1,426 	27% 	40% 	11% 	3% 	7% 	9% 	2% 	13
+13–14 Dec 	Techne 	N/A 	UK 	1,637 	22% 	44% 	12% 	3% 	7% 	9% 	3% 	22
+12–14 Dec 	More in Common 	N/A 	GB 	2,041 	28% 	42% 	11% 	4% 	6% 	8% 	2% 	15[c]
+12–13 Dec 	YouGov 	The Times 	GB 	2,018 	22% 	44% 	10% 	3% 	7% 	11% 	2% 	22
+8–11 Dec 	Deltapoll 	N/A 	GB 	1,005 	29% 	40% 	11% 	3% 	7% 	7% 	4% 	11
+10 Dec 	Redfield & Wilton 	N/A 	GB 	2,000 	25% 	43% 	13% 	2% 	5% 	11% 	1% 	18
+8–10 Dec 	Savanta 	N/A 	UK 	2,079 	26% 	43% 	10% 	3% 	4% 	9% 	4% 	17
+7–8 Dec 	We Think 	N/A 	GB 	1,201 	25% 	45% 	11% 	2% 	5% 	9% 	2% 	20
+6–7 Dec 	Techne 	N/A 	UK 	1,642 	22% 	45% 	12% 	3% 	7% 	8% 	3% 	23
+6–7 Dec 	YouGov 	The Times 	GB 	2,054 	22% 	45% 	10% 	3% 	7% 	11% 	2% 	23
+1–7 Dec 	Ipsos 	N/A 	GB 	1,006 	24% 	41% 	13% 	3% 	9% 	7% 	3% 	17
+1–4 Dec 	Deltapoll 	N/A 	GB 	1,000 	27% 	42% 	13% 	3% 	6% 	6% 	4% 	15
+30 Nov – 4 Dec 	More in Common 	N/A 	GB 	2,030 	29% 	41% 	12% 	3% 	6% 	8% 	2% 	12
+3 Dec 	Redfield & Wilton 	N/A 	GB 	2,000 	26% 	42% 	12% 	3% 	6% 	10% 	0% 	16
+1–3 Dec 	Savanta 	N/A 	UK 	2,086 	28% 	43% 	11% 	3% 	3% 	7% 	4% 	15
+30 Nov – 1 Dec 	We Think 	N/A 	GB 	1,123 	28% 	44% 	9% 	3% 	6% 	8% 	3% 	16
+29–30 Nov 	Techne 	N/A 	UK 	1,629 	23% 	45% 	11% 	3% 	7% 	8% 	3% 	22
+29–30 Nov 	YouGov 	The Times 	GB 	2,055 	22% 	45% 	9% 	4% 	7% 	10% 	1% 	23
+28–30 Nov 	BMG 	The i 	GB 	1,502 	27% 	43% 	10% 	2% 	5% 	11% 	2% 	16
+24–27 Nov 	More in Common 	Times Radio 	GB 	2,022 	28% 	44% 	10% 	3% 	5% 	8% 	2% 	16
+24–27 Nov 	Deltapoll 	N/A 	GB 	1,996 	28% 	42% 	11% 	3% 	6% 	7% 	2% 	14
+26 Nov 	Redfield & Wilton 	N/A 	GB 	2,000 	25% 	45% 	11% 	3% 	6% 	10% 	1% 	20
+24–26 Nov 	Savanta 	N/A 	UK 	2,266 	26% 	44% 	11% 	3% 	5% 	7% 	5% 	18
+23–24 Nov 	We Think 	N/A 	GB 	1,119 	26% 	44% 	12% 	3% 	6% 	8% 	1% 	18
+22–24 Nov 	Opinium 	The Observer 	GB 	1,453 	26% 	42% 	11% 	3% 	7% 	8% 	2% 	16
+22–23 Nov 	Techne 	N/A 	UK 	1,640 	21% 	46% 	12% 	3% 	7% 	8% 	3% 	25
+22–23 Nov 	YouGov 	The Times 	GB 	2,069 	25% 	44% 	10% 	4% 	7% 	9% 	2% 	19
+16–20 Nov 	Deltapoll 	N/A 	GB 	1,565 	27% 	44% 	10% 	3% 	6% 	6% 	
+4%
+	17
+19 Nov 	Redfield & Wilton 	N/A 	GB 	1,160 	24% 	43% 	14% 	4% 	5% 	7% 	1% 	19
+17–19 Nov 	Savanta 	N/A 	UK 	2,263 	27% 	44% 	11% 	3% 	5% 	7% 	4% 	17
+16–17 Nov 	We Think 	N/A 	GB 	1,160 	25% 	45% 	11% 	3% 	5% 	10% 	2% 	20
+15–17 Nov 	More in Common 	N/A 	GB 	2,031 	29% 	41% 	13% 	3% 	5% 	7% 	2% 	12
+15–17 Nov 	Opinium 	The Observer 	GB 	1,433 	27% 	40% 	12% 	3% 	6% 	9% 	3% 	13
+15–16 Nov 	Techne 	N/A 	UK 	1,632 	22% 	46% 	11% 	2% 	7% 	8% 	3% 	24
+14–15 Nov 	YouGov 	The Times 	GB 	2,480 	21% 	44% 	10% 	4% 	8% 	10% 	3% 	23
+14 Nov 	PeoplePolling 	GB News 	GB 	1,581 	19% 	49% 	9% 	3% 	7% 	11% 	
+3%
+	30
+13–14 Nov 	FindOutNow 	The Mirror 	GB 	2,026 	19% 	46% 	9% 	5% 	8% 	10% 	4% 	27
+10–13 Nov 	Deltapoll 	N/A 	GB 	1,840 	28% 	44% 	13% 	3% 	6% 	4% 	
+3%
+	16
+12 Nov 	Redfield & Wilton 	N/A 	GB 	2,000 	27% 	43% 	12% 	3% 	6% 	8% 	1% 	16
+10–12 Nov 	Savanta 	N/A 	UK 	2,230 	28% 	46% 	10% 	2% 	4% 	6% 	4% 	18
+9–10 Nov 	We Think 	N/A 	GB 	1,147 	24% 	48% 	9% 	3% 	6% 	8% 	2% 	24
+8–10 Nov 	Opinium 	The Observer 	GB 	1,433 	26% 	43% 	11% 	3% 	6% 	9% 	3% 	17
+8–9 Nov 	Techne 	N/A 	UK 	1,634 	25% 	46% 	10% 	2% 	7% 	7% 	3% 	21
+7–8 Nov 	YouGov 	The Times 	GB 	2,080 	23% 	47% 	10% 	3% 	7% 	8% 	1% 	24
+1–8 Nov 	Ipsos 	N/A 	GB 	1,001 	25% 	46% 	12% 	5% 	6% 	4% 	5% 	21
+31 Oct – 8 Nov 	Lord Ashcroft 	N/A 	GB 	2,518 	27% 	43% 	10% 	2% 	7% 	8% 	3% 	16
+3–6 Nov 	Deltapoll 	N/A 	GB 	1,021 	24% 	45% 	12% 	3% 	7% 	6% 	
+4%
+	21
+5 Nov 	Redfield & Wilton 	N/A 	GB 	2,000 	28% 	45% 	11% 	2% 	4% 	9% 	1% 	17
+3–5 Nov 	Savanta 	N/A 	UK 	1,021 	29% 	45% 	11% 	2% 	3% 	5% 	4% 	16
+2–3 Nov 	We Think 	N/A 	GB 	1,155 	27% 	45% 	10% 	3% 	5% 	9% 	1% 	18
+31 Oct – 3 Nov 	Survation 	UK Spirits Alliance 	GB 	12,188 	29% 	46% 	10% 	3% 	3% 	5% 	
+3%
+	17
+1–2 Nov 	Techne 	N/A 	UK 	1,635 	26% 	46% 	11% 	2% 	6% 	6% 	3% 	20
+28 Oct – 2 Nov 	More in Common 	N/A 	GB 	2,043 	28% 	44% 	10% 	3% 	7% 	7% 	1% 	16
+31 Oct – 1 Nov 	YouGov 	The Times 	GB 	2,193 	23% 	44% 	9% 	3% 	9% 	9% 	1% 	21
+31 Oct 	FindOutNow 	N/A 	GB 	2,461 	23% 	45% 	11% 	4% 	7% 	8% 	3% 	22
+27–30 Oct 	Deltapoll 	N/A 	GB 	1,546 	25% 	46% 	11% 	2% 	6% 	7% 	
+4%
+	21
+29 Oct 	Redfield & Wilton 	N/A 	GB 	2,000 	25% 	45% 	13% 	3% 	6% 	7% 	2% 	20
+27–29 Oct 	Savanta 	N/A 	UK 	2,043 	29% 	46% 	9% 	2% 	3% 	7% 	4% 	17
+26–27 Oct 	We Think 	N/A 	GB 	1,189 	26% 	46% 	10% 	3% 	6% 	7% 	3% 	20
+25–27 Oct 	Opinium 	The Observer 	GB 	1,433 	27% 	42% 	10% 	3% 	7% 	8% 	2% 	15
+25–26 Oct 	Techne 	N/A 	UK 	1,630 	25% 	46% 	11% 	3% 	5% 	7% 	3% 	21
+24–25 Oct 	YouGov 	The Times 	GB 	2,035 	24% 	48% 	9% 	4% 	5% 	8% 	2% 	24
+23 Oct 	PeoplePolling 	GB News 	GB 	1,906 	21% 	49% 	9% 	4% 	7% 	9% 	
+2%
+	28
+22 Oct 	Redfield & Wilton 	N/A 	GB 	2,000 	26% 	44% 	13% 	2% 	4% 	8% 	1% 	18
+20–22 Oct 	Savanta 	N/A 	UK 	2,279 	29% 	46% 	10% 	2% 	3% 	5% 	4% 	17
+19–20 Oct 	Deltapoll 	N/A 	GB 	1,036 	27% 	47% 	10% 	2% 	5% 	6% 	
+4%
+	20
+19–20 Oct 	We Think 	N/A 	GB 	1,185 	27% 	48% 	10% 	2% 	4% 	7% 	2% 	21
+19 Oct 	By-elections in Mid Bedfordshire and Tamworth
+18–19 Oct 	Techne 	N/A 	UK 	1,634 	26% 	45% 	11% 	3% 	6% 	6% 	3% 	19
+17–18 Oct 	YouGov 	The Times 	GB 	2,031 	25% 	47% 	9% 	3% 	7% 	7% 	2% 	22
+11–18 Oct 	Ipsos 	N/A 	GB 	1,003 	24% 	44% 	13% 	4% 	8% 	4% 	
+3%
+	20
+14–16 Oct 	More in Common 	N/A 	GB 	2,336 	30% 	42% 	12% 	3% 	6% 	7% 	1% 	12
+13–16 Oct 	Deltapoll 	N/A 	GB 	1,568 	27% 	47% 	10% 	2% 	6% 	5% 	
+3%
+	20
+15 Oct 	Redfield & Wilton 	N/A 	GB 	2,000 	29% 	43% 	14% 	1% 	4% 	7% 	2% 	14
+13–15 Oct 	Savanta 	N/A 	Uk 	2,258 	29% 	45% 	10% 	3% 	2% 	5% 	4% 	16
+12–13 Oct 	We Think 	N/A 	GB 	1,198 	28% 	44% 	9% 	3% 	6% 	7% 	2% 	16
+11–13 Oct 	Opinium 	The Observer 	GB 	1,461 	28% 	44% 	10% 	3% 	6% 	6% 	3% 	16
+11–12 Oct 	BMG 	The i 	GB 	1,591 	30% 	43% 	11% 	2% 	6% 	7% 	1% 	13
+11–12 Oct 	YouGov 	The Times 	GB 	2,067 	24% 	47% 	9% 	4% 	6% 	8% 	1% 	23
+11–12 Oct 	Techne 	N/A 	UK 	1,635 	26% 	46% 	10% 	3% 	6% 	6% 	3% 	20
+9 Oct 	Redfield & Wilton 	N/A 	GB 	2,000 	27% 	43% 	13% 	1% 	6% 	8% 	2% 	16
+26 Sep – 9 Oct 	Survation (MRP) 	UK Anti-corruption Coalition 	GB 	6,466 	29% 	47% 	11% 	3% 	3% 	4% 	
+3%
+	18
+6–8 Oct 	Savanta 	N/A 	UK 	2,000 	30% 	46% 	10% 	2% 	3% 	5% 	4% 	16
+5–7 Oct 	Deltapoll 	Mail on Sunday 	GB 	1,517 	28% 	43% 	12% 	3% 	6% 	7% 	
+1%
+	15
+6 Oct 	Opinium 	The Observer 	GB 	1,370 	29% 	42% 	11% 	3% 	6% 	6% 	2% 	13
+5–6 Oct 	We Think 	N/A 	GB 	1,261 	28% 	44% 	10% 	2% 	5% 	6% 	3% 	16
+5 Oct 	By-election in Rutherglen and Hamilton West
+4–5 Oct 	YouGov 	The Times 	GB 	2,062 	24% 	45% 	11% 	4% 	7% 	8% 	
+2%
+	21
+4–5 Oct 	BMG 	The i 	GB 	1,502 	30% 	44% 	10% 	2% 	7% 	6% 	1% 	14
+4–5 Oct 	Techne 	N/A 	UK 	1,624 	26% 	45% 	11% 	3% 	6% 	6% 	3% 	19
+29 Sep – 2 Oct 	Deltapoll 	N/A 	GB 	1,516 	26% 	44% 	12% 	3% 	6% 	5% 	
+4%
+	18
+1 Oct 	Redfield & Wilton 	N/A 	GB 	2,000 	29% 	43% 	12% 	3% 	4% 	7% 	1% 	14
+29 Sep – 1 Oct 	Savanta 	N/A 	UK 	2,129 	27% 	46% 	11% 	3% 	4% 	5% 	4% 	19
+28–29 Sep 	We Think 	N/A 	GB 	1,285 	27% 	47% 	10% 	3% 	5% 	7% 	1% 	20
+27–29 Sep 	Opinium 	The Observer 	GB 	1,993 	29% 	39% 	12% 	3% 	7% 	7% 	3% 	10
+26–27 Sep 	YouGov 	The Times 	GB 	2,066 	24% 	45% 	11% 	3% 	7% 	8% 	1% 	21
+26–27 Sep 	Techne 	N/A 	UK 	1,633 	27% 	45% 	10% 	3% 	6% 	6% 	3% 	18
+22–25 Sep 	Deltapoll 	N/A 	GB 	2,507 	28% 	44% 	10% 	4% 	6% 	5% 	
+3%
+	16
+11–25 Sep 	Survation 	38 Degrees 	GB 	11,793 	29% 	46% 	12% 	5% 	3% 	5% 	
+2%
+	17
+24 Sep 	Redfield & Wilton 	N/A 	GB 	2,000 	28% 	43% 	13% 	2% 	5% 	8% 	1% 	15
+22–24 Sep 	Savanta 		UK 	2,093 	30% 	44% 	11% 	2% 	4% 	5% 	4% 	14
+21–22 Sep 	YouGov 	The Times 	GB 	2,144 	27% 	43% 	10% 	4% 	7% 	8% 	2% 	16
+21–22 Sep 	We Think 	N/A 	GB 	1,268 	28% 	45% 	9% 	3% 	6% 	6% 	2% 	17
+20–21 Sep 	Techne 	N/A 	UK 	1,636 	26% 	45% 	11% 	3% 	7% 	5% 	3% 	19
+18–20 Sep 	More in Common 	N/A 	GB 	1,355 	28% 	43% 	12% 	3% 	6% 	7% 	0% 	15
+17 Sep 	Redfield & Wilton 	N/A 	GB 	2,000 	26% 	44% 	14% 	3% 	6% 	6% 	1% 	18
+15–17 Sep 	Savanta 	N/A 	UK 	2,255 	26% 	46% 	12% 	3% 	4% 	5% 	5% 	20
+14–15 Sep 	We Think 	N/A 	GB 	1,268 	27% 	44% 	11% 	3% 	6% 	7% 	2% 	17
+13–15 Sep 	Opinium 	The Observer 	GB 	1,414 	26% 	41% 	11% 	3% 	7% 	8% 	2% 	15
+13–14 Sep 	YouGov 	The Times 	GB 	2,049 	24% 	45% 	9% 	3% 	9% 	8% 	2% 	21
+11–15 Sep 	Deltapoll 	N/A 	GB 	2,039 	23% 	47% 	10% 	4% 	7% 	6% 	
+3%
+	24
+13–14 Sep 	Techne 	N/A 	UK 	1,634 	26% 	46% 	10% 	3% 	6% 	6% 	3% 	20
+9–12 Sep 	Ipsos 	N/A 	GB 	1,004 	24% 	44% 	12% 	4% 	8% 	4% 	3% 	20
+10 Sep 	Redfield & Wilton 	N/A 	GB 	2,000 	25% 	45% 	12% 	4% 	6% 	6% 	1% 	20
+7–8 Sep 	YouGov 	The Times 	GB 	2,107 	24% 	46% 	10% 	4% 	7% 	6% 	2% 	22
+7–8 Sep 	We Think 	N/A 	GB 	1,268 	26% 	46% 	9% 	3% 	6% 	6% 	3% 	20
+6–7 Sep 	Techne 	N/A 	UK 	1,627 	25% 	46% 	10% 	3% 	6% 	7% 	3% 	21
+1–4 Sep 	Deltapoll 	N/A 	GB 	2,009 	28% 	46% 	10% 	3% 	5% 	7% 	
+2%
+	18
+31 Aug – 4 Sep 	Kantar Public 	N/A 	GB 	1,146 	27% 	43% 	13% 	5% 	5% 	4% 	
+3%
+	15
+3 Sep 	Redfield & Wilton 	N/A 	GB 	2,000 	28% 	44% 	14% 	3% 	4% 	6% 	1% 	16
+1–3 Sep 	Savanta 	N/A 	UK 	2,223 	29% 	45% 	10% 	3% 	3% 	6% 	5% 	16
+31 Aug – 1 Sep 	Opinium 	The Observer 	GB 	1,400 	28% 	42% 	9% 	3% 	8% 	8% 	2% 	14
+31 Aug – 1 Sep 	We Think 	N/A 	GB 	1,294 	25% 	46% 	11% 	3% 	5% 	7% 	2% 	21
+18 Aug – 1 Sep 	Survation 	Greenpeace 	GB 	20,205 	29% 	46% 	11% 	3% 	3% 	4% 	
+4%
+	17
+30–31 Aug 	YouGov 	The Times 	GB 	2,103 	26% 	44% 	10% 	4% 	7% 	7% 	2% 	18
+30–31 Aug 	Techne 	N/A 	UK 	1,633 	24% 	45% 	11% 	3% 	6% 	8% 	3% 	21
+27 Aug 	Redfield & Wilton 	N/A 	GB 	2,000 	28% 	44% 	12% 	3% 	4% 	7% 	3% 	16
+25–27 Aug 	Savanta 	N/A 	UK 	2,159 	29% 	46% 	10% 	3% 	4% 	5% 	3% 	17
+24–25 Aug 	Deltapoll 	N/A 	GB 	1,061 	30% 	46% 	12% 	3% 	3% 	5% 	
+2%
+	16
+23–24 Aug 	We Think 	N/A 	GB 	1,356 	26% 	47% 	11% 	3% 	5% 	6% 	2% 	21
+22–23 Aug 	BMG 	The i 	GB 	1,338 	29% 	44% 	10% 	3% 	4% 	8% 	1% 	15
+22–23 Aug 	YouGov 	The Times 	GB 	2,106 	24% 	44% 	9% 	3% 	8% 	9% 	
+3%
+	20
+17–21 Aug 	Deltapoll 	N/A 	GB 	1,520 	25% 	50% 	9% 	3% 	7% 	4% 	
+3%
+	25
+20 Aug 	Redfield & Wilton 	N/A 	GB 	2,000 	27% 	42% 	13% 	3% 	6% 	7% 	1% 	15
+18 Aug 	Omnisis 	N/A 	GB 	1,315 	28% 	44% 	10% 	3% 	5% 	7% 	
+3%
+	16
+17–18 Aug 	YouGov 	The Times 	GB 	2,122 	26% 	45% 	10% 	3% 	8% 	7% 	
+2%
+	19
+16–18 Aug 	Opinium 	The Observer 	GB 	1,452 	26% 	41% 	11% 	3% 	7% 	9% 	
+3%
+	15
+14–16 Aug 	More in Common 	N/A 	GB 	2,052 	29% 	44% 	11% 	4% 	6% 	6% 	0% 	15
+13 Aug 	Redfield & Wilton 	N/A 	GB 	2,000 	28% 	48% 	10% 	4% 	4% 	5% 	0% 	20
+10–11 Aug 	Omnisis 	N/A 	GB 	1,345 	24% 	48% 	10% 	3% 	6% 	6% 	
+3%
+	24
+9–11 Aug 	Deltapoll 	Mail on Sunday 	GB 	1,504 	29% 	46% 	12% 	2% 	5% 	4% 	
+2%
+	17
+4–7 Aug 	Deltapoll 	N/A 	GB 	1,023 	26% 	47% 	12% 	3% 	4% 	4% 	
+4%
+	21
+6 Aug 	Redfield & Wilton 	N/A 	GB 	2,000 	27% 	45% 	10% 	3% 	6% 	8% 	1% 	18
+3–4 Aug 	Omnisis 	N/A 	GB 	1,420 	25% 	47% 	11% 	3% 	5% 	7% 	
+2%
+	22
+2–4 Aug 	Opinium 	The Observer 	GB 	1,484 	26% 	40% 	10% 	3% 	7% 	10% 	
+2%
+	14
+31 Jul – 4 Aug 	FindOutNow/Electoral Calculus 	Channel 4 News 	GB 	11,142 	24% 	44% 	12% 	4% 	8% 	6% 	
+3%
+	20
+2–3 Aug 	YouGov 	The Times 	GB 	2,313 	25% 	47% 	10% 	3% 	6% 	7% 	
+2%
+	22
+2–3 Aug 	Techne 	N/A 	UK 	1,624 	26% 	46% 	10% 	3% 	5% 	7% 	3% 	20
+28–31 Jul 	Deltapoll 	N/A 	GB 	1,556 	25% 	48% 	11% 	3% 	5% 	6% 	
+2%
+	23
+30 Jul 	Redfield & Wilton 	N/A 	GB 	2,000 	28% 	43% 	11% 	4% 	5% 	7% 	3% 	15
+28 Jul 	Omnisis 	N/A 	GB 	1,339 	25% 	48% 	10% 	3% 	6% 	6% 	
+2%
+	23
+26–27 Jul 	Techne 	N/A 	UK 	1,624 	25% 	45% 	10% 	3% 	6% 	8% 	3% 	20
+25–26 Jul 	BMG 	The i 	GB 	1,524 	27% 	44% 	14% 	3% 	4% 	7% 	2% 	17
+25–26 Jul 	YouGov 	The Times 	GB 	2,000 	25% 	45% 	10% 	3% 	7% 	7% 	
+2%
+	20
+21–24 Jul 	Deltapoll 	N/A 	GB 	1,482 	26% 	49% 	9% 	3% 	5% 	4% 	
+4%
+	23
+23 Jul 	Redfield & Wilton 	N/A 	GB 	2,000 	28% 	45% 	14% 	2% 	4% 	6% 	1% 	17
+21–23 Jul 	Savanta 	N/A 	UK 	2,240 	28% 	47% 	10% 	3% 	3% 	4% 	
+4%
+	19
+19–23 Jul 	Ipsos 	Evening Standard 	GB 	1,065 	28% 	45% 	12% 	3% 	6% 	3% 	
+3%
+	17
+20–21 Jul 	Omnisis 	N/A 	GB 	1,380 	25% 	47% 	10% 	3% 	5% 	7% 	
+2%
+	22
+19–21 Jul 	Opinium 	The Observer 	GB 	1,468 	25% 	42% 	11% 	3% 	6% 	10% 	
+3%
+	17
+20 Jul 	By-elections in Selby and Ainsty, Somerton and Frome, and Uxbridge and South Ruislip
+19–20 Jul 	Techne 	N/A 	UK 	1,632 	26% 	45% 	11% 	3% 	5% 	7% 	3% 	19
+19–20 Jul 	YouGov 	The Times 	GB 	2,069 	25% 	44% 	10% 	3% 	7% 	8% 	
+3%
+	19
+18 Jul 	More in Common 	N/A 	GB 	1,584 	29% 	44% 	12% 	4% 	5% 	5% 	1% 	15
+14–17 Jul 	Deltapoll 	N/A 	GB 	1,000 	24% 	48% 	11% 	3% 	5% 	6% 	
+3%
+	24
+16 Jul 	Redfield & Wilton 	N/A 	GB 	2,000 	27% 	44% 	13% 	3% 	4% 	8% 	1% 	17
+14–16 Jul 	Savanta 	N/A 	UK 	2,265 	28% 	46% 	11% 	3% 	3% 	5% 	
+4%
+	18
+13–14 Jul 	Omnisis 	N/A 	GB 	1,361 	25% 	47% 	10% 	3% 	5% 	6% 	
+3%
+	22
+12–13 Jul 	Techne 	N/A 	UK 	1,628 	26% 	46% 	11% 	3% 	5% 	6% 	3% 	20
+10–11 Jul 	YouGov 	The Times 	GB 	2,015 	25% 	43% 	11% 	4% 	7% 	9% 	
+3%
+	18
+7–10 Jul 	Deltapoll 	N/A 	GB 	1,617 	28% 	46% 	9% 	4% 	7% 	4% 	
+3%
+	18
+9 Jul 	Redfield & Wilton 	N/A 	GB 	2,000 	27% 	48% 	11% 	4% 	3% 	5% 	1% 	21
+7–9 Jul 	Survation 	N/A 	UK 	838 	28% 	46% 	12% 	3% 	3% 	4% 	
+5%
+	18
+7–9 Jul 	Savanta 	N/A 	UK 	2,242 	30% 	45% 	10% 	3% 	3% 	5% 	4% 	15
+6–7 Jul 	Omnisis 	N/A 	GB 	1,312 	25% 	51% 	8% 	3% 	5% 	5% 	
+2%
+	26
+5–7 Jul 	Opinium 	The Observer 	GB 	1,473 	28% 	43% 	9% 	3% 	6% 	8% 	
+3%
+	15
+5–6 Jul 	YouGov 	The Times 	GB 	2,062 	22% 	47% 	9% 	3% 	7% 	9% 	
+3%
+	25
+5–6 Jul 	Techne 	N/A 	UK 	1,632 	26% 	47% 	10% 	3% 	5% 	6% 	3% 	21
+29 Jun – 3 Jul 	Deltapoll 	N/A 	GB 	1,507 	25% 	48% 	10% 	4% 	5% 	5% 	
+3%
+	23
+2 Jul 	Redfield & Wilton 	N/A 	GB 	2,000 	28% 	46% 	11% 	3% 	5% 	5% 	2% 	18
+30 Jun – 2 Jul 	Survation 	N/A 	UK 	1,013 	30% 	45% 	11% 	3% 	3% 	3% 	
+6%
+	15
+30 Jun – 2 Jul 	Savanta 	N/A 	UK 	2,216 	28% 	46% 	11% 	3% 	4% 	4% 	4% 	18
+29–30 Jun 	Omnisis 	N/A 	GB 	1,351 	26% 	48% 	8% 	4% 	5% 	7% 	
+2%
+	22
+28–29 Jun 	Techne 	N/A 	UK 	1,631 	27% 	46% 	11% 	3% 	5% 	6% 	2% 	19
+27–29 Jun 	BMG 	The i 	GB 	1,500 	29% 	43% 	11% 	3% 	7% 	6% 	
+1%
+	14
+27–28 Jun 	YouGov 	The Times 	GB 	2,047 	24% 	46% 	10% 	3% 	7% 	8% 	
+3%
+	22
+23–26 Jun 	Survation 	N/A 	UK 	2,054 	28% 	45% 	11% 	3% 	3% 	4% 	
+5%
+	17
+23–26 Jun 	Deltapoll 	N/A 	GB 	1,089 	24% 	47% 	12% 	4% 	4% 	7% 	
+1%
+	23
+25 Jun 	Redfield & Wilton 	N/A 	GB 	2,000 	26% 	44% 	13% 	3% 	5% 	6% 	3% 	18
+23–25 Jun 	Savanta 	TBA 	UK 	2,322 	31% 	43% 	10% 	4% 	3% 	5% 	4% 	12
+22–23 Jun 	Omnisis 	N/A 	GB 	1,336 	27% 	47% 	9% 	3% 	6% 	6% 	
+2%
+	20
+21–23 Jun 	Opinium 	The Observer 	GB 	2,063 	26% 	44% 	8% 	2% 	7% 	10% 	
+3%
+	18
+21–22 Jun 	Techne 	N/A 	UK 	1,629 	29% 	45% 	10% 	3% 	5% 	5% 	3% 	16
+20–21 Jun 	YouGov 	The Times 	GB 	2,294 	22% 	47% 	11% 	3% 	8% 	7% 	
+3%
+	25
+14–20 Jun 	Ipsos 	Evening Standard 	GB 	1,033 	25% 	47% 	13% 	3% 	8% 	3% 	
+2%
+	22
+16–19 Jun 	Deltapoll 	N/A 	GB 	1,554 	27% 	46% 	10% 	4% 	6% 	5% 	
+1%
+	19
+15–19 Jun 	Survation 	N/A 	UK 	1,007 	29% 	47% 	11% 	3% 	3% 	3% 	
+4%
+	18
+15–19 Jun 	More in Common 	N/A 	GB 	1,570 	28% 	47% 	10% 	4% 	5% 	6% 	1% 	19
+18 Jun 	Redfield & Wilton 	N/A 	GB 	2,000 	26% 	46% 	12% 	3% 	6% 	7% 	1% 	20
+16–18 Jun 	Savanta 	N/A 	UK 	2,196 	28% 	46% 	11% 	3% 	3% 	4% 	5% 	18
+15–16 Jun 	YouGov 	The Times 	GB 	2,072 	24% 	43% 	11% 	4% 	8% 	7% 	
+3%
+	19
+15–16 Jun 	Omnisis 	N/A 	GB 	1,306 	26% 	48% 	10% 	3% 	6% 	5% 	
+2%
+	22
+14–15 Jun 	Techne 	N/A 	UK 	1,625 	28% 	44% 	11% 	3% 	5% 	6% 	3% 	16
+9–12 Jun 	Deltapoll 	N/A 	GB 	1,084 	31% 	42% 	12% 	4% 	4% 	4% 	
+2%
+	11
+11 Jun 	Redfield & Wilton 	N/A 	GB 	2,000 	30% 	44% 	13% 	3% 	4% 	6% 	1% 	14
+9–11 Jun 	Savanta 	N/A 	UK 	2,030 	28% 	45% 	9% 	4% 	4% 	6% 	4% 	17
+2–11 Jun 	YouGov 	Times Radio 	GB 	9,903 	26% 	44% 	10% 	4% 	7% 	7% 	
+3%
+	18
+7–9 Jun 	Opinium 	The Observer 	GB 	2,107 	29% 	41% 	11% 	3% 	7% 	6% 	
+3%
+	12
+8–9 Jun 	Omnisis 	N/A 	GB 	1,296 	27% 	47% 	10% 	3% 	5% 	6% 	
+3%
+	20
+7–8 Jun 	Techne 	N/A 	UK 	1,632 	29% 	42% 	12% 	3% 	6% 	5% 	3% 	13
+6–7 Jun 	YouGov 	The Times 	GB 	2,071 	26% 	42% 	11% 	4% 	8% 	7% 	
+3%
+	16
+2–5 Jun 	Deltapoll 	N/A 	GB 	1,525 	29% 	43% 	13% 	3% 	5% 	5% 	
+3%
+	14
+4 Jun 	Redfield & Wilton 	N/A 	GB 	2,000 	30% 	44% 	12% 	3% 	5% 	5% 	1% 	14
+2–4 Jun 	Savanta 	N/A 	UK 	2,109 	30% 	44% 	11% 	3% 	3% 	5% 	3% 	14
+1–2 Jun 	Omnisis 	N/A 	GB 	1,351 	25% 	46% 	10% 	3% 	7% 	6% 	
+3%
+	21
+31 May – 1 Jun 	Techne 	N/A 	UK 	1,630 	29% 	43% 	12% 	3% 	6% 	4% 	3% 	14
+30–31 May 	YouGov 	The Times 	GB 	2,000 	25% 	44% 	11% 	3% 	7% 	6% 	
+3%
+	19
+30–31 May 	BMG 	The i 	GB 	1,529 	27% 	44% 	10% 	4% 	7% 	7% 	
+2%
+	17
+28 May 	Redfield & Wilton 	N/A 	GB 	2,000 	28% 	43% 	12% 	3% 	7% 	5% 	3% 	15
+26–28 May 	Savanta 	N/A 	UK 	2,223 	31% 	44% 	9% 	3% 	3% 	5% 	5% 	13
+25–26 May 	YouGov 	The Times 	GB 	2,072 	25% 	43% 	11% 	4% 	7% 	7% 	
+3%
+	18
+25–26 May 	Omnisis 	N/A 	GB 	1,361 	28% 	47% 	10% 	3% 	5% 	5% 	
+2%
+	19
+23–26 May 	Opinium 	The Observer 	GB 	2,062 	28% 	43% 	9% 	3% 	7% 	6% 	
+4%
+	15
+24–25 May 	Techne 	N/A 	UK 	1,625 	30% 	44% 	11% 	3% 	5% 	4% 	3% 	14
+19–22 May 	Deltapoll[permanent dead link] 	N/A 	GB 	1,575 	30% 	47% 	9% 	4% 	4% 	4% 	
+1%
+	17
+18–22 May 	Kantar Public 	N/A 	GB 	1,143 	29% 	42% 	11% 	4% 	5% 	5% 	
+4%
+	13
+21 May 	Redfield & Wilton 	N/A 	GB 	2,000 	30% 	42% 	13% 	4% 	4% 	5% 	2% 	12
+19–21 May 	Savanta 	N/A 	UK 	2,043 	30% 	46% 	9% 	3% 	3% 	5% 	4% 	16
+18 May 	Local elections in Northern Ireland[7]
+17–18 May 	YouGov 	The Times 	GB 	2,006 	25% 	43% 	12% 	3% 	8% 	6% 	
+3%
+	18
+17–18 May 	Omnisis 	N/A 	GB 	1,389 	25% 	47% 	10% 	3% 	5% 	6% 	
+2%
+	22
+17–18 May 	Techne 	N/A 	UK 	1,633 	29% 	45% 	10% 	3% 	4% 	5% 	3% 	16
+10–16 May 	Ipsos 	Evening Standard 	GB 	1,006 	28% 	44% 	13% 	4% 	6% 	2% 	4% 	16
+12–15 May 	More in Common 	N/A 	GB 	2,017 	31% 	42% 	13% 	3% 	5% 	5% 	2% 	11
+12–15 May 	Deltapoll 	N/A 	GB 	1,511 	29% 	45% 	12% 	3% 	4% 	5% 	
+3%
+	16
+14 May 	Redfield & Wilton 	N/A 	GB 	2,000 	28% 	42% 	11% 	4% 	5% 	8% 	2% 	14
+12–14 May 	Savanta 	N/A 	UK 	2,214 	29% 	46% 	9% 	3% 	3% 	5% 	4% 	17
+11–12 May 	Omnisis 	N/A 	GB 	1,355 	24% 	51% 	10% 	3% 	4% 	6% 	
+4%
+	27
+10–12 May 	Opinium 	The Observer 	GB 	2,050 	29% 	43% 	11% 	3% 	5% 	6% 	
+3%
+	14
+10–11 May 	Techne 	N/A 	UK 	1,625 	28% 	45% 	11% 	3% 	5% 	5% 	3% 	17
+9–10 May 	YouGov 	The Times 	GB 	2,001 	25% 	43% 	11% 	3% 	8% 	7% 	
+2%
+	18
+5–9 May 	Deltapoll 	N/A 	GB 	1,550 	28% 	47% 	9% 	3% 	5% 	5% 	
+3%
+	19
+7 May 	Redfield & Wilton 	N/A 	GB 	2,000 	29% 	41% 	16% 	3% 	4% 	5% 	1% 	12
+5–7 May 	Savanta 	N/A 	UK 	2,168 	30% 	46% 	9% 	4% 	3% 	5% 	4% 	16
+4–5 May 	Omnisis 	N/A 	GB 	1,355 	27% 	48% 	7% 	4% 	6% 	6% 	
+1%
+	21
+4 May 	Local elections in England[8]
+3–4 May 	BMG 	The i 	GB 	1,534 	29% 	43% 	11% 	3% 	6% 	5% 	
+3%
+	14
+3–4 May 	YouGov 	The Times 	GB 	2,012 	26% 	43% 	10% 	4% 	7% 	6% 	
+4%
+	17
+2–3 May 	Techne 	N/A 	UK 	1,632 	29% 	44% 	11% 	3% 	5% 	6% 	3% 	15
+28 Apr – 2 May 	Deltapoll 	N/A 	GB 	1,561 	29% 	44% 	11% 	4% 	4% 	4% 	
+4%
+	15
+30 Apr 	Redfield & Wilton 	N/A 	GB 	2,000 	28% 	45% 	12% 	2% 	4% 	7% 	1% 	17
+28–30 Apr 	Savanta 	N/A 	UK 	2,241 	31% 	44% 	9% 	4% 	3% 	5% 	4% 	13
+26–28 Apr 	Opinium 	The Observer 	GB 	1,425 	26% 	44% 	10% 	3% 	7% 	7% 	
+2%
+	18
+24–28 Apr 	Survation 	Good Morning Britain 	UK 	2,014 	28% 	45% 	12% 	3% 	4% 	3% 	
+6%
+	17
+26–27 Apr 	Omnisis 	N/A 	GB 	1,352 	28% 	45% 	10% 	4% 	6% 	6% 	
+2%
+	17
+26–27 Apr 	YouGov 	The Times 	GB 	2,111 	27% 	41% 	11% 	4% 	7% 	7% 	
+3%
+	14
+26–27 Apr 	Techne 	N/A 	UK 	1,627 	30% 	44% 	9% 	3% 	5% 	6% 	3% 	14
+24–26 Apr 	Deltapoll 	N/A 	GB 	1,576 	30% 	43% 	9% 	4% 	5% 	5% 	
+4%
+	13
+23 Apr 	Redfield & Wilton 	N/A 	GB 	2,000 	29% 	44% 	11% 	3% 	5% 	6% 	1% 	15
+21–23 Apr 	Savanta 	N/A 	UK 	2,156 	31% 	42% 	9% 	3% 	3% 	7% 	5% 	11
+20 Apr 	Techne 	N/A 	UK 	1,626 	31% 	44% 	10% 	3% 	5% 	5% 	3% 	13
+19–20 Apr 	Omnisis 	N/A 	GB 	1,318 	27% 	47% 	7% 	4% 	6% 	7% 	
+3%
+	20
+18–19 Apr 	YouGov 	The Times 	GB 	2,010 	28% 	43% 	10% 	2% 	6% 	7% 	
+3%
+	15
+13–17 Apr 	Deltapoll 	N/A 	GB 	1,567 	29% 	43% 	10% 	4% 	5% 	4% 	
+4%
+	14
+16 Apr 	Redfield & Wilton 	N/A 	GB 	2,000 	32% 	44% 	10% 	4% 	4% 	4% 	1% 	12
+14–16 Apr 	Savanta 	N/A 	UK 	2,237 	31% 	45% 	8% 	3% 	3% 	5% 	4% 	14
+12–14 Apr 	Opinium 	The Observer 	GB 	1,370 	28% 	42% 	10% 	3% 	6% 	8% 	
+3%
+	14
+12–13 Apr 	Techne 	N/A 	UK 	1,630 	30% 	45% 	10% 	3% 	4% 	6% 	3% 	15
+12–13 Apr 	YouGov 	The Times 	GB 	2,010 	27% 	45% 	10% 	3% 	5% 	6% 	
+3%
+	18
+12–13 Apr 	Omnisis 	N/A 	GB 	1,340 	25% 	48% 	9% 	4% 	5% 	7% 	
+2%
+	23
+6–11 Apr 	More in Common 	N/A 	GB 	2,046 	30% 	44% 	10% 	3% 	6% 	5% 	2% 	14
+9 Apr 	Redfield & Wilton 	N/A 	GB 	2,000 	30% 	44% 	10% 	3% 	5% 	6% 	2% 	14
+5–6 Apr 	Omnisis 	N/A 	UK 	1,328 	26% 	46% 	10% 	3% 	5% 	7% 	
+2%
+	20
+5–6 Apr 	Opinium 	The Observer 	GB 	2,081 	30% 	41% 	10% 	3% 	5% 	7% 	
+4%
+	11
+5–6 Apr 	Techne 	N/A 	UK 	1,629 	30% 	45% 	9% 	3% 	5% 	5% 	2% 	15
+5–6 Apr 	YouGov 	The Times 	GB 	2,042 	27% 	44% 	9% 	4% 	7% 	6% 	
+3%
+	17
+31 Mar – 3 Apr 	Deltapoll 	N/A 	GB 	1,587 	27% 	48% 	9% 	4% 	4% 	5% 	
+4%
+	21
+2 Apr 	Redfield & Wilton 	N/A 	GB 	2,000 	28% 	45% 	12% 	4% 	4% 	5% 	2% 	17
+31 Mar – 2 Apr 	Savanta 	N/A 	UK 	2,149 	29% 	45% 	10% 	3% 	3% 	5% 	
+5%
+	16
+29 Mar – 2 Apr 	Survation 	N/A 	UK 	1,009 	29% 	46% 	8% 	4% 	3% 	5% 	
+6%
+	17
+29–31 Mar 	Opinium 	The Observer 	GB 	2,050 	29% 	44% 	9% 	3% 	5% 	7% 	
+3%
+	15
+29–30 Mar 	YouGov 	The Times 	GB 	2,002 	26% 	46% 	9% 	3% 	7% 	7% 	
+2%
+	20
+29–30 Mar 	Techne 	N/A 	UK 	1,633 	30% 	46% 	9% 	3% 	4% 	5% 	3% 	16
+29 Mar 	PeoplePolling 	GB News 	GB 	1,209 	24% 	42% 	9% 	5% 	7% 	8% 	
+6%
+	18
+28–29 Mar 	Omnisis 	N/A 	GB 	1,344 	27% 	50% 	9% 	3% 	4% 	6% 	
+2%
+	23
+27–29 Mar 	Humza Yousaf becomes leader of the SNP and then First Minister of Scotland
+22–29 Mar 	Ipsos 	Evening Standard 	UK 	1,004 	26% 	49% 	11% 	5% 	6% 	2% 	
+1%
+	23
+24–27 Mar 	Deltapoll 	N/A 	GB 	1,569 	30% 	45% 	10% 	4% 	4% 	4% 	
+4%
+	15
+26 Mar 	Redfield & Wilton 	N/A 	GB 	2,000 	27% 	46% 	10% 	3% 	4% 	8% 	2% 	19
+24–26 Mar 	Savanta 	N/A 	UK 	2,097 	29% 	45% 	9% 	4% 	3% 	4% 	
+5%
+	16
+23–24 Mar 	Omnisis 	N/A 	GB 	1,382 	29% 	44% 	10% 	3% 	5% 	6% 	
+2%
+	15
+23–24 Mar 	Survation 	N/A 	UK 	831 	31% 	45% 	8% 	4% 	3% 	4% 	
+5%
+	14
+22–23 Mar 	Techne 	N/A 	UK 	1,624 	31% 	46% 	8% 	4% 	4% 	5% 	2% 	15
+22 Mar 	PeoplePolling 	GB News 	UK 	1,175 	22% 	43% 	10% 	4% 	8% 	9% 	
+5%
+	21
+21–22 Mar 	YouGov 	The Times 	GB 	2,026 	23% 	49% 	10% 	3% 	6% 	6% 	
+3%
+	26
+17–20 Mar 	Survation 	N/A 	UK 	812 	31% 	46% 	8% 	4% 	2% 	4% 	
+5%
+	15
+17–20 Mar 	Deltapoll 	N/A 	GB 	1,054 	35% 	45% 	7% 	4% 	4% 	3% 	
+2%
+	10
+19 Mar 	Redfield & Wilton 	N/A 	GB 	2,000 	26% 	47% 	11% 	4% 	6% 	5% 	2% 	21
+17–19 Mar 	Savanta 	N/A 	UK 	2,175 	31% 	45% 	9% 	3% 	3% 	4% 	
+5%
+	14
+16–17 Mar 	PeoplePolling 	GB News 	UK 	1,289 	20% 	45% 	9% 	5% 	13% 	6% 	
+3%
+	25
+15–17 Mar 	Opinium 	The Observer 	GB 	2,000 	29% 	44% 	8% 	3% 	6% 	7% 	
+3%
+	15
+15–16 Mar 	YouGov 	The Times 	GB 	2,155 	27% 	46% 	9% 	4% 	6% 	6% 	
+2%
+	19
+15–16 Mar 	BMG 	N/A 	GB 	1,546 	29% 	46% 	8% 	4% 	4% 	6% 	
+3%
+	17
+15–16 Mar 	Techne 	N/A 	UK 	1,632 	30% 	47% 	8% 	3% 	4% 	5% 	2% 	17
+15 Mar 	Omnisis 	N/A 	UK 	1,126 	25% 	46% 	6% 	3% 	7% 	9% 	
+3%
+	21
+13–15 Mar 	Survation 	N/A 	UK 	1,011 	32% 	48% 	8% 	3% 	2% 	3% 	
+5%
+	16
+10–13 Mar 	Deltapoll 	N/A 	GB 	1,561 	27% 	50% 	9% 	3% 	4% 	4% 	
+3%
+	23
+12 Mar 	Redfield & Wilton 	N/A 	GB 	2,000 	27% 	48% 	11% 	3% 	5% 	6% 	1% 	21
+10–12 Mar 	Savanta 	N/A 	UK 	2,093 	30% 	45% 	9% 	3% 	3% 	5% 	
+5%
+	15
+8–10 Mar 	Opinium 	N/A 	GB 	2,000 	29% 	44% 	8% 	3% 	5% 	8% 	
+4%
+	15
+8–9 Mar 	Omnisis 	N/A 	GB 	1,323 	26% 	50% 	7% 	4% 	5% 	6% 	
+2%
+	24
+8–9 Mar 	Techne 	N/A 	UK 	1,624 	29% 	46% 	9% 	3% 	5% 	6% 	2% 	17
+8 Mar 	PeoplePolling 	GB News 	UK 	1,158 	23% 	42% 	8% 	4% 	10% 	7% 	
+6%
+	19
+7–8 Mar 	YouGov 	The Times 	GB 	2,049 	23% 	45% 	10% 	4% 	7% 	7% 	
+3%
+	22
+2–6 Mar 	Deltapoll[permanent dead link] 	N/A 	GB 	1,630 	31% 	47% 	8% 	4% 	5% 	4% 	
+1%
+	16
+5 Mar 	Redfield & Wilton 	N/A 	GB 	2,000 	24% 	50% 	9% 	3% 	5% 	7% 	1% 	26
+3–5 Mar 	Savanta 	N/A 	UK 	2,138 	32% 	43% 	9% 	4% 	3% 	5% 	
+5%
+	11
+2–3 Mar 	Survation 	N/A 	UK 	870 	29% 	45% 	10% 	3% 	3% 	4% 	
+6%
+	16
+1–3 Mar 	FindOutNow/Electoral Calculus 	Daily Telegraph 	GB 	1,487 	25% 	48% 	9% 	4% 	6% 	5% 	
+2%
+	23
+1–3 Mar 	Opinium 	Headlands Consultancy 	GB 	3,000 	30% 	42% 	9% 	3% 	6% 	8% 	
+4%
+	12
+1–3 Mar 	Opinium 	The Observer 	GB 	1,419 	27% 	44% 	7% 	3% 	7% 	8% 	
+3%
+	17
+2–3 Mar 	Omnisis 	N/A 	GB 	1,284 	26% 	45% 	11% 	4% 	6% 	6% 	
+2%
+	19
+1–2 Mar 	Techne 	N/A 	UK 	1,625 	29% 	47% 	8% 	3% 	5% 	6% 	2% 	18
+1 Mar 	PeoplePolling 	GB News 	UK 	1,158 	24% 	45% 	9% 	5% 	8% 	7% 	
+4%
+	21
+28 Feb – 1 Mar 	YouGov 	The Times 	GB 	2,073 	25% 	47% 	10% 	4% 	5% 	6% 	
+3%
+	22
+22 Feb – 1 Mar 	Ipsos 	Evening Standard 	UK 	1,004 	25% 	51% 	9% 	5% 	5% 	3% 	
+1%
+	26
+24–27 Feb 	Deltapoll 	N/A 	GB 	1,060 	31% 	46% 	8% 	3% 	4% 	5% 	
+3%
+	15
+26 Feb 	Redfield & Wilton 	N/A 	GB 	2,000 	24% 	51% 	9% 	3% 	5% 	7% 	1% 	27
+24–26 Feb 	Savanta 	N/A 	UK 	2,224 	29% 	44% 	9% 	4% 	3% 	6% 	
+5%
+	15
+22–23 Feb 	Omnisis 	N/A 	GB 	1,248 	24% 	48% 	10% 	4% 	5% 	8% 	
+1%
+	24
+22–23 Feb 	Techne 	N/A 	UK 	1,633 	27% 	49% 	8% 	3% 	5% 	5% 	3% 	22
+21–23 Feb 	BMG 	N/A 	GB 	1,500 	29% 	46% 	9% 	4% 	4% 	6% 	
+2%
+	17
+22 Feb 	PeoplePolling 	GB News 	UK 	1,192 	20% 	46% 	7% 	5% 	8% 	9% 	
+6%
+	26
+21–22 Feb 	YouGov 	The Times 	GB 	2,003 	23% 	46% 	9% 	4% 	7% 	8% 	
+3%
+	23
+17–20 Feb 	Deltapoll 	N/A 	GB 	1,079 	28% 	50% 	9% 	4% 	3% 	2% 	
+3%
+	22
+16–20 Feb 	Kantar Public 	N/A 	GB 	1,120 	28% 	45% 	9% 	5% 	7% 	5% 	
+1%
+	17
+17–19 Feb 	Savanta 	N/A 	UK 	2,103 	31% 	45% 	9% 	3% 	3% 	4% 	
+4%
+	14
+18 Feb 	Redfield & Wilton 	N/A 	GB 	2,000 	24% 	51% 	10% 	3% 	5% 	6% 	1% 	27
+15–17 Feb 	Opinium 	The Observer 	GB 	1,451 	28% 	44% 	9% 	4% 	6% 	7% 	2% 	16
+15–16 Feb 	Omnisis 	N/A 	GB 	1,259 	25% 	48% 	10% 	3% 	5% 	7% 	
+1%
+	23
+15–16 Feb 	Techne 	N/A 	UK 	1,631 	27% 	48% 	8% 	3% 	5% 	6% 	3% 	21
+10–16 Feb 	Survation 	N/A 	UK 	6,094 	29% 	48% 	8% 	3% 	3% 	4% 	
+6%
+	19
+15 Feb 	PeoplePolling 	GB News 	UK 	1,148 	21% 	48% 	8% 	5% 	8% 	7% 	
+4%
+	27
+14–15 Feb 	YouGov 	The Times 	GB 	2,062 	22% 	50% 	9% 	4% 	6% 	7% 	
+2%
+	28
+10–13 Feb 	Deltapoll 	N/A 	GB 	1,004 	28% 	48% 	8% 	5% 	6% 	3% 	
+2%
+	20
+12 Feb 	Redfield & Wilton 	N/A 	GB 	2,000 	27% 	48% 	9% 	4% 	5% 	6% 	1% 	21
+10–12 Feb 	Focaldata 	N/A 	GB 	1,041 	28% 	48% 	9% 	3% 	4% 	6% 	2% 	20
+10–12 Feb 	Savanta 	N/A 	UK 	2,175 	28% 	45% 	10% 	3% 	4% 	5% 	
+4%
+	17
+9–10 Feb 	Omnisis 	N/A 	GB 	1,281 	26% 	47% 	10% 	4% 	4% 	8% 	
+1%
+	21
+9 Feb 	West Lancashire by-election[9]
+8–9 Feb 	PeoplePolling 	GB News 	UK 	1,229 	21% 	50% 	7% 	4% 	6% 	7% 	
+4%
+	29
+8–9 Feb 	Techne 	N/A 	UK 	1,627 	26% 	47% 	9% 	4% 	5% 	6% 	3% 	21
+8–9 Feb 	YouGov 	The Times 	GB 	2,061 	24% 	47% 	10% 	4% 	6% 	6% 	
+3%
+	23
+3–6 Feb 	Deltapoll 	N/A 	GB 	1,831 	29% 	47% 	9% 	4% 	4% 	5% 	
+3%
+	18
+1–6 Feb 	Survation 	N/A 	UK 	1,923 	26% 	42% 	11% 	4% 	5% 	6% 	
+6%
+	16
+5 Feb 	Redfield & Wilton 	N/A 	GB 	2,000 	24% 	50% 	10% 	3% 	5% 	6% 	
+2%
+	26
+3–5 Feb 	Savanta 	N/A 	UK 	2,247 	27% 	46% 	9% 	3% 	4% 	5% 	
+4%
+	19
+27 Jan – 5 Feb 	FindOutNow/Electoral Calculus 	The Daily Telegraph 	GB 	28,191 	23% 	48% 	11% 	4% 	5% 	5% 	— 	25
+2–3 Feb 	Omnisis 	N/A 	GB 	1,324 	24% 	48% 	9% 	4% 	5% 	6% 	
+3%
+	24
+1–2 Feb 	Techne 	N/A 	UK 	1,634 	27% 	48% 	8% 	4% 	4% 	7% 	2% 	21
+1 Feb 	PeoplePolling 	GB News 	UK 	1,139 	22% 	46% 	9% 	5% 	7% 	7% 	
+4%
+	24
+31 Jan – 1 Feb 	YouGov 	The Times 	GB 	2,006 	24% 	48% 	9% 	4% 	6% 	6% 	
+3%
+	24
+26–30 Jan 	Deltapoll 	N/A 	GB 	1,057 	29% 	46% 	9% 	4% 	4% 	4% 	
+3%
+	17
+29 Jan 	Redfield & Wilton 	N/A 	GB 	2,000 	28% 	49% 	8% 	4% 	5% 	5% 	1% 	21
+29 Jan 	Savanta 	N/A 	UK 	2,041 	26% 	47% 	9% 	3% 	4% 	6% 	
+5%
+	21
+26–27 Jan 	Omnisis 	N/A 	GB 	1,311 	26% 	50% 	7% 	3% 	6% 	7% 	
+2%
+	24
+25–26 Jan 	Techne 	N/A 	UK 	1,631 	26% 	47% 	8% 	4% 	5% 	7% 	3% 	21
+24–26 Jan 	BMG 	N/A 	GB 	1,502 	29% 	46% 	9% 	4% 	3% 	6% 	
+3%
+	17
+24–25 Jan 	YouGov 	The Times 	GB 	2,058 	26% 	45% 	10% 	4% 	7% 	6% 	
+3%
+	19
+18–25 Jan 	Ipsos 	N/A 	UK 	1,001 	26% 	51% 	9% 	6% 	5% 	2% 	
+3%
+	25
+24 Jan 	PeoplePolling 	GB News 	UK 	1,270 	21% 	50% 	8% 	6% 	5% 	7% 	
+4%
+	29
+22 Jan 	Redfield & Wilton 	N/A 	GB 	2,000 	26% 	48% 	9% 	5% 	4% 	6% 	1% 	22
+19–21 Jan 	Deltapoll 	N/A 	GB 	1,563 	30% 	44% 	9% 	4% 	5% 	4% 	
+5%
+	14
+19–20 Jan 	Omnisis 	N/A 	GB 	1,268 	24% 	50% 	8% 	4% 	5% 	5% 	
+3%
+	26
+18–19 Jan 	Techne 	N/A 	UK 	1,625 	27% 	46% 	9% 	4% 	5% 	6% 	3% 	19
+18–19 Jan 	YouGov 	The Times 	GB 	2,004 	26% 	48% 	8% 	4% 	5% 	7% 	
+2%
+	22
+18 Jan 	PeoplePolling 	GB News 	UK 	1,168 	21% 	45% 	9% 	5% 	9% 	8% 	
+4%
+	24
+17–18 Jan 	Focaldata 	Sam Freedman 	GB 	1,028 	24% 	49% 	9% 	3% 	4% 	7% 	4% 	25
+12–16 Jan 	Deltapoll 	N/A 	GB 	1,059 	29% 	45% 	10% 	5% 	5% 	4% 	
+3%
+	16
+15 Jan 	Redfield & Wilton 	N/A 	GB 	2,000 	27% 	47% 	10% 	4% 	5% 	6% 	1% 	20
+11–13 Jan 	Opinium 	The Observer 	GB 	2,000 	29% 	45% 	9% 	3% 	5% 	6% 	
+3%
+	16
+11–12 Jan 	Techne 	N/A 	UK 	1,636 	26% 	47% 	8% 	4% 	5% 	7% 	3% 	21
+11–12 Jan 	Omnisis 	N/A 	GB 	1,247 	28% 	48% 	7% 	4% 	7% 	3% 	
+1%
+	20
+11 Jan 	PeoplePolling 	GB News 	UK 	1,160 	21% 	48% 	8% 	5% 	7% 	7% 	
+4%
+	27
+10–11 Jan 	YouGov 	The Times 	GB 	1,691 	25% 	47% 	9% 	5% 	5% 	7% 	
+2%
+	22
+20 Dec – 11 Jan 	YouGov 	The Times 	GB 	4,922 	24% 	47% 	9% 	5% 	5% 	7% 	
+3%
+	23
+8 Jan 	Redfield & Wilton 	N/A 	GB 	2,000 	26% 	48% 	9% 	4% 	5% 	6% 	2% 	22
+5–7 Jan 	Deltapoll 	N/A 	GB 	1,593 	31% 	45% 	9% 	3% 	5% 	3% 	
+3%
+	14
+5–6 Jan 	Omnisis 	N/A 	GB 	1,285 	27% 	49% 	10% 	4% 	4% 	4% 	
+1%
+	22
+4–5 Jan 	YouGov 	The Times 	GB 	1,709 	25% 	46% 	9% 	5% 	6% 	7% 	
+3%
+	21
+4–5 Jan 	Techne 	N/A 	UK 	1,625 	25% 	46% 	9% 	4% 	5% 	8% 	3% 	21
+4 Jan 	PeoplePolling 	GB News 	GB 	1,209 	22% 	46% 	7% 	5% 	7% 	8% 	
+7%
+	24
+2–3 Jan 	Redfield & Wilton 	N/A 	GB 	2,000 	27% 	47% 	12% 	4% 	3% 	5% 	1% 	20
+2022
+For political events during the year, see 2022 in United Kingdom politics and government and 2022 in the United Kingdom.
+Dates
+conducted 	Pollster 	Client 	Area 	Sample
+size 	Con 	Lab 	Lib Dems 	SNP 	Green 	Reform 	Others 	Lead
+					
+28 Dec 	PeoplePolling 	GB News 	GB 	1,169 	19% 	45% 	8% 	6% 	9% 	8% 	
+4%
+	26
+21–22 Dec 	Omnisis 	N/A 	GB 	1,243 	25% 	51% 	7% 	4% 	5% 	6% 	
+2%
+	26
+21–22 Dec 	Techne 	N/A 	UK 	1,633 	28% 	45% 	8% 	4% 	5% 	7% 	3% 	17
+21 Dec 	PeoplePolling 	GB News 	GB 	1,151 	22% 	46% 	8% 	5% 	6% 	8% 	3% 	24
+20–21 Dec 	YouGov 	The Times 	GB 	1,672 	24% 	48% 	9% 	4% 	5% 	8% 	
+3%
+	24
+16–18 Dec 	Savanta 	N/A 	UK 	2,024 	28% 	45% 	9% 	5% 	3% 	5% 	5% 	17
+15–16 Dec 	Omnisis 	N/A 	GB 	1,216 	26% 	47% 	9% 	5% 	6% 	6% 	1% 	21
+14–16 Dec 	Opinium 	The Observer 	GB 	2,000 	29% 	44% 	9% 	3% 	5% 	8% 	
+3%
+	15
+15 Dec 	Stretford and Urmston by-election[10]
+14–15 Dec 	YouGov 	The Times 	GB 	1,690 	23% 	48% 	8% 	5% 	5% 	9% 	
+2%
+	25
+14–15 Dec 	Techne 	N/A 	UK 	1,631 	28% 	46% 	9% 	3% 	5% 	6% 	3% 	18
+14 Dec 	PeoplePolling 	GB News 	GB 	1,151 	24% 	45% 	7% 	5% 	6% 	7% 	4% 	21
+7–13 Dec 	Ipsos 	N/A 	GB 	1,007 	23% 	49% 	13% 	5% 	3% 	2% 	4% 	26
+9–12 Dec 	Kantar Public 	N/A 	GB 	1,097 	29% 	46% 	9% 	5% 	5% 	4% 	
+3%
+	17
+9–12 Dec 	Deltapoll 	N/A 	GB 	1,088 	32% 	45% 	9% 	5% 	5% 	4% 	
+4%
+	13
+11 Dec 	Redfield & Wilton 	N/A 	GB 	2,000 	29% 	46% 	9% 	3% 	5% 	7% 	
+2%
+	17
+9–11 Dec 	Savanta 	N/A 	UK 	2,194 	29% 	45% 	8% 	3% 	3% 	6% 	5% 	16
+8–9 Dec 	Omnisis 	N/A 	GB 	1,294 	30% 	48% 	9% 	2% 	6% 	4% 	
+1%
+	18
+7 Dec 	PeoplePolling 	GB News 	GB 	1,231 	20% 	47% 	8% 	5% 	6% 	9% 	5% 	27
+7–8 Dec 	Techne 	N/A 	UK 	1,625 	27% 	48% 	9% 	4% 	4% 	5% 	3% 	21
+6–7 Dec 	YouGov 	The Times 	GB 	1,696 	24% 	48% 	9% 	4% 	5% 	8% 	
+2%
+	24
+1–5 Dec 	Deltapoll 	N/A 	GB 	1,632 	28% 	48% 	10% 	4% 	4% 	4% 	
+2%
+	20
+2–5 Dec 	Savanta 	N/A 	UK 	6,237 	28% 	48% 	11% 	— 	3% 	4% 	— 	20
+4 Dec 	Redfield & Wilton 	N/A 	GB 	2,000 	26% 	48% 	10% 	3% 	6% 	5% 	1% 	22
+2–4 Dec 	Savanta 	N/A 	UK 	2,211 	31% 	42% 	10% 	4% 	3% 	5% 	
+5%
+	11
+1–2 Dec 	Omnisis 	N/A 	GB 	1,189 	25% 	48% 	9% 	4% 	6% 	5% 	
+4%
+	23
+30 Nov – 2 Dec 	Opinium 	The Observer 	GB 	2,000 	29% 	43% 	8% 	4% 	6% 	6% 	
+3%
+	14
+1 Dec 	City of Chester by-election[11]
+1 Dec 	Techne 	N/A 	UK 	1,632 	26% 	49% 	10% 	4% 	4% 	5% 	2% 	23
+29 Nov – 1 Dec 	BMG 	The i 	GB 	1,571 	28% 	46% 	10% 	4% 	5% 	6% 	
+2%
+	18
+30 Nov 	PeoplePolling 	GB News 	GB 	1,145 	21% 	46% 	7% 	5% 	9% 	7% 	
+4%
+	25
+29–30 Nov 	YouGov 	The Times 	GB 	1,637 	22% 	47% 	9% 	4% 	5% 	9% 	
+3%
+	25
+24–28 Nov 	Deltapoll 	N/A 	GB 	1,062 	30% 	48% 	10% 	3% 	3% 	4% 	
+2%
+	18
+27 Nov 	Redfield & Wilton 	N/A 	GB 	2,000 	27% 	47% 	11% 	3% 	5% 	5% 	1% 	20
+25–27 Nov 	Savanta ComRes 	N/A 	UK 	2,106 	26% 	47% 	10% 	4% 	2% 	5% 	
+5%
+	21
+23–24 Nov 	Omnisis 	N/A 	GB 	1,174 	25% 	49% 	9% 	3% 	5% 	6% 	
+3%
+	24
+23–24 Nov 	Techne 	N/A 	UK 	1,625 	27% 	50% 	9% 	4% 	4% 	— 	6% 	23
+23 Nov 	PeoplePolling 	N/A 	GB 	1,145 	24% 	44% 	8% 	5% 	8% 	5% 	
+6%
+	20
+22–23 Nov 	YouGov 	The Times 	GB 	1,672 	25% 	48% 	9% 	4% 	5% 	5% 	
+3%
+	23
+17–21 Nov 	Kantar Public 	N/A 	GB 	1,111 	30% 	45% 	8% 	5% 	4% 	5% 	
+4%
+	15
+20 Nov 	Redfield & Wilton 	N/A 	GB 	2,000 	28% 	49% 	9% 	4% 	4% 	5% 	2% 	21
+18–20 Nov 	Savanta ComRes 	Independent 	UK 	2,106 	28% 	46% 	10% 	3% 	3% 	3% 	6% 	18
+17–19 Nov 	Deltapoll 	The Mail on Sunday 	GB 	1,604 	25% 	51% 	9% 	3% 	4% 	4% 	
+4%
+	26
+18 Nov 	PeoplePolling 	GB News 	GB 	1,331 	21% 	47% 	10% 	5% 	7% 	6% 	
+5%
+	26
+17–18 Nov 	Opinium 	The Observer 	GB 	1,484 	28% 	45% 	9% 	3% 	4% 	6% 	3% 	17
+17–18 Nov 	Omnisis 	N/A 	GB 	1,159 	21% 	48% 	10% 	5% 	7% 	5% 	
+5%
+	27
+17 Nov 	Techne 	N/A 	UK 	1,628 	28% 	50% 	8% 	4% 	4% 	— 	6% 	22
+16–17 Nov 	Redfield & Wilton 	N/A 	GB 	1,500 	27% 	48% 	10% 	5% 	4% 	5% 	1% 	21
+15–16 Nov 	YouGov 	The Times 	GB 	1,682 	26% 	47% 	9% 	5% 	5% 	6% 	
+3%
+	21
+9–16 Nov 	Ipsos 	Evening Standard 	GB 	1,004 	29% 	50% 	7% 	5% 	3% 	2% 	
+3%
+	21
+10–14 Nov 	Deltapoll 	N/A 	GB 	1,060 	27% 	50% 	6% 	5% 	6% 	3% 	
+4%
+	23
+13 Nov 	Redfield & Wilton 	N/A 	GB 	2,000 	26% 	50% 	9% 	3% 	5% 	4% 	2% 	24
+10–11 Nov 	Omnisis 	N/A 	GB 	1,181 	26% 	49% 	7% 	3% 	5% 	9% 	1% 	23
+9–10 Nov 	Redfield & Wilton 	N/A 	GB 	1,500 	28% 	49% 	11% 	3% 	4% 	4% 	1% 	21
+9–10 Nov 	YouGov 	The Times 	GB 	1,708 	25% 	48% 	10% 	5% 	5% 	5% 	
+3%
+	23
+9–10 Nov 	Techne 	N/A 	UK 	1,628 	30% 	49% 	8% 	4% 	4% 	— 	5% 	19
+9 Nov 	PeoplePolling 	GB News 	GB 	1,198 	21% 	42% 	9% 	5% 	9% 	8% 	
+6%
+	21
+4–7 Nov 	Deltapoll 	N/A 	GB 	1,049 	29% 	47% 	9% 	4% 	5% 	3% 	4% 	18
+6 Nov 	Redfield & Wilton 	N/A 	GB 	2,000 	27% 	48% 	10% 	4% 	3% 	5% 	2% 	21
+3–4 Nov 	Omnisis 	N/A 	GB 	1,352 	27% 	51% 	7% 	4% 	4% 	6% 	
+1%
+	24
+2–4 Nov 	Opinium 	The Observer 	UK 	1,445 	28% 	46% 	8% 	4% 	6% 	— 	7% 	18
+2–3 Nov 	Redfield & Wilton 	N/A 	GB 	1,500 	30% 	47% 	12% 	3% 	3% 	4% 	1% 	17
+2–3 Nov 	Techne 	N/A 	UK 	1,663 	29% 	49% 	9% 	4% 	4% 	— 	3% 	20
+1–3 Nov 	Survation 	N/A 	UK 	1,017 	27% 	50% 	7% 	4% 	3% 	3% 	
+6%
+	23
+1–2 Nov 	YouGov 	The Times 	GB 	1,702 	24% 	50% 	9% 	4% 	5% 	6% 	
+3%
+	26
+1 Nov 	PeoplePolling 	GB News 	GB 	1,212 	21% 	47% 	10% 	5% 	5% 	5% 	
+5%
+	26
+28–31 Oct 	Deltapoll 	N/A 	GB 	1,606 	26% 	51% 	9% 	4% 	4% 	3% 	
+4%
+	25
+24–31 Oct 	YouGov 	Ben Ansell/ERC WEALTHPOL 	UK 	2,464 	25% 	49% 	9% 	4% 	5% 	4% 	
+3%
+	24
+30 Oct 	Redfield & Wilton 	N/A 	GB 	2,000 	27% 	50% 	9% 	4% 	5% 	3% 	2% 	23
+28–30 Oct 	Focaldata 	Best for Britain 	GB 	2,000 	29% 	49% 	8% 	4% 	4% 	4% 	
+2%
+	20
+27–28 Oct 	Omnisis 	N/A 	GB 	1,383 	25% 	53% 	7% 	4% 	4% 	6% 	
+3%
+	28
+26–28 Oct 	Opinium 	The Observer 	UK 	1,499 	28% 	44% 	10% 	4% 	5% 	— 	8% 	16
+26–27 Oct 	Techne 	N/A 	UK 	1,626 	26% 	50% 	10% 	4% 	5% 	— 	5% 	24
+26–27 Oct 	Survation 	N/A 	UK 	2,028 	27% 	51% 	8% 	5% 	2% 	3% 	
+4%
+	24
+26 Oct 	PeoplePolling 	GB News 	GB 	1,237 	20% 	51% 	9% 	5% 	5% 	7% 	5% 	31
+25–26 Oct 	Redfield & Wilton 	N/A 	GB 	1,500 	23% 	55% 	9% 	4% 	5% 	4% 	1% 	32
+25–26 Oct 	YouGov 	The Times 	GB 	1,646 	23% 	51% 	9% 	5% 	4% 	6% 	
+2%
+	28
+24–26 Oct 	BMG 	Independent 	GB 	1,568 	26% 	49% 	10% 	4% 	5% 	5% 	2% 	23
+20–26 Oct 	Focaldata 	Best for Britain 	GB 	10,000 	23% 	53% 	10% 	4% 	4% 	4% 	
+2%
+	30
+24–25 Oct 	Rishi Sunak becomes leader of the Conservative Party and Prime Minister[12]
+23 Oct 	Redfield & Wilton 	N/A 	GB 	2,000 	21% 	54% 	11% 	3% 	4% 	4% 	2% 	33
+22–23 Oct 	Deltapoll 	Sky News 	GB 	2,012 	25% 	51% 	10% 	4% 	5% 	3% 	
+3%
+	26
+21–23 Oct 	Savanta ComRes 	Independent 	UK 	1,996 	25% 	51% 	8% 	4% 	2% 	— 	10% 	26
+21–22 Oct 	Omnisis 	N/A 	GB 	1,353 	22% 	56% 	10% 	4% 	4% 	3% 	
+2%
+	34
+19–21 Oct 	JL Partners 	N/A 	GB 	2,000 	26% 	51% 	8% 	5% 	3% 	3% 	4% 	25
+20–21 Oct 	YouGov 	The Times 	GB 	1,700 	19% 	56% 	10% 	4% 	4% 	5% 	
+2%
+	37
+19–21 Oct 	Opinium 	The Observer 	UK 	2,023 	23% 	50% 	9% 	3% 	6% 	— 	6% 	27
+20 Oct 	PeoplePolling 	GB News 	GB 	1,237 	14% 	53% 	11% 	5% 	6% 	5% 	5% 	39
+20 Oct 	Omnisis 	N/A 	GB 	1,382 	22% 	57% 	7% 	4% 	4% 	3% 	3% 	35
+19–20 Oct 	Techne 	N/A 	UK 	1,632 	22% 	53% 	11% 	4% 	5% 	— 	5% 	31
+19 Oct 	Redfield & Wilton 	N/A 	GB 	2,500 	19% 	55% 	12% 	4% 	4% 	4% 	1% 	36
+18–19 Oct 	Survation 	N/A 	UK 	1,252 	23% 	52% 	11% 	4% 	3% 	2% 	
+5%
+	29
+13–17 Oct 	Deltapoll 	N/A 	GB 	1,050 	23% 	55% 	7% 	4% 	4% 	3% 	
+2%
+	32
+16 Oct 	Redfield & Wilton 	N/A 	GB 	2,000 	20% 	56% 	11% 	4% 	5% 	2% 	1% 	36
+14–16 Oct 	Savanta ComRes 	N/A 	UK 	2,195 	22% 	52% 	11% 	4% 	2% 	— 	8% 	30
+13–14 Oct 	Omnisis 	N/A 	GB 	1,328 	28% 	49% 	10% 	3% 	5% 	2% 	
+3%
+	21
+13 Oct 	Redfield & Wilton 	N/A 	GB 	1,500 	24% 	53% 	13% 	4% 	3% 	2% 	3% 	29
+12–13 Oct 	Techne 	N/A 	UK 	1,626 	25% 	49% 	11% 	4% 	6% 	— 	5% 	24
+12 Oct 	PeoplePolling 	GB News 	GB 	1,158 	19% 	53% 	8% 	6% 	6% 	4% 	
+6%
+	34
+11–12 Oct 	YouGov 	The Times 	GB 	1,675 	23% 	51% 	9% 	5% 	7% 	3% 	
+3%
+	28
+5–12 Oct 	Ipsos 	Evening Standard 	GB 	1,001 	26% 	47% 	10% 	4% 	8% 	2% 	
+3%
+	21
+9 Oct 	Redfield & Wilton 	N/A 	GB 	2,000 	25% 	54% 	10% 	3% 	4% 	3% 	1% 	29
+7–9 Oct 	Savanta ComRes 	N/A 	UK 	2,036 	23% 	51% 	10% 	4% 	4% 	— 	8% 	28
+6–7 Oct 	YouGov 	The Times 	GB 	1,737 	22% 	52% 	9% 	5% 	6% 	5% 	
+3%
+	30
+6–7 Oct 	Deltapoll 	N/A 	GB 	1,034 	26% 	51% 	9% 	4% 	4% 	2% 	
+3%
+	25
+6–7 Oct 	Omnisis 	N/A 	GB 	1,328 	24% 	51% 	10% 	3% 	5% 	4% 	
+3%
+	27
+5–7 Oct 	Opinium 	The Observer 	UK 	2,023 	26% 	47% 	11% 	3% 	6% 	— 	6% 	21
+6 Oct 	PeoplePolling 	GB News 	GB 	1,512 	20% 	52% 	8% 	5% 	7% 	4% 	
+4%
+	32
+5–6 Oct 	Techne 	N/A 	UK 	1,636 	26% 	48% 	10% 	4% 	6% 	— 	6% 	22
+5 Oct 	Redfield & Wilton 	N/A 	GB 	1,500 	24% 	52% 	10% 	4% 	5% 	3% 	1% 	28
+2 Oct 	Redfield & Wilton 	N/A 	GB 	2,000 	24% 	52% 	10% 	5% 	5% 	3% 	1% 	28
+30 Sep – 2 Oct 	Savanta ComRes 	N/A 	UK 	2,113 	25% 	50% 	11% 	3% 	3% 	— 	8% 	25
+29–30 Sep 	Omnisis 	N/A 	GB 	1,320 	23% 	55% 	7% 	5% 	5% 	3% 	
+1%
+	32
+28–30 Sep 	Opinium 	The Observer 	UK 	1,468 	27% 	46% 	9% 	4% 	6% 	— 	
+7%
+	19
+29 Sep 	Survation 	N/A 	UK 	1,329 	28% 	49% 	11% 	5% 	1% 	2% 	
+5%
+	21
+28–29 Sep 	PeoplePolling 	GB News 	GB 	2,216 	20% 	50% 	9% 	5% 	8% 	3% 	
+4%
+	30
+28–29 Sep 	Techne 	N/A 	UK 	1,625 	27% 	47% 	11% 	4% 	6% 	— 	5% 	20
+28–29 Sep 	YouGov 	The Times 	GB 	1,712 	21% 	54% 	7% 	5% 	6% 	4% 	
+3%
+	33
+28–29 Sep 	Redfield & Wilton 	N/A 	GB 	2,500 	29% 	46% 	13% 	3% 	4% 	4% 	1% 	17
+27–29 Sep 	BMG 	N/A 	GB 	1,516 	30% 	47% 	9% 	4% 	5% 	3% 	2% 	17
+27–29 Sep 	Deltapoll 	Daily Mirror 	GB 	1,613 	29% 	48% 	9% 	4% 	4% 	2% 	
+3%
+	19
+23–27 Sep 	FindOutNow 	Channel 4 	GB 	10,435 	27% 	45% 	10% 	5% 	7% 	3% 	
+3%
+	18
+23–26 Sep 	Omnisis 	N/A 	GB 	1,307 	32% 	44% 	10% 	4% 	5% 	4% 	
+1%
+	12
+22–26 Sep 	Kantar Public 	N/A 	GB 	1,141 	35% 	39% 	10% 	5% 	4% 	3% 	
+4%
+	4
+25 Sep 	Redfield & Wilton 	N/A 	GB 	2,000 	31% 	44% 	11% 	4% 	6% 	2% 	1% 	13
+23–25 Sep 	Savanta ComRes 	MHP 	UK 	2,259 	29% 	43% 	12% 	5% 	4% 	— 	8% 	14
+23–25 Sep 	YouGov 	The Times 	GB 	1,730 	28% 	45% 	9% 	4% 	7% 	3% 	
+3%
+	17
+22–25 Sep 	Deltapoll 	N/A 	GB 	2,192 	31% 	44% 	12% 	4% 	4% 	2% 	
+2%
+	13
+21–23 Sep 	Opinium 	N/A 	UK 	1,491 	34% 	39% 	10% 	4% 	7% 	— 	
+6%
+	5
+21–22 Sep 	YouGov 	The Times 	GB 	1,713 	32% 	40% 	9% 	5% 	8% 	3% 	
+3%
+	8
+21–22 Sep 	Techne 	N/A 	UK 	1,639 	34% 	41% 	11% 	4% 	5% 	— 	5% 	7
+21 Sep 	Redfield & Wilton 	N/A 	GB 	2,000 	32% 	42% 	12% 	4% 	5% 	4% 	2% 	10
+21 Sep 	PeoplePolling 	GB News 	GB 	1,298 	28% 	40% 	10% 	6% 	8% 	4% 	
+5%
+	12
+16–20 Sep 	Deltapoll 	N/A 	GB 	2,084 	32% 	42% 	10% 	4% 	6% 	2% 	
+4%
+	10
+18 Sep 	Redfield & Wilton 	N/A 	GB 	2,000 	34% 	42% 	10% 	4% 	5% 	3% 	1% 	8
+15–16 Sep 	Savanta ComRes 	Labour List 	UK 	6,226 	33% 	45% 	10% 	? 	4% 	3% 	5% 	12
+14–15 Sep 	Techne 	N/A 	UK 	1,647 	35% 	41% 	10% 	4% 	5% 	— 	5% 	6
+7–15 Sep 	Ipsos 	N/A 	GB 	1,000 	30% 	40% 	13% 	5%[d] 	8% 	1% 	4% 	10
+13 Sep 	PeoplePolling 	GB News 	GB 	1,245 	28% 	40% 	10% 	4% 	6% 	5% 	
+6%
+	12
+11–12 Sep 	YouGov 	The Times 	GB 	1,727 	32% 	42% 	10% 	4% 	7% 	2% 	
+2%
+	10
+9–12 Sep 	Deltapoll 	N/A 	GB 	1,573 	32% 	44% 	9% 	4% 	4% 	2% 	
+3%
+	12
+11 Sep 	Savanta ComRes 	Daily Mail 	UK 	2,272 	35% 	42% 	10% 	4% 	3% 	3% 	
+5%
+	7
+7–8 Sep 	Techne 	N/A 	UK 	1,628 	34% 	42% 	11% 	4% 	4% 	— 	5% 	8
+7 Sep 	PeoplePolling 	GB News 	GB 	1,162 	28% 	40% 	9% 	5% 	7% 	4% 	
+6%
+	12
+7 Sep 	Redfield & Wilton 	N/A 	GB 	2,000 	30% 	42% 	14% 	5% 	6% 	2% 	2% 	12
+6–7 Sep 	YouGov 	The Times 	GB 	1,688 	29% 	44% 	10% 	5% 	7% 	3% 	
+3%
+	15
+5–6 Sep 	Liz Truss becomes leader of the Conservative Party and Prime Minister[13]
+4 Sep 	Redfield & Wilton 	N/A 	GB 	2,000 	31% 	43% 	12% 	5% 	6% 	3% 	1% 	12
+1–2 Sep 	Opinium 	The Observer 	UK 	1,516 	34% 	38% 	12% 	4% 	6% 	— 	
+7%
+	4
+1–2 Sep 	Techne 	N/A 	UK 	1,628 	32% 	42% 	12% 	4% 	5% 	— 	5% 	10
+31 Aug – 2 Sep 	Deltapoll 	N/A 	GB 	1,573 	31% 	42% 	10% 	5% 	6% 	3% 	
+4%
+	11
+31 Aug – 1 Sep 	YouGov 	The Times 	GB 	1,711 	28% 	43% 	11% 	5% 	6% 	3% 	
+4%
+	15
+31 Aug 	Survation[e] 	N/A 	UK 	1,013 	33% 	43% 	11% 	4% 	3% 	5% 	
+5%
+	10
+31 Aug 	Redfield & Wilton 	N/A 	GB 	2,000 	31% 	42% 	12% 	4% 	7% 	3% 	2% 	11
+30 Aug 	PeoplePolling 	GB News 	GB 	1,203 	25% 	42% 	10% 	5% 	7% 	4% 	
+8%
+	17
+26–30 Aug 	Deltapoll 	The Mirror 	GB 	1,600 	31% 	44% 	12% 	4% 	4% 	2% 	
+3%
+	13
+28 Aug 	Redfield & Wilton 	N/A 	GB 	2,000 	33% 	42% 	13% 	3% 	4% 	4% 	
+2%
+	9
+24–25 Aug 	Techne 	N/A 	UK 	1,630 	33% 	41% 	11% 	4% 	6% 	— 	5% 	8
+24–25 Aug 	Redfield & Wilton 	N/A 	GB 	1,500 	33% 	42% 	12% 	4% 	5% 	2% 	
+2%
+	9
+23–24 Aug 	YouGov 	The Times 	GB 	2,007 	31% 	39% 	11% 	5% 	7% 	5% 	
+3%
+	8
+22 Aug 	PeoplePolling 	GB News 	GB 	1,235 	26% 	40% 	11% 	6% 	6% 	5% 	
+6%
+	14
+19–22 Aug 	Deltapoll 	N/A 	GB 	1,591 	31% 	43% 	11% 	5% 	6% 	2% 	
+2%
+	12
+18–22 Aug 	Kantar Public 	N/A 	GB 	1,106 	33% 	40% 	14% 	4% 	6% 	2% 	
+2%
+	7
+21 Aug 	Redfield & Wilton 	N/A 	GB 	2,000 	31% 	43% 	13% 	5% 	5% 	3% 	
+2%
+	12
+18–19 Aug 	Opinium 	The Observer 	UK 	1,527 	31% 	39% 	10% 	3% 	7% 	— 	
+9%
+	8
+16–18 Aug 	BMG 	N/A 	UK 	2,091 	32% 	42% 	11% 	5% 	4% 	3% 	
+1%
+	10
+16–17 Aug 	YouGov 	The Times 	GB 	1,696 	28% 	43% 	11% 	5% 	7% 	4% 	
+3%
+	15
+14 Aug 	Redfield & Wilton 	N/A 	GB 	2,000 	34% 	41% 	12% 	4% 	5% 	3% 	
+2%
+	7
+10–12 Aug 	Techne 	N/A 	UK 	1,641 	35% 	39% 	12% 	4% 	5% 	— 	5% 	4
+9–10 Aug 	YouGov 	The Times 	GB 	1,809 	30% 	39% 	12% 	5% 	6% 	4% 	
+3%
+	9
+8 Aug 	Redfield & Wilton 	N/A 	GB 	2,000 	35% 	40% 	12% 	4% 	5% 	3% 	
+2%
+	5
+3–8 Aug 	Opinium 	The Observer 	GB 	2,010 	34% 	37% 	12% 	4% 	6% 	— 	
+8%
+	3
+4–5 Aug 	YouGov 	The Times 	GB 	1,968 	33% 	37% 	11% 	5% 	8% 	3% 	
+3%
+	4
+4 Aug 	Redfield & Wilton 	N/A 	GB 	1,500 	32% 	40% 	13% 	4% 	4% 	4% 	
+3%
+	8
+3–4 Aug 	Techne 	N/A 	UK 	1,630 	34% 	39% 	13% 	4% 	5% 	— 	5% 	5
+28 Jul – 1 Aug 	Kantar Public 	N/A 	GB 	1,096 	32% 	36% 	13% 	6% 	8% 	4% 	
+2%
+	4
+31 Jul 	Redfield & Wilton 	N/A 	GB 	2,000 	34% 	38% 	11% 	4% 	7% 	4% 	
+1%
+	4
+27–28 Jul 	YouGov 	The Times 	GB 	1,797 	34% 	35% 	13% 	5% 	7% 	3% 	
+2%
+	1
+27–28 Jul 	Techne 	N/A 	UK 	1,645 	33% 	40% 	12% 	4% 	6% 	— 	5% 	7
+27 Jul 	Redfield & Wilton 	N/A 	GB 	1,500 	33% 	41% 	11% 	4% 	5% 	4% 	2% 	8
+21–27 Jul 	Ipsos 	Evening Standard 	GB 	1,052 	30% 	44% 	10% 	5% 	8% 	1% 	
+2%
+	14
+24 Jul 	Redfield & Wilton 	N/A 	GB 	2,000 	34% 	40% 	12% 	4% 	5% 	3% 	
+2%
+	6
+22–24 Jul 	Savanta ComRes 	The Independent 	UK 	2,272 	29% 	42% 	12% 	3% 	4% 	4% 	5% 	13
+21–23 Jul 	Deltapoll 	Mail on Sunday 	GB 	1,588 	31% 	42% 	10% 	4% 	6% 	3% 	
+5%
+	11
+21–22 Jul 	YouGov 	The Times 	GB 	1,692 	32% 	39% 	12% 	4% 	8% 	4% 	
+3%
+	7
+21–22 Jul 	Opinium 	The Observer 	GB 	2,001 	34% 	37% 	13% 	3% 	7% 	— 	
+7%
+	3
+21 Jul 	Techne 	N/A 	UK 	1,645 	32% 	41% 	12% 	4% 	6% 	— 	5% 	9
+21 Jul 	Savanta ComRes 	Daily Express 	UK 	2,109 	33% 	44% 	9% 	3% 	3% 	3% 	
+5%
+	11
+20–21 Jul 	Redfield & Wilton 	N/A 	GB 	1,500 	35% 	44% 	9% 	3% 	5% 	3% 	1% 	9
+14–18 Jul 	Kantar Public 	N/A 	GB 	1,077 	33% 	37% 	13% 	4% 	7% 	4% 	
+3%
+	4
+17 Jul 	Redfield & Wilton 	N/A 	GB 	2,000 	32% 	42% 	12% 	4% 	5% 	3% 	
+2%
+	10
+15–17 Jul 	Savanta ComRes 	N/A 	UK 	1,980 	30% 	43% 	11% 	4% 	4% 	3% 	
+5%
+	13
+14 Jul 	Techne 	N/A 	UK 	1,645 	31% 	40% 	13% 	4% 	6% 	— 	6% 	9
+13–14 Jul 	YouGov 	The Times 	GB 	1,733 	29% 	40% 	13% 	4% 	7% 	4% 	
+3%
+	11
+12–14 Jul 	JL Partners 	The Sunday Telegraph 	GB 	4,434 	31% 	42% 	12% 	4% 	6% 	3% 	
+3%
+	11
+11–12 Jul 	Omnisis 	The Byline Times 	UK 	1,002 	25% 	46% 	8% 	5% 	8% 	5% 	
+3%
+	21
+10 Jul 	Redfield & Wilton 	N/A 	GB 	2,000 	31% 	42% 	12% 	4% 	5% 	5% 	
+1%
+	11
+8–10 Jul 	Savanta ComRes Archived 12 July 2022 at the Wayback Machine 	N/A 	UK 	2,168 	28% 	43% 	12% 	4% 	4% 	3% 	
+6%
+	15
+6–8 Jul 	Opinium 	The Observer 	GB 	2,000 	33% 	38% 	12% 	3% 	6% 	— 	
+8%
+	5
+7 Jul 	Techne 	N/A 	UK 	1,644 	29% 	41% 	14% 	4% 	6% 	— 	6% 	12
+7 Jul 	Redfield & Wilton 	N/A 	GB 	1,500 	31% 	43% 	12% 	3% 	7% 	2% 	3% 	12
+6–7 Jul 	YouGov 	The Times 	GB 	1,687 	29% 	40% 	15% 	5% 	6% 	3% 	
+3%
+	11
+3 Jul 	Redfield & Wilton 	N/A 	GB 	2,000 	35% 	41% 	11% 	3% 	5% 	5% 	
+1%
+	6
+1–3 Jul 	Savanta ComRes 	N/A 	UK 	2,106 	32% 	41% 	11% 	4% 	3% 	4% 	
+6%
+	9
+29 Jun – 1 Jul 	Omnisis 	The Byline Times 	UK 	1,015 	27% 	47% 	9% 	4% 	6% 	4% 	
+3%
+	20
+28 Jun – 1 Jul 	BMG 	The Independent 	UK 	1,521 	32% 	42% 	11% 	4% 	4% 	4% 	
+3%
+	10
+29–30 Jun 	Techne 	N/A 	UK 	1,632 	33% 	39% 	13% 	4% 	5% 	— 	6% 	6
+29–30 Jun 	Redfield & Wilton 	N/A 	GB 	1,500 	32% 	40% 	13% 	5% 	5% 	3% 	
+1%
+	8
+28–29 Jun 	YouGov 	The Times 	GB 	1,671 	33% 	36% 	13% 	5% 	6% 	3% 	
+3%
+	3
+22–29 Jun 	Ipsos 	N/A 	GB 	1,059 	30% 	41% 	15% 	5% 	6% 	1% 	
+2%
+	11
+27 Jun 	Survation 	N/A 	UK 	1,017 	35% 	43% 	11% 	3% 	2% 	— 	5% 	8
+26 Jun 	Redfield & Wilton 	N/A 	GB 	2,000 	33% 	41% 	15% 	4% 	4% 	3% 	
+1%
+	8
+24–26 Jun 	Savanta ComRes 	The Independent 	UK 	2,217 	34% 	41% 	10% 	5% 	5% 	1% 	
+5%
+	7
+22–24 Jun 	Opinium 	The Observer 	GB 	2,000 	34% 	37% 	11% 	4% 	6% 	— 	
+8%
+	3
+23 Jun 	By-elections in Tiverton and Honiton and Wakefield[14][15]
+22–23 Jun 	YouGov 	The Times 	GB 	1,671 	34% 	39% 	9% 	4% 	8% 	4% 	
+3%
+	5
+22–23 Jun 	Techne 	N/A 	UK 	1,630 	32% 	38% 	14% 	4% 	6% 	— 	6% 	6
+22 Jun 	Redfield & Wilton 	N/A 	GB 	2,000 	32% 	41% 	13% 	4% 	5% 	4% 	
+2%
+	9
+16–20 Jun 	Kantar Public 	N/A 	GB 	1,141 	34% 	36% 	13% 	4% 	5% 	4% 	
+4%
+	2
+19 Jun 	Redfield & Wilton 	N/A 	GB 	2,000 	33% 	40% 	13% 	4% 	5% 	5% 	
+1%
+	7
+17–19 Jun 	Savanta ComRes 	N/A 	UK 	2,050 	31% 	42% 	10% 	4% 	5% 	3% 	
+4%
+	11
+15–16 Jun 	Techne 	N/A 	UK 	1,612 	33% 	39% 	13% 	4% 	5% 	— 	6% 	6
+15–16 Jun 	YouGov 	The Times 	GB 	1,727 	33% 	39% 	10% 	4% 	6% 	4% 	
+4%
+	6
+15 Jun 	Redfield & Wilton 	N/A 	GB 	2,000 	34% 	42% 	12% 	3% 	4% 	3% 	
+1%
+	8
+12 Jun 	Redfield & Wilton 	N/A 	GB 	2,000 	32% 	39% 	15% 	5% 	6% 	2% 	
+3%
+	7
+10–12 Jun 	Savanta ComRes Archived 24 June 2022 at the Wayback Machine 	N/A 	UK 	2,237 	34% 	40% 	10% 	4% 	4% 	2% 	
+6%
+	6
+10 Jun 	Survation 	N/A 	UK 	2,053 	34% 	41% 	10% 	4% 	3% 	— 	7% 	7
+10 Jun 	Techne 	N/A 	UK 	1,632 	33% 	39% 	12% 	4% 	6% 	— 	6% 	6
+8–10 Jun 	Opinium 	The Observer 	GB 	2,002 	34% 	36% 	13% 	3% 	6% 	— 	
+8%
+	2
+8–9 Jun 	YouGov 	The Times 	GB 	1,727 	32% 	39% 	11% 	5% 	7% 	3% 	
+3%
+	7
+8–9 Jun 	Redfield & Wilton 	N/A 	GB 	2,000 	32% 	40% 	13% 	4% 	5% 	4% 	
+2%
+	8
+5 Jun 	Redfield & Wilton 	N/A 	GB 	2,000 	34% 	38% 	11% 	4% 	7% 	4% 	
+3%
+	4
+1–3 Jun 	YouGov 	The Times 	GB 	2,000 	32% 	36% 	12% 	5% 	8% 	4% 	
+2%
+	4
+1 Jun 	Redfield & Wilton 	N/A 	GB 	2,000 	33% 	39% 	12% 	4% 	6% 	4% 	1% 	6
+31 May – 1 Jun 	Techne 	N/A 	UK 	1,632 	32% 	40% 	12% 	4% 	6% 	— 	6% 	8
+30–31 May 	Omnisis 	The Byline Times 	UK 	1,026 	25% 	48% 	9% 	4% 	6% 	5% 	
+4%
+	23
+29 May 	Redfield & Wilton 	N/A 	GB 	2,000 	36% 	43% 	10% 	3% 	5% 	3% 	2% 	7
+27–29 May 	Savanta ComRes Archived 31 May 2022 at the Wayback Machine 	N/A 	UK 	2,177 	31% 	42% 	11% 	4% 	3% 	3% 	
+5%
+	11
+25–27 May 	Opinium 	The Observer 	GB 	2,000 	33% 	36% 	11% 	4% 	8% 	— 	
+9%
+	3
+25–26 May 	Omnisis 	The Byline Times 	UK 	1,026 	29% 	44% 	8% 	4% 	5% 	5% 	
+4%
+	15
+25–26 May 	Techne 	N/A 	UK 	1,629 	33% 	40% 	11% 	4% 	6% 	— 	6% 	7
+25 May 	Redfield & Wilton 	N/A 	GB 	1,500 	31% 	40% 	14% 	4% 	5% 	3% 	2% 	9
+24–25 May 	YouGov 	The Times 	GB 	1,755 	31% 	39% 	12% 	4% 	7% 	4% 	
+3%
+	8
+19–23 May 	Kantar Public 	N/A 	GB 	1,087 	32% 	38% 	13% 	3% 	8% 	3% 	
+3%
+	6
+22 May 	Redfield & Wilton 	N/A 	GB 	2,000 	33% 	39% 	12% 	4% 	5% 	4% 	
+2%
+	6
+18–19 May 	Savanta ComRes 	Daily Mail 	UK 	2,021 	34% 	40% 	10% 	4% 	4% 	2% 	
+6%
+	6
+18–19 May 	Techne 	N/A 	UK 	1,635 	35% 	39% 	10% 	4% 	6% 	— 	6% 	4
+18–19 May 	YouGov 	The Times 	GB 	1,692 	31% 	39% 	12% 	5% 	7% 	4% 	
+2%
+	8
+18 May 	Redfield & Wilton 	N/A 	GB 	1,500 	33% 	39% 	12% 	4% 	4% 	5% 	
+3%
+	6
+11–17 May 	Ipsos 	N/A 	GB 	1,013 	33% 	39% 	12% 	5% 	5% 	1% 	
+4%
+	6
+15 May 	Redfield & Wilton 	N/A 	GB 	2,000 	35% 	39% 	12% 	4% 	6% 	3% 	
+5%
+	4
+13–15 May 	Savanta ComRes 	N/A 	UK 	2,196 	34% 	41% 	10% 	4% 	4% 	2% 	
+5%
+	7
+11–13 May 	Opinium 	The Observer 	GB 	2,000 	34% 	37% 	12% 	4% 	7% 	— 	
+7%
+	3
+11–12 May 	Techne 	N/A 	UK 	1,634 	34% 	39% 	11% 	4% 	6% 	— 	6% 	5
+10–11 May 	YouGov 	The Times 	GB 	1,990 	33% 	38% 	12% 	4% 	6% 	3% 	
+3%
+	5
+8 May 	Redfield & Wilton 	N/A 	GB 	2,000 	33% 	39% 	12% 	5% 	7% 	2% 	1% 	6
+6–8 May 	Savanta ComRes 	N/A 	UK 	2,161 	34% 	39% 	11% 	4% 	3% 	3% 	
+5%
+	5
+5–6 May 	YouGov 	The Times 	GB 	1,707 	35% 	36% 	10% 	5% 	8% 	3% 	
+3%
+	1
+5 May 	Local elections in England, Scotland and Wales, and the Northern Ireland Assembly election[16][17]
+4–5 May 	Techne 	N/A 	UK 	1,635 	34% 	40% 	10% 	4% 	5% 	— 	7% 	6
+1 May 	Redfield & Wilton 	N/A 	GB 	2,000 	33% 	41% 	12% 	4% 	5% 	3% 	
+3%
+	8
+28 Apr – 1 May 	Savanta ComRes 	N/A 	UK 	2,236 	35% 	41% 	9% 	4% 	4% 	3% 	
+4%
+	6
+27–28 Apr 	Techne 	N/A 	UK 	1,633 	35% 	40% 	9% 	4% 	6% 	— 	6% 	5
+20–28 Apr 	Ipsos 	N/A 	GB 	1,006 	35% 	40% 	10% 	5% 	7% 	1% 	
+2%
+	5
+26–27 Apr 	YouGov 	The Times 	GB 	1,779 	33% 	39% 	11% 	5% 	6% 	3% 	
+2%
+	6
+22–26 Apr 	Survation 	N/A 	UK 	2,587 	33% 	42% 	9% 	4% 	4% 	2% 	
+5%
+	9
+14–26 Apr 	Opinium 	N/A 	GB 	4,000 	35% 	37% 	10% 	— 	7% 	— 	2
+24 Apr 	Redfield & Wilton 	N/A 	GB 	2,000 	34% 	42% 	11% 	4% 	4% 	4% 	
+1%
+	8
+22–24 Apr 	Savanta ComRes 	N/A 	UK 	2,231 	34% 	40% 	11% 	4% 	3% 	3% 	
+5%
+	6
+20–22 Apr 	Opinium 	The Observer 	GB 	2,002 	34% 	36% 	10% 	4% 	8% 	— 	
+8%
+	2
+20–21 Apr 	Techne 	N/A 	UK 	1,631 	34% 	40% 	10% 	4% 	5% 	— 	7% 	6
+19–20 Apr 	YouGov 	The Times 	GB 	2,079 	33% 	39% 	9% 	4% 	8% 	3% 	
+4%
+	6
+17 Apr 	Redfield & Wilton 	N/A 	GB 	2,000 	34% 	42% 	10% 	5% 	5% 	3% 	
+1%
+	8
+13–14 Apr 	Deltapoll 	Mail on Sunday 	GB 	1,550 	32% 	43% 	9% 	5% 	6% 	2% 	
+4%
+	11
+13–14 Apr 	YouGov 	The Times 	GB 	1,960 	33% 	38% 	10% 	4% 	7% 	5% 	
+3%
+	5
+12–13 Apr 	Techne 	N/A 	UK 	1,628 	34% 	41% 	9% 	4% 	5% 	— 	7% 	7
+7–11 Apr 	Kantar Public 	N/A 	GB 	1,152 	34% 	37% 	11% 	5% 	7% 	4% 	
+4%
+	3
+10 Apr 	Redfield & Wilton 	N/A 	GB 	2,000 	34% 	42% 	8% 	4% 	5% 	4% 	
+3%
+	8
+8–10 Apr 	Savanta ComRes 	N/A 	UK 	2,145 	34% 	40% 	9% 	4% 	4% 	3% 	
+4%
+	6
+6–8 Apr 	Omnisis 	The Byline Times 	UK 	918 	25% 	49% 	6% 	4% 	6% 	3% 	
+5%
+	24
+6–8 Apr 	Opinium 	The Observer 	GB 	2,004 	34% 	38% 	10% 	4% 	7% 	— 	
+8%
+	4
+6–7 Apr 	Techne 	N/A 	UK 	1,635 	35% 	40% 	10% 	4% 	4% 	— 	7% 	5
+6–7 Apr 	YouGov 	The Times 	GB 	1,826 	34% 	37% 	10% 	4% 	7% 	4% 	
+4%
+	3
+3 Apr 	Redfield & Wilton 	N/A 	GB 	2,000 	36% 	42% 	9% 	3% 	4% 	3% 	
+3%
+	6
+1–3 Apr 	Savanta ComRes 	N/A 	UK 	2,220 	33% 	40% 	11% 	5% 	4% 	3% 	
+5%
+	7
+30–31 Mar 	Techne 	N/A 	UK 	1,639 	36% 	39% 	9% 	5% 	5% 	— 	6% 	3
+29–30 Mar 	YouGov 	The Times 	GB 	2,006 	33% 	37% 	9% 	6% 	6% 	5% 	
+4%
+	4
+28–30 Mar 	Survation 	N/A 	UK 	2,033 	35% 	42% 	9% 	4% 	3% 	2% 	
+6%
+	7
+27 Mar 	Redfield & Wilton 	N/A 	GB 	2,000 	35% 	37% 	9% 	6% 	5% 	5% 	
+3%
+	2
+25–27 Mar 	Savanta ComRes 	N/A 	GB 	2,226 	35% 	39% 	11% 	5% 	3% 	3% 	
+4%
+	4
+23–25 Mar 	Opinium 	The Observer 	GB 	2,002 	36% 	38% 	9% 	4% 	7% 	— 	
+7%
+	2
+23–24 Mar 	YouGov 	The Times 	GB 	1,759 	35% 	37% 	10% 	4% 	7% 	4% 	
+3%
+	2
+23–24 Mar 	Techne 	N/A 	UK 	1,641 	35% 	40% 	10% 	4% 	5% 	— 	6% 	5
+22–23 Mar 	YouGov 	The Times 	GB 	1,810 	35% 	36% 	9% 	4% 	8% 	5% 	
+4%
+	1
+17–21 Mar 	Kantar Public 	N/A 	GB 	1,042 	36% 	36% 	12% 	3% 	6% 	3% 	
+4%
+	Tie
+20 Mar 	Redfield & Wilton 	N/A 	GB 	2,000 	35% 	40% 	11% 	4% 	7% 	2% 	
+1%
+	5
+16–17 Mar 	Techne 	N/A 	UK 	1,636 	35% 	39% 	10% 	4% 	6% 	— 	6% 	4
+16–17 Mar 	YouGov 	The Times 	GB 	1,761 	33% 	39% 	10% 	5% 	7% 	4% 	
+3%
+	6
+9–16 Mar 	Ipsos 	Evening Standard 	GB 	1,000 	35% 	39% 	10% 	5% 	7% 	— 	5% 	4
+13 Mar 	Redfield & Wilton 	N/A 	GB 	2,000 	36% 	39% 	10% 	4% 	6% 	4% 	
+3%
+	3
+11–13 Mar 	Savanta ComRes 	N/A 	UK 	2,192 	35% 	40% 	9% 	4% 	3% 	3% 	
+5%
+	5
+9–11 Mar 	Opinium 	The Observer 	GB 	2,007 	35% 	37% 	9% 	4% 	7% 	— 	
+8%
+	2
+8–11 Mar 	Deltapoll 	N/A 	GB 	2,003 	34% 	40% 	10% 	5% 	5% 	2% 	
+3%
+	6
+9–10 Mar 	Techne 	N/A 	UK 	1,641 	36% 	38% 	9% 	4% 	6% 	— 	7% 	2
+8–9 Mar 	YouGov 	The Times 	GB 	1,700 	33% 	39% 	10% 	4% 	7% 	4% 	
+3%
+	6
+7 Mar 	Redfield & Wilton 	N/A 	GB 	2,000 	37% 	40% 	10% 	4% 	5% 	2% 	
+1%
+	3
+4–7 Mar 	Survation (MRP update) 	38 Degrees 	GB 	2,034 	37% 	40% 	9% 	5% 	5% 	— 	
+5%
+	3
+4–6 Mar 	Savanta ComRes 	N/A 	UK 	2,222 	34% 	41% 	9% 	5% 	4% 	3% 	
+6%
+	7
+3–4 Mar 	YouGov 	The Times 	GB 	1,658 	35% 	37% 	7% 	5% 	8% 	5% 	
+3%
+	2
+3 Mar 	Birmingham Erdington by-election[18]
+2–3 Mar 	Techne 	N/A 	UK 	1,631 	35% 	38% 	10% 	4% 	6% 	— 	7% 	3
+28 Feb 	Redfield & Wilton 	N/A 	GB 	2,000 	35% 	38% 	12% 	5% 	5% 	4% 	
+1%
+	3
+21–28 Feb 	Number Cruncher Politics 	ITV 	UK 	2,001 	35% 	42% 	8% 	5% 	6% 	2% 	
+3%
+	7
+25–27 Feb 	Savanta ComRes 	N/A 	UK 	2,208 	34% 	42% 	9% 	4% 	3% 	3% 	
+5%
+	8
+24–25 Feb 	YouGov 	The Times 	GB 	1,741 	34% 	39% 	9% 	5% 	6% 	5% 	
+4%
+	5
+23–25 Feb 	Opinium 	The Observer 	GB 	2,068 	34% 	38% 	11% 	4% 	6% 	— 	
+6%
+	4
+23–24 Feb 	Techne 	N/A 	UK 	1,635 	35% 	39% 	9% 	4% 	6% 	— 	7% 	4
+22–23 Feb 	Omnisis 	The Byline Times 	UK 	1,004 	27% 	46% 	8% 	5% 	7% 	4% 	
+4%
+	19
+21 Feb 	Redfield & Wilton 	N/A 	GB 	2,000 	33% 	39% 	11% 	5% 	7% 	4% 	
+2%
+	6
+17–21 Feb 	Kantar Public 	N/A 	GB 	1,090 	34% 	39% 	12% 	4% 	6% 	2% 	
+3%
+	5
+17–21 Feb 	Survation 	N/A 	UK 	2,050 	35% 	42% 	9% 	4% 	3% 	2% 	
+5%
+	7
+18–20 Feb 	Savanta ComRes 	The Independent 	UK 	2,201 	33% 	40% 	11% 	4% 	5% 	3% 	
+4%
+	7
+14–18 Feb 	FindOutNow 	N/A 	GB 	12,700 	32% 	38% 	13% 	5% 	7% 	4% 	
+3%
+	6
+16–17 Feb 	Techne 	N/A 	UK 	1,625 	34% 	39% 	10% 	4% 	6% 	— 	7% 	5
+16–17 Feb 	YouGov 	The Times 	GB 	1,720 	34% 	38% 	10% 	4% 	6% 	4% 	
+3%
+	4
+14 Feb 	Redfield & Wilton 	N/A 	GB 	2,000 	33% 	38% 	11% 	4% 	6% 	5% 	
+3%
+	5
+11–13 Feb 	Savanta ComRes 	N/A 	UK 	2,226 	32% 	41% 	11% 	4% 	4% 	3% 	
+5%
+	9
+10–11 Feb 	YouGov 	The Times 	GB 	1,720 	34% 	37% 	10% 	5% 	8% 	4% 	
+3%
+	3
+9–11 Feb 	Opinium[f] 	The Observer 	GB 	1,526 	34% 	37% 	11% 	3% 	6% 	— 	
+9%
+	3
+8–9 Feb 	Techne 	N/A 	UK 	1,631 	33% 	41% 	9% 	4% 	6% 	— 	7% 	8
+7 Feb 	Redfield & Wilton 	N/A 	GB 	2,000 	32% 	42% 	9% 	4% 	6% 	4% 	
+3%
+	10
+4–6 Feb 	Savanta ComRes 	N/A 	UK 	2,232 	33% 	42% 	9% 	4% 	5% 	3% 	
+5%
+	9
+3–4 Feb 	Deltapoll 	The Sun on Sunday 	GB 	1,587 	34% 	41% 	10% 	4% 	5% 	2% 	
+4%
+	7
+3 Feb 	Southend West by-election[19]
+1–2 Feb 	Techne 	N/A 	UK 	1,631 	32% 	40% 	10% 	4% 	6% 	— 	8% 	8
+1–2 Feb 	YouGov 	The Times 	GB 	1,661 	32% 	41% 	10% 	5% 	6% 	4% 	
+3%
+	9
+31 Jan 	Redfield & Wilton 	N/A 	GB 	2,000 	33% 	40% 	11% 	4% 	6% 	3% 	
+2%
+	7
+28–30 Jan 	Savanta ComRes 	N/A 	UK 	2,283 	33% 	44% 	9% 	4% 	3% 	3% 	
+1%
+	11
+28 Jan 	Techne 	N/A 	UK 	— 	31% 	38% 	12% 	4% 	6% 	2% 	7% 	7
+27–28 Jan 	Opinium 	The Observer 	GB 	1,647 	34% 	39% 	9% 	5% 	5% 	— 	
+7%
+	5
+26–27 Jan 	Omnisis 	The Byline Times 	UK 	1,005 	28% 	48% 	7% 	5% 	6% 	4% 	
+1%
+	20
+26–27 Jan 	YouGov 	The Times 	GB 	1,656 	32% 	38% 	11% 	5% 	7% 	3% 	
+4%
+	6
+25–27 Jan 	Deltapoll 	Daily Mirror 	GB 	1,515 	32% 	42% 	10% 	5% 	6% 	1% 	
+3%
+	10
+25 Jan 	Survation 	Daily Mail 	UK 	1,117 	35% 	40% 	10% 	5% 	3% 	3% 	
+4%
+	5
+19–25 Jan 	Ipsos 	Evening Standard 	GB 	1,059 	31% 	40% 	13% 	4% 	9% 	1% 	
+2%
+	9
+24 Jan 	Redfield & Wilton 	N/A 	GB 	2,000 	34% 	41% 	11% 	5% 	5% 	3% 	
+1%
+	7
+20–24 Jan 	Kantar Public 	N/A 	GB 	1,086 	34% 	38% 	11% 	5% 	7% 	2% 	
+3%
+	4
+21–23 Jan 	Savanta ComRes 	N/A 	UK 	2,095 	32% 	40% 	11% 	5% 	4% 	3% 	
+5%
+	8
+11–23 Jan 	JL Partners 	Sunday Times 	GB 	4,561 	32% 	42% 	10% 	5% 	7% 	2% 	
+2%
+	10
+20–21 Jan 	YouGov 	The Times 	GB 	1,668 	32% 	39% 	8% 	5% 	8% 	4% 	
+3%
+	7
+20–20 Jan 	Omnisis 	The Byline Times 	UK 	1,015 	27% 	45% 	8% 	5% 	7% 	4% 	
+4%
+	18
+17 Jan 	Redfield & Wilton 	N/A 	GB 	2,000 	30% 	43% 	9% 	4% 	7% 	4% 	
+3%
+	13
+14–17 Jan 	Survation 	38 Degrees 	UK 	2,036 	33% 	43% 	10% 	4% 	3% 	2% 	
+5%
+	10
+14–16 Jan 	Savanta ComRes 	N/A 	GB 	2,151 	32% 	41% 	11% 	5% 	4% 	3% 	
+5%
+	9
+12–16 Jan 	Deltapoll 	N/A 	GB 	4,292 	32% 	41% 	11% 	5% 	5% 	2% 	
+4%
+	9
+13–14 Jan 	Savanta ComRes 	N/A 	GB 	2,151 	32% 	42% 	11% 	4% 	4% 	2% 	
+5%
+	10
+13–14 Jan 	YouGov 	The Times 	GB 	1,683 	31% 	39% 	11% 	5% 	6% 	5% 	
+3%
+	8
+12–14 Jan 	Opinium 	The Observer 	UK 	1,271 	31% 	41% 	9% 	4% 	6% 	— 	
+9%
+	10
+13 Jan 	FindOutNow/Electoral Calculus 	N/A 	GB 	2,128 	27% 	41% 	11% 	5% 	8% 	5% 	
+3%
+	14
+12–13 Jan 	YouGov 	The Times 	GB 	1,690 	29% 	40% 	11% 	5% 	6% 	6% 	1% 	11
+12–13 Jan 	Focaldata 	N/A 	GB 	1,003 	33% 	42% 	11% 	3% 	4% 	3% 	
+3%
+	9
+11–12 Jan 	YouGov 	The Times 	GB 	1,666 	28% 	38% 	13% 	5% 	7% 	4% 	3% 	10
+10 Jan 	Redfield & Wilton 	N/A 	GB 	2,000 	35% 	39% 	12% 	4% 	5% 	4% 	
+1%
+	4
+7–9 Jan 	Savanta ComRes 	N/A 	GB 	2,207 	33% 	37% 	11% 	5% 	4% 	4% 	
+6%
+	4
+6–7 Jan 	YouGov 	The Times 	GB 	1,744 	33% 	37% 	10% 	5% 	6% 	5% 	
+4%
+	4
+5–7 Jan 	Opinium Archived 8 January 2022 at the Wayback Machine 	The Observer 	UK 	1,326 	34% 	39% 	11% 	4% 	5% 	— 	
+7%
+	5
+3 Jan 	Redfield & Wilton 	N/A 	GB 	2,000 	35% 	38% 	10% 	5% 	5% 	4% 	
+2%
+	3
+2021
+For political events during the year, see 2021 in United Kingdom politics and government.
+Dates
+conducted 	Pollster 	Client 	Area 	Sample
+size 	Con 	Lab 	Lib Dems 	SNP 	Green 	Reform 	Others 	Lead
+					
+23–30 Dec 	Deltapoll 	The Mail on Sunday 	GB 	1,567 	35% 	40% 	10% 	5% 	4% 	3% 	
+2%
+	5
+28 Dec 	Techne 	N/A 	UK 	TBA 	32% 	37% 	11% 	4% 	4% 	— 	12% 	5
+21–23 Dec 	Opinium 	The Observer 	UK 	1,216 	32% 	39% 	11% 	5% 	6% 	— 	
+8%
+	7
+20–21 Dec 	Focaldata 	N/A 	GB 	1,008 	34% 	41% 	9% 	4% 	4% 	4% 	
+2%
+	7
+1–21 Dec 	Focaldata 	The Times 	GB 	24,373 	32% 	40% 	10% 	3% 	7% 	6% 	
+3%
+	8
+20 Dec 	Redfield & Wilton 	N/A 	GB 	2,000 	31% 	39% 	13% 	5% 	6% 	5% 	
+2%
+	8
+19–20 Dec 	YouGov 	The Times 	GB 	1,790 	30% 	36% 	12% 	6% 	8% 	5% 	
+4%
+	6
+17–19 Dec 	Savanta ComRes 	N/A 	UK 	2,096 	32% 	37% 	13% 	4% 	5% 	4% 	
+5%
+	5
+16 Dec 	North Shropshire by-election[20]
+16 Dec 	Savanta ComRes 	The Daily Express 	UK 	2,139 	34% 	38% 	10% 	5% 	4% 	4% 	
+5%
+	4
+14–15 Dec 	FindOutNow/Electoral Calculus 	The Telegraph 	GB 	1,017 	30% 	38% 	10% 	2% 	10% 	7% 	
+3%
+	8
+14–15 Dec 	YouGov 	The Times 	GB 	1,714 	32% 	37% 	10% 	5% 	7% 	6% 	
+4%
+	5
+13–14 Dec 	Survation 	38 Degrees 	UK 	2,039 	34% 	40% 	8% 	5% 	4% 	2% 	
+4%
+	6
+13 Dec 	Redfield & Wilton 	N/A 	GB 	2,000 	32% 	37% 	11% 	4% 	7% 	7% 	
+1%
+	5
+9–13 Dec 	Kantar Public 	N/A 	GB 	1,074 	34% 	38% 	11% 	3% 	7% 	3% 	
+5%
+	4
+8–13 Dec 	YouGov 	Fabian Society 	GB 	3,380 	31% 	38% 	8% 	5% 	8% 	6% 	
+3%
+	7
+10–11 Dec 	Survation 	GMB 	UK 	1,218 	32% 	39% 	9% 	5% 	5% 	4% 	
+6%
+	7
+9–10 Dec 	YouGov 	The Times 	GB 	1,741 	32% 	40% 	8% 	4% 	7% 	7% 	
+3%
+	8
+9–10 Dec 	Savanta ComRes 	Daily Mail 	UK 	2,118 	33% 	39% 	9% 	5% 	4% 	4% 	
+6%
+	6
+8–10 Dec 	Opinium 	The Observer 	UK 	2,042 	32% 	41% 	9% 	5% 	5% 	— 	
+8%
+	9
+3–10 Dec 	Ipsos 	Evening Standard 	GB 	1,005 	34% 	39% 	11% 	5% 	7% 	2% 	
+4%
+	5
+9 Dec 	Focaldata 	Times Radio 	GB 	1,001 	33% 	41% 	7% 	5% 	6% 	6% 	
+2%
+	8
+8–9 Dec 	YouGov 	The Times 	GB 	1,686 	33% 	37% 	9% 	5% 	7% 	6% 	
+2%
+	4
+8–9 Dec 	Survation 	Daily Mirror 	UK 	1,178 	34% 	40% 	10% 	4% 	4% 	3% 	
+6%
+	6
+8 Dec 	Redfield & Wilton 	N/A 	GB 	1,500 	34% 	38% 	11% 	4% 	6% 	5% 	
+1%
+	4
+6 Dec 	Redfield & Wilton 	N/A 	GB 	2,000 	38% 	36% 	9% 	4% 	6% 	4% 	
+2%
+	2
+3–5 Dec 	Savanta ComRes 	N/A 	UK 	2,232 	38% 	37% 	9% 	4% 	5% 	2% 	
+5%
+	1
+2–4 Dec 	Deltapoll 	N/A 	GB 	1,553 	37% 	38% 	10% 	5% 	5% 	2% 	
+3%
+	1
+2 Dec 	Old Bexley and Sidcup by-election[21]
+1–2 Dec 	YouGov 	The Times 	GB 	1,708 	36% 	33% 	9% 	5% 	9% 	6% 	
+2%
+	3
+30 Nov – 1 Dec 	Survation 	N/A 	UK 	1,060 	36% 	39% 	9% 	5% 	3% 	3% 	
+5%
+	3
+29 Nov – 1 Dec 	FindOutNow 	Daily Telegraph 	GB 	10,272 	36% 	35% 	11% 	5% 	8% 	3% 	
+2%
+	1
+29 Nov 	Redfield & Wilton 	N/A 	GB 	2,000 	38% 	36% 	10% 	4% 	6% 	4% 	
+2%
+	2
+26–28 Nov 	Savanta ComRes 	N/A 	GB 	2,060 	37% 	37% 	8% 	5% 	5% 	4% 	
+5%
+	Tie
+24–26 Nov 	Opinium 	The Observer 	UK 	1,990 	36% 	38% 	8% 	5% 	6% 	— 	
+8%
+	2
+24–25 Nov 	YouGov 	The Times 	GB 	1,692 	36% 	35% 	7% 	5% 	8% 	6% 	
+3%
+	1
+18–22 Nov 	Kantar Public 	N/A 	GB 	1,119 	39% 	36% 	10% 	4% 	5% 	2% 	
+4%
+	3
+21 Nov 	Redfield & Wilton 	N/A 	GB 	2,000 	37% 	37% 	9% 	4% 	6% 	3% 	
+3%
+	Tie
+19–21 Nov 	Savanta ComRes 	N/A 	UK 	2,184 	36% 	38% 	10% 	4% 	5% 	3% 	
+5%
+	2
+10–19 Nov 	Panelbase 	N/A 	GB 	3,888 	38% 	39% 	9% 	4% 	6% 	— 	
+4%
+	1
+17–18 Nov 	YouGov 	The Times 	GB 	1,800 	36% 	34% 	7% 	4% 	10% 	5% 	
+4%
+	2
+15 Nov 	Redfield & Wilton 	N/A 	GB 	2,000 	36% 	37% 	10% 	4% 	5% 	4% 	
+3%
+	1
+11–15 Nov 	Survation 	38 Degrees 	UK 	3,108 	37% 	37% 	10% 	5% 	4% 	2% 	
+5%
+	Tie
+11–12 Nov 	Savanta ComRes Archived 24 January 2022 at the Wayback Machine 	Daily Mail 	UK 	2,019 	34% 	40% 	10% 	5% 	5% 	3% 	
+5%
+	6
+10–12 Nov 	Opinium 	The Observer 	UK 	1,175 	36% 	37% 	9% 	5% 	7% 	— 	
+6%
+	1
+10–11 Nov 	YouGov 	The Times 	GB 	1,696 	35% 	35% 	8% 	5% 	10% 	4% 	
+4%
+	Tie
+10 Nov 	Redfield & Wilton 	N/A 	GB 	1,500 	36% 	38% 	10% 	4% 	6% 	3% 	
+1%
+	2
+8 Nov 	Omnisis 	The Byline Times 	UK 	1,005 	30% 	42% 	6% 	5% 	8% 	5% 	
+4%
+	12
+8 Nov 	Redfield & Wilton 	N/A 	GB 	2,000 	37% 	36% 	10% 	5% 	6% 	5% 	
+1%
+	1
+5–8 Nov 	FindOutNow 	Daily Telegraph 	GB 	10,700 	36% 	35% 	11% 	4% 	8% 	2% 	
+4%
+	1
+5–7 Nov 	Savanta ComRes 	N/A 	UK 	2,242 	38% 	35% 	10% 	5% 	4% 	3% 	
+6%
+	3
+5–6 Nov 	Opinium 	The Observer 	GB 	1,175 	37% 	36% 	9% 	5% 	6% 	— 	
+7%
+	1
+3–5 Nov 	Deltapoll 	N/A 	GB 	1,560 	40% 	37% 	8% 	3% 	6% 	2% 	
+4%
+	3
+4 Nov 	Omnisis 	The Byline Times 	UK 	1,004 	35% 	41% 	5% 	5% 	7% 	5% 	
+3%
+	6
+3–4 Nov 	YouGov 	The Times 	GB 	1,699 	36% 	35% 	8% 	5% 	9% 	5% 	
+2%
+	1
+29 Oct – 4 Nov 	Ipsos 	Evening Standard 	GB 	1,007 	35% 	36% 	9% 	5% 	11% 	1% 	
+3%
+	1
+1 Nov 	Redfield & Wilton 	N/A 	GB 	2,000 	40% 	35% 	10% 	4% 	6% 	3% 	
+2%
+	5
+29–31 Oct 	Savanta ComRes 	N/A 	UK 	2,242 	40% 	35% 	9% 	5% 	4% 	3% 	
+5%
+	5
+27–29 Oct 	Opinium 	The Observer 	GB 	2,001 	40% 	35% 	8% 	5% 	7% 	— 	
+6%
+	5
+27–28 Oct 	YouGov 	The Times 	GB 	1,699 	39% 	33% 	8% 	5% 	10% 	3% 	
+4%
+	6
+25 Oct 	Redfield & Wilton 	N/A 	GB 	2,000 	39% 	36% 	10% 	4% 	6% 	4% 	
+1%
+	3
+22–24 Oct 	Savanta ComRes 	N/A 	UK 	2,092 	37% 	35% 	8% 	5% 	7% 	4% 	
+6%
+	2
+20–21 Oct 	YouGov 	The Times 	GB 	1,677 	37% 	33% 	9% 	5% 	10% 	4% 	
+3%
+	4
+18 Oct 	Redfield & Wilton 	N/A 	GB 	2,000 	40% 	37% 	9% 	4% 	5% 	3% 	
+2%
+	3
+14–18 Oct 	Kantar Public 	N/A 	GB 	1,075 	39% 	34% 	8% 	5% 	8% 	2% 	
+3%
+	5
+11–18 Oct 	Number Cruncher Politics 	N/A 	UK 	1,000 	40% 	32% 	6% 	6% 	9% 	3% 	
+3%
+	8
+15–17 Oct 	Savanta ComRes 	N/A 	UK 	2,092 	40% 	35% 	8% 	4% 	5% 	3% 	
+5%
+	5
+13–15 Oct 	Deltapoll 	The Mail on Sunday 	GB 	3,043 	38% 	37% 	9% 	4% 	6% 	2% 	
+4%
+	1
+13–15 Oct 	Opinium 	The Observer 	GB 	2,000 	41% 	37% 	7% 	5% 	5% 	— 	
+5%
+	4
+12–13 Oct 	YouGov 	The Times 	GB 	1,659 	41% 	31% 	9% 	4% 	8% 	4% 	
+3%
+	10
+11–12 Oct 	Omnisis 	The Byline Times 	UK 	501 	37% 	34% 	7% 	6% 	8% 	4% 	
+3%
+	3
+11 Oct 	Redfield & Wilton 	N/A 	GB 	2,000 	40% 	36% 	9% 	4% 	6% 	4% 	
+1%
+	4
+8–10 Oct 	Savanta ComRes 	N/A 	UK 	2,103 	40% 	35% 	8% 	5% 	5% 	2% 	
+5%
+	5
+6–7 Oct 	Survation 	Sunday Mirror 	UK 	1,040 	39% 	35% 	9% 	4% 	5% 	3% 	
+5%
+	4
+5–6 Oct 	YouGov 	The Times 	GB 	1,667 	39% 	31% 	9% 	6% 	9% 	4% 	
+3%
+	8
+4–5 Oct 	Omnisis 	The Byline Times 	UK 	1,007 	34% 	39% 	7% 	5% 	8% 	4% 	
+4%
+	5
+4 Oct 	Redfield & Wilton 	N/A 	GB 	2,000 	40% 	37% 	10% 	4% 	4% 	3% 	
+1%
+	3
+1–3 Oct 	Savanta ComRes 	N/A 	UK 	2,095 	40% 	35% 	9% 	5% 	4% 	3% 	
+5%
+	5
+01 Oct 	Carla Denyer and Adrian Ramsay are elected co-leaders of the Green Party of England and Wales[22]
+29 Sep – 1 Oct 	Opinium 	The Observer 	GB 	2,004 	39% 	35% 	8% 	6% 	6% 	— 	
+6%
+	4
+29 Sep 	Survation 	N/A 	UK 	1,001 	41% 	36% 	8% 	5% 	5% 	— 	
+4%
+	5
+28–29 Sep 	YouGov 	The Times 	GB 	1,833 	39% 	31% 	8% 	5% 	9% 	4% 	
+3%
+	8
+27 Sep 	Redfield & Wilton 	N/A 	GB 	2,000 	41% 	35% 	10% 	4% 	5% 	3% 	
+2%
+	6
+23–27 Sep 	Kantar Public 	N/A 	GB 	1,089 	43% 	30% 	11% 	4% 	6% 	3% 	
+3%
+	13
+22–23 Sep 	YouGov 	The Times 	GB 	1,690 	39% 	32% 	10% 	4% 	9% 	3% 	
+3%
+	7
+17–23 Sep 	Ipsos 	Evening Standard 	GB 	1,008 	39% 	36% 	9% 	6% 	6% 	0% 	
+3%
+	3
+21–22 Sep 	Survation 	N/A 	UK 	1,060 	40% 	35% 	8% 	4% 	4% 	— 	
+9%
+	5
+20 Sep 	Redfield & Wilton 	N/A 	GB 	2,000 	41% 	35% 	8% 	4% 	7% 	3% 	
+2%
+	6
+17–19 Sep 	Savanta ComRes 	N/A 	UK 	2,112 	40% 	35% 	9% 	4% 	5% 	2% 	
+5%
+	5
+16–17 Sep 	Opinium 	The Observer 	GB 	2,000 	40% 	37% 	7% 	5% 	6% 	— 	
+5%
+	3
+15–16 Sep 	YouGov 	The Times 	GB 	1,635 	39% 	35% 	7% 	5% 	7% 	3% 	
+3%
+	4
+9–16 Sep 	Panelbase 	N/A 	GB 	3,938 	41% 	36% 	10% 	4% 	5% 	— 	
+5%
+	5
+10–14 Sep 	Survation 	N/A 	UK 	2,164 	40% 	36% 	9% 	4% 	5% 	— 	
+5%
+	4
+13 Sep 	Redfield & Wilton 	N/A 	GB 	2,000 	39% 	35% 	9% 	4% 	6% 	5% 	
+3%
+	4
+10–12 Sep 	Savanta ComRes 	N/A 	UK 	2,097 	39% 	35% 	9% 	4% 	6% 	3% 	
+6%
+	4
+9–11 Sep 	Opinium 	The Observer 	GB 	2,059 	38% 	38% 	8% 	5% 	6% 	— 	
+5%
+	Tie
+8–9 Sep 	YouGov 	The Times 	GB 	1,657 	33% 	35% 	10% 	5% 	9% 	5% 	
+3%
+	2
+6–8 Sep 	FindOutNow (MRP) 	The Sunday Telegraph 	GB 	10,673 	37% 	33% 	12% 	5% 	8% 	4% 	
+6%
+	4
+4–8 Sep 	Omnisis 	The Byline Times 	UK 	993 	34% 	39% 	9% 	5% 	6% 	3% 	
+4%
+	5
+6 Sep 	Redfield & Wilton 	N/A 	GB 	2,000 	41% 	32% 	11% 	4% 	6% 	4% 	
+3%
+	9
+3–5 Sep 	Savanta ComRes 	N/A 	UK 	2,087 	40% 	36% 	9% 	4% 	4% 	3% 	
+5%
+	4
+2–3 Sep 	YouGov 	The Times 	GB 	1,653 	38% 	34% 	8% 	5% 	10% 	3% 	
+4%
+	4
+2–3 Sep 	Deltapoll 	The Sun on Sunday 	GB 	1,589 	41% 	33% 	9% 	3% 	7% 	3% 	
+4%
+	8
+2–3 Sep 	Opinium 	The Observer 	GB 	2,014 	40% 	35% 	7% 	6% 	6% 	— 	
+6%
+	5
+29 Aug 	Redfield & Wilton 	N/A 	GB 	2,000 	41% 	33% 	9% 	4% 	5% 	4% 	
+3%
+	8
+27–29 Aug 	Savanta ComRes 	N/A 	UK 	2,062 	40% 	34% 	10% 	4% 	5% 	2% 	
+4%
+	6
+25–26 Aug 	YouGov 	The Times 	GB 	1,703 	39% 	31% 	8% 	5% 	9% 	4% 	
+4%
+	8
+23 Aug 	Redfield & Wilton 	N/A 	GB 	2,000 	43% 	33% 	10% 	3% 	6% 	3% 	
+1%
+	10
+19–23 Aug 	Kantar Public 	N/A 	GB 	1,094 	37% 	34% 	14% 	4% 	5% 	2% 	
+4%
+	3
+20–22 Aug 	Savanta ComRes 	N/A 	UK 	2,083 	41% 	34% 	9% 	4% 	4% 	2% 	
+5%
+	7
+19–20 Aug 	Opinium 	The Observer 	GB 	2,003 	39% 	36% 	8% 	6% 	6% 	— 	
+5%
+	3
+17–18 Aug 	YouGov 	The Times 	GB 	1,703 	40% 	32% 	9% 	5% 	8% 	3% 	
+4%
+	8
+16 Aug 	Redfield & Wilton 	N/A 	GB 	2,000 	40% 	36% 	10% 	5% 	5% 	3% 	
+2%
+	4
+13–15 Aug 	Savanta ComRes 	N/A 	UK 	2,075 	41% 	34% 	9% 	4% 	4% 	2% 	
+5%
+	7
+11–12 Aug 	YouGov 	The Times 	GB 	2,169 	40% 	32% 	9% 	5% 	7% 	2% 	
+4%
+	8
+9 Aug 	Redfield & Wilton 	N/A 	GB 	2,000 	40% 	37% 	9% 	4% 	6% 	3% 	
+2%
+	3
+30 Jul – 9 Aug 	Ipsos 	Evening Standard 	GB 	1,113 	41% 	30% 	13% 	6% 	8% 	0% 	
+3%
+	11
+6–8 Aug 	Savanta ComRes 	N/A 	UK 	2,047 	41% 	33% 	10% 	4% 	4% 	2% 	
+5%
+	8
+5–6 Aug 	Opinium 	The Observer 	GB 	2,000 	42% 	35% 	7% 	6% 	5% 	— 	
+5%
+	7
+5–6 Aug 	YouGov 	The Times 	GB 	1,730 	41% 	33% 	8% 	5% 	7% 	3% 	
+3%
+	8
+2 Aug 	Redfield & Wilton 	N/A 	GB 	2,000 	41% 	34% 	11% 	4% 	6% 	3% 	
+2%
+	7
+30 Jul – 1 Aug 	Savanta ComRes 	N/A 	UK 	2,100 	40% 	34% 	10% 	4% 	6% 	1% 	
+4%
+	6
+28–29 Jul 	YouGov 	The Times 	GB 	1,637 	39% 	34% 	8% 	4% 	9% 	3% 	
+3%
+	5
+23–26 Jul 	Deltapoll 	N/A 	GB 	1,590 	42% 	37% 	6% 	3% 	6% 	2% 	
+5%
+	5
+25 Jul 	Redfield & Wilton 	N/A 	GB 	2,000 	40% 	36% 	9% 	4% 	6% 	4% 	
+2%
+	4
+23–25 Jul 	Savanta ComRes 	N/A 	UK 	2,161 	40% 	34% 	10% 	4% 	4% 	2% 	
+5%
+	6
+23 Jul 	Survation 	N/A 	UK 	1,013 	39% 	37% 	10% 	4% 	5% 	— 	
+5%
+	2
+22–23 Jul 	Opinium 	The Observer 	GB 	2,000 	43% 	35% 	8% 	5% 	5% 	— 	
+4%
+	8
+20–21 Jul 	YouGov 	The Times 	GB 	1,667 	38% 	34% 	9% 	5% 	8% 	3% 	
+3%
+	4
+19–20 Jul 	Survation 	N/A 	UK 	1,032 	39% 	35% 	11% 	4% 	5% 	— 	
+6%
+	4
+19 Jul 	Redfield & Wilton 	N/A 	GB 	2,000 	42% 	33% 	10% 	4% 	5% 	3% 	
+2%
+	9
+16–18 Jul 	Savanta ComRes 	N/A 	UK 	2,127 	41% 	34% 	8% 	4% 	5% 	2% 	
+5%
+	7
+15–16 Jul 	YouGov 	The Times 	GB 	1,761 	44% 	31% 	8% 	4% 	6% 	3% 	
+3%
+	13
+5–13 Jul 	Survation 	N/A 	UK 	2,119 	43% 	32% 	9% 	5% 	6% 	— 	
+6%
+	11
+12 Jul 	Redfield & Wilton 	N/A 	GB 	2,000 	41% 	33% 	12% 	4% 	6% 	3% 	
+1%
+	8
+7–12 Jul 	Kantar Public 	N/A 	GB 	1,057 	44% 	31% 	12% 	6% 	4% 	1% 	
+3%
+	13
+9–11 Jul 	Savanta ComRes 	N/A 	UK 	2,137 	40% 	35% 	9% 	4% 	6% 	2% 	
+5%
+	5
+8–9 Jul 	Opinium 	The Observer 	GB 	2,001 	43% 	35% 	6% 	5% 	6% 	— 	
+5%
+	8
+7–8 Jul 	YouGov 	The Times 	GB 	2,054 	42% 	30% 	9% 	5% 	7% 	2% 	
+4%
+	12
+2–8 Jul 	Ipsos 	Evening Standard 	GB 	1,053 	40% 	31% 	13% 	6% 	6% 	0% 	
+4%
+	9
+5 Jul 	Redfield & Wilton 	N/A 	GB 	2,000 	43% 	34% 	8% 	4% 	6% 	4% 	
+2%
+	9
+2–4 Jul 	Savanta ComRes 	N/A 	UK 	2,176 	41% 	35% 	8% 	3% 	4% 	3% 	
+6%
+	6
+18 Jun – 2 Jul 	Panelbase 	Sunday Times 	GB 	3,391 	44% 	33% 	10% 	5% 	5% 	— 	
+4%
+	11
+1 Jul 	Batley and Spen by-election[23]
+29–30 Jun 	YouGov 	The Times 	GB 	1,762 	42% 	31% 	10% 	5% 	6% 	3% 	
+3%
+	11
+28 Jun 	Redfield & Wilton 	N/A 	GB 	2,000 	41% 	34% 	9% 	5% 	5% 	3% 	
+2%
+	7
+25–27 Jun 	Savanta ComRes 	N/A 	GB 	2,148 	42% 	33% 	9% 	4% 	5% 	2% 	
+6%
+	9
+25–26 Jun 	Survation 	N/A 	UK 	1,001 	41% 	35% 	10% 	3% 	5% 	— 	
+6%
+	6
+23–25 Jun 	Opinium 	The Observer 	GB 	2,000 	43% 	35% 	7% 	5% 	5% 	— 	
+5%
+	8
+23–24 Jun 	YouGov 	The Times 	GB 	1,758 	42% 	30% 	9% 	5% 	7% 	4% 	
+3%
+	12
+21 Jun 	Redfield & Wilton 	N/A 	GB 	2,000 	44% 	33% 	10% 	4% 	4% 	3% 	
+3%
+	11
+18–20 Jun 	Savanta ComRes 	N/A 	UK 	2,191 	44% 	30% 	10% 	4% 	5% 	1% 	
+5%
+	14
+17–20 Jun 	Deltapoll 	N/A 	GB 	2,343 	41% 	35% 	10% 	2% 	5% 	2% 	
+5%
+	6
+17 Jun 	Chesham and Amersham by-election[24]
+16–17 Jun 	YouGov 	The Times 	GB 	1,642 	45% 	31% 	6% 	5% 	7% 	4% 	
+3%
+	14
+11–15 Jun 	Survation 	N/A 	UK 	2,024 	41% 	33% 	8% 	4% 	7% 	— 	
+6%
+	9
+7–14 Jun 	Number Cruncher Politics 	N/A 	UK 	1,517 	45% 	34% 	5% 	5% 	7% 	3% 	
+2%
+	11
+13 Jun 	Redfield & Wilton 	N/A 	GB 	2,000 	44% 	34% 	9% 	4% 	5% 	2% 	
+1%
+	10
+11–13 Jun 	Savanta ComRes 	N/A 	UK 	2,108 	41% 	34% 	8% 	5% 	6% 	2% 	
+5%
+	7
+10–12 Jun 	Deltapoll 	The Mail on Sunday 	GB 	1,608 	46% 	34% 	7% 	2% 	5% 	2% 	
+4%
+	12
+10–11 Jun 	Opinium 	The Observer 	GB 	2,002 	43% 	34% 	6% 	6% 	7% 	— 	
+5%
+	9
+9–10 Jun 	YouGov 	The Times 	GB 	1,630 	44% 	31% 	7% 	5% 	9% 	2% 	
+3%
+	13
+9–10 Jun 	Survation 	N/A 	UK 	2,017 	42% 	35% 	9% 	4% 	5% 	— 	
+5%
+	7
+7 Jun 	Redfield & Wilton 	N/A 	GB 	2,000 	43% 	36% 	7% 	5% 	5% 	1% 	
+2%
+	7
+3–7 Jun 	Kantar Public 	N/A 	GB 	1,122 	45% 	32% 	8% 	4% 	6% 	2% 	
+3%
+	13
+4–6 Jun 	Savanta ComRes 	N/A 	UK 	2,089 	44% 	32% 	8% 	4% 	5% 	2% 	
+5%
+	12
+2–3 Jun 	YouGov 	The Times 	GB 	1,703 	46% 	30% 	6% 	4% 	9% 	2% 	
+3%
+	16
+28 May – 3 Jun 	Ipsos 	Evening Standard 	GB 	1,002 	44% 	35% 	6% 	5% 	7% 	0% 	
+1%
+	9
+1–2 Jun 	Survation 	N/A 	UK 	1,533 	41% 	33% 	9% 	4% 	6% 	— 	
+6%
+	8
+31 May 	Redfield & Wilton 	N/A 	GB 	2,000 	45% 	34% 	8% 	4% 	5% 	3% 	
+2%
+	11
+28–30 May 	Savanta ComRes 	N/A 	UK 	2,180 	42% 	32% 	9% 	4% 	5% 	2% 	
+5%
+	10
+27–28 May 	Opinium 	The Observer 	GB 	2,004 	42% 	36% 	6% 	5% 	5% 	1% 	
+4%
+	6
+27–28 May 	YouGov 	The Times 	GB 	1,705 	43% 	29% 	8% 	5% 	8% 	3% 	
+3%
+	14
+27–28 May 	Survation Archived 29 May 2021 at the Wayback Machine 	Daily Mail 	UK 	1,010 	43% 	33% 	10% 	5% 	5% 	— 	
+5%
+	10
+27–28 May 	Number Cruncher Politics 	N/A 	UK 	1,001 	44% 	32% 	7% 	5% 	8% 	2% 	
+2%
+	12
+25–26 May 	Survation 	N/A 	UK 	1,041 	44% 	33% 	8% 	4% 	6% 	— 	
+4%
+	11
+24 May 	Redfield & Wilton 	N/A 	GB 	2,000 	43% 	33% 	10% 	4% 	5% 	3% 	
+3%
+	10
+21–23 May 	Savanta ComRes 	N/A 	UK 	2,215 	43% 	34% 	9% 	4% 	4% 	2% 	
+6%
+	9
+19–20 May 	YouGov 	The Times 	GB 	1,699 	46% 	28% 	8% 	5% 	8% 	2% 	
+2%
+	18
+17 May 	Redfield & Wilton 	N/A 	GB 	2,000 	42% 	33% 	10% 	4% 	6% 	2% 	
+3%
+	9
+14–16 May 	Savanta ComRes 	N/A 	UK 	2,131 	43% 	32% 	8% 	4% 	5% 	2% 	
+6%
+	11
+13–15 May 	FindOutNow (MRP) 	The Sunday Telegraph 	GB 	14,715 	43% 	30% 	11% 	5% 	9% 	2% 	
+1%
+	13
+13–14 May 	Opinium 	The Observer 	GB 	2,004 	44% 	31% 	8% 	5% 	7% 	0% 	
+6%
+	13
+13 May 	Airdrie and Shotts by-election[25]
+11–12 May 	YouGov 	The Times 	GB 	1,647 	45% 	30% 	7% 	5% 	8% 	2% 	
+3%
+	15
+10 May 	Redfield & Wilton 	N/A 	GB 	2,000 	45% 	34% 	8% 	4% 	5% 	2% 	
+2%
+	11
+7–9 May 	Savanta ComRes 	N/A 	UK 	2,152 	42% 	34% 	8% 	5% 	4% 	2% 	
+6%
+	8
+06 May 	Local elections in England and Wales, Scottish and Welsh parliament elections, and the Hartlepool by-election[26][27][28][29]
+4–5 May 	YouGov 	The Times 	GB 	1,683 	43% 	33% 	7% 	5% 	6% 	3% 	
+3%
+	10
+4–5 May 	Panelbase 	N/A 	GB 	1,003 	45% 	36% 	6% 	4% 	5% 	— 	
+4%
+	9
+3 May 	Redfield & Wilton 	N/A 	GB 	2,000 	40% 	38% 	7% 	4% 	5% 	3% 	
+2%
+	2
+30 Apr – 2 May 	Savanta ComRes 	N/A 	UK 	2,242 	40% 	36% 	8% 	4% 	4% 	2% 	
+5%
+	4
+29–30 Apr 	Focaldata 	The Sunday Times 	GB 	1,555 	40% 	39% 	6% 	4% 	4% 	3% 	
+3%
+	1
+28–30 Apr 	Opinium 	The Observer 	GB 	2,001 	42% 	37% 	7% 	5% 	4% 	0% 	
+5%
+	5
+28–29 Apr 	Number Cruncher Politics[permanent dead link] 	N/A 	UK 	1,001 	43% 	34% 	5% 	5% 	7% 	2% 	
+3%
+	9
+27–29 Apr 	Survation 	Daily Mail 	UK 	1,077 	39% 	38% 	9% 	4% 	6% 	— 	
+5%
+	1
+27–28 Apr 	YouGov 	The Times 	GB 	1,803 	44% 	33% 	7% 	4% 	7% 	3% 	
+2%
+	11
+26 Apr 	Redfield & Wilton 	N/A 	GB 	2,000 	44% 	34% 	8% 	5% 	4% 	3% 	
+2%
+	10
+22–26 Apr 	Kantar Public 	N/A 	GB 	1,115 	41% 	33% 	10% 	5% 	7% 	3% 	
+2%
+	8
+22–26 Apr 	BMG 	The Independent 	GB 	1,500 	39% 	35% 	9% 	4% 	6% 	3% 	
+3%
+	4
+23–25 Apr 	Savanta ComRes 	N/A 	UK 	2,144 	42% 	35% 	8% 	5% 	3% 	2% 	
+5%
+	7
+21–23 Apr 	Opinium 	The Observer 	GB 	2,000 	44% 	33% 	7% 	6% 	5% 	0% 	
+6%
+	11
+21–22 Apr 	YouGov 	The Times 	GB 	1,730 	44% 	34% 	5% 	5% 	7% 	2% 	
+5%
+	10
+16–22 Apr 	Ipsos 	Evening Standard 	GB 	1,090 	40% 	37% 	8% 	6% 	5% 	2% 	
+3%
+	3
+19 Apr 	Redfield & Wilton 	N/A 	GB 	2,000 	44% 	34% 	10% 	4% 	4% 	3% 	
+3%
+	10
+15–19 Apr 	Survation 	N/A 	UK 	1,008 	40% 	34% 	9% 	4% 	7% 	— 	
+7%
+	6
+16–18 Apr 	Savanta ComRes 	N/A 	UK 	2,094 	43% 	34% 	7% 	5% 	4% 	1% 	
+6%
+	9
+13–14 Apr 	YouGov 	The Times 	GB 	1,689 	43% 	29% 	8% 	5% 	8% 	3% 	
+3%
+	14
+12 Apr 	Redfield & Wilton 	N/A 	GB 	2,000 	43% 	36% 	7% 	4% 	5% 	3% 	
+3%
+	7
+9–11 Apr 	Savanta ComRes 	N/A 	UK 	2,174 	42% 	35% 	7% 	5% 	4% 	2% 	
+7%
+	7
+8–10 Apr 	Survation 	N/A 	UK 	1,009 	43% 	35% 	8% 	3% 	4% 	— 	
+6%
+	8
+8–10 Apr 	Deltapoll Archived 10 April 2021 at the Wayback Machine 	The Mail on Sunday 	GB 	1,608 	45% 	36% 	6% 	2% 	4% 	4% 	
+3%
+	9
+8–9 Apr 	Opinium 	The Observer 	GB 	2,006 	45% 	36% 	6% 	6% 	4% 	0% 	
+4%
+	9
+7–8 Apr 	YouGov 	The Times 	GB 	1,708 	41% 	34% 	6% 	5% 	6% 	3% 	
+4%
+	7
+5 Apr 	Redfield & Wilton 	N/A 	GB 	2,000 	44% 	34% 	9% 	4% 	5% 	2% 	
+2%
+	10
+2–4 Apr 	Savanta ComRes 	N/A 	UK 	2,065 	42% 	35% 	8% 	4% 	3% 	2% 	
+5%
+	7
+31 Mar – 1 Apr 	YouGov 	The Times 	GB 	1,736 	42% 	34% 	7% 	5% 	6% 	3% 	
+3%
+	8
+29 Mar 	Redfield & Wilton 	N/A 	GB 	2,000 	44% 	36% 	7% 	4% 	4% 	2% 	
+3%
+	8
+25–29 Mar 	Kantar Public 	N/A 	GB 	1,102 	42% 	34% 	9% 	7% 	4% 	2% 	
+3%
+	8
+25–27 Mar 	Deltapoll Archived 28 March 2021 at the Wayback Machine 	The Mail on Sunday 	GB 	1,610 	44% 	36% 	6% 	2% 	4% 	3% 	
+5%
+	8
+25–26 Mar 	YouGov 	The Times 	GB 	1,742 	42% 	32% 	8% 	5% 	7% 	3% 	
+3%
+	10
+25–26 Mar 	Opinium 	The Observer 	GB 	2,002 	41% 	37% 	6% 	6% 	5% 	1% 	
+5%
+	4
+22 Mar 	Redfield & Wilton 	N/A 	GB 	2,000 	42% 	36% 	9% 	4% 	6% 	2% 	
+2%
+	6
+19–21 Mar 	Savanta ComRes 	N/A 	UK 	2,098 	42% 	38% 	6% 	4% 	3% 	2% 	
+5%
+	4
+18–19 Mar 	YouGov 	The Times 	GB 	1,692 	43% 	34% 	5% 	5% 	7% 	3% 	
+3%
+	9
+16–19 Mar 	BMG 	The Independent 	GB 	1,498 	39% 	37% 	9% 	4% 	6% 	3% 	
+2%
+	2
+12–16 Mar 	Number Cruncher Politics 	N/A 	UK 	1,001 	42% 	37% 	7% 	5% 	5% 	2% 	
+3%
+	5
+15 Mar 	Redfield & Wilton 	N/A 	GB 	2,000 	43% 	36% 	7% 	4% 	5% 	3% 	
+1%
+	7
+12–14 Mar 	Savanta ComRes 	N/A 	UK 	2,092 	39% 	37% 	8% 	4% 	4% 	3% 	
+5%
+	2
+11–12 Mar 	Opinium 	The Observer 	GB 	2,001 	43% 	37% 	6% 	5% 	4% 	0% 	
+4%
+	6
+5–12 Mar 	Ipsos 	Evening Standard 	GB 	1,009 	45% 	38% 	6% 	5% 	5% 	0% 	
+1%
+	7
+9–10 Mar 	YouGov 	The Times 	GB 	1,680 	42% 	33% 	7% 	4% 	6% 	3% 	
+3%
+	9
+9–10 Mar 	Survation 	Sunday Mirror 	UK 	1,037 	43% 	33% 	9% 	5% 	5% 	1% 	
+4%
+	10
+8 Mar 	Redfield & Wilton 	N/A 	GB 	2,000 	45% 	36% 	7% 	4% 	4% 	3% 	
+1%
+	9
+5–7 Mar 	Savanta ComRes 	N/A 	UK 	2,129 	42% 	36% 	8% 	4% 	4% 	3% 	
+5%
+	6
+06 Mar 	Richard Tice becomes leader of Reform UK[30]
+3–4 Mar 	YouGov 	The Times 	GB 	1,715 	45% 	32% 	6% 	5% 	7% 	3% 	
+2%
+	13
+1 Mar 	Redfield & Wilton 	N/A 	GB 	1,500 	44% 	38% 	7% 	4% 	3% 	2% 	
+1%
+	6
+26–28 Feb 	Savanta ComRes Archived 2 March 2021 at the Wayback Machine 	N/A 	UK 	2,182 	43% 	36% 	7% 	4% 	3% 	3% 	
+4%
+	7
+25–26 Feb 	YouGov 	The Times 	GB 	1,637 	41% 	36% 	5% 	5% 	7% 	3% 	
+2%
+	5
+24–26 Feb 	Deltapoll 	The Mail on Sunday 	GB 	1,527 	42% 	38% 	6% 	2% 	4% 	3% 	
+4%
+	4
+24–26 Feb 	Opinium 	The Observer 	GB 	2,003 	43% 	36% 	7% 	6% 	4% 	0% 	
+4%
+	7
+23–25 Feb 	Survation 	N/A 	UK 	1,002 	42% 	34% 	7% 	5% 	6% 	— 	
+6%
+	8
+22 Feb 	Redfield & Wilton 	N/A 	GB 	2,000 	43% 	37% 	7% 	4% 	5% 	3% 	
+1%
+	6
+18–22 Feb 	Kantar Public 	N/A 	GB 	1,114 	40% 	33% 	11% 	4% 	6% 	3% 	
+4%
+	7
+19–21 Feb 	Savanta ComRes Archived 2 July 2022 at the Wayback Machine 	N/A 	UK 	2,189 	40% 	38% 	7% 	4% 	3% 	3% 	
+6%
+	2
+17–18 Feb 	YouGov 	The Times 	GB 	1,663 	40% 	37% 	7% 	5% 	6% 	3% 	
+2%
+	3
+15 Feb 	Redfield & Wilton 	N/A 	GB 	2,000 	41% 	39% 	8% 	5% 	5% 	2% 	
+1%
+	2
+12–14 Feb 	Savanta ComRes 	N/A 	UK 	2,170 	42% 	37% 	7% 	4% 	3% 	2% 	
+7%
+	5
+11–12 Feb 	Opinium 	The Observer 	UK 	2,006 	42% 	37% 	6% 	5% 	5% 	0% 	
+5%
+	5
+9–10 Feb 	YouGov 	The Times 	GB 	1,660 	41% 	36% 	6% 	5% 	7% 	3% 	
+4%
+	5
+8 Feb 	Redfield & Wilton 	N/A 	GB 	2,000 	43% 	38% 	7% 	5% 	4% 	2% 	
+1%
+	5
+5–7 Feb 	Savanta ComRes Archived 16 February 2021 at the Wayback Machine 	N/A 	UK 	2,119 	41% 	37% 	8% 	4% 	4% 	2% 	
+5%
+	4
+5–6 Feb 	Survation 	N/A 	UK 	1,003 	39% 	33% 	9% 	5% 	7% 	— 	
+6%
+	6
+29 Jan – 4 Feb 	Ipsos 	Evening Standard 	GB 	1,056 	42% 	38% 	7% 	5% 	8% 	0% 	
+0%
+	4
+2–3 Feb 	YouGov 	The Times 	GB 	1,684 	41% 	37% 	6% 	5% 	6% 	3% 	
+3%
+	4
+2 Feb 	FindOutNow 	N/A 	GB 	5,002 	39% 	38% 	7% 	6%[g] 	6% 	3% 	
+1%
+	1
+1 Feb 	Redfield & Wilton 	N/A 	GB 	2,000 	40% 	38% 	8% 	5% 	4% 	3% 	
+1%
+	2
+25 Jan – 1 Feb 	Number Cruncher Politics 	ITV 	UK 	2,001 	43% 	37% 	5% 	5% 	5% 	3% 	
+2%
+	6
+29–31 Jan 	Savanta ComRes Archived 15 February 2021 at the Wayback Machine 	N/A 	UK 	2,288 	41% 	38% 	6% 	5% 	3% 	2% 	
+5%
+	3
+28–29 Jan 	Opinium Archived 6 February 2021 at the Wayback Machine 	The Observer 	UK 	2,002 	41% 	38% 	7% 	5% 	4% 	1% 	
+4%
+	3
+26–27 Jan 	YouGov 	The Times 	GB 	1,721 	37% 	41% 	6% 	5% 	4% 	3% 	
+4%
+	4
+25 Jan 	Redfield & Wilton 	N/A 	GB 	2,000 	42% 	37% 	8% 	5% 	4% 	3% 	
+2%
+	5
+21–25 Jan 	Kantar Public 	N/A 	GB 	1,100 	40% 	37% 	10% 	4% 	5% 	2% 	
+2%
+	3
+22–24 Jan 	Savanta ComRes 	N/A 	UK 	2,070 	40% 	37% 	8% 	5% 	3% 	2% 	
+4%
+	3
+21–23 Jan 	Deltapoll 	The Mail on Sunday 	GB 	1,632 	41% 	39% 	7% 	4% 	3% 	2% 	
+4%
+	2
+21–22 Jan 	YouGov 	The Times 	GB 	1,703 	39% 	38% 	5% 	5% 	6% 	4% 	
+3%
+	1
+18 Jan 	Redfield & Wilton 	N/A 	GB 	2,000 	40% 	38% 	8% 	4% 	5% 	2% 	
+2%
+	2
+15–17 Jan 	Savanta ComRes Archived 29 January 2021 at the Wayback Machine 	N/A 	UK 	1,914 	39% 	37% 	7% 	5% 	3% 	2% 	
+5%
+	2
+14–15 Jan 	Opinium Archived 22 January 2021 at the Wayback Machine 	The Observer 	UK 	2,003 	37% 	41% 	6% 	6% 	4% 	— 	
+5%
+	4
+13–14 Jan 	YouGov 	The Times 	GB 	1,702 	38% 	39% 	5% 	5% 	6% 	3% 	
+3%
+	1
+12–13 Jan 	Survation 	N/A 	UK 	1,033 	40% 	38% 	7% 	4% 	5% 	1% 	
+6%
+	2
+11 Jan 	Redfield & Wilton 	N/A 	GB 	2,000 	41% 	37% 	8% 	5% 	5% 	2% 	
+1%
+	4
+8–10 Jan 	Savanta ComRes Archived 15 January 2021 at the Wayback Machine 	N/A 	UK 	1,550 	40% 	37% 	8% 	4% 	4% 	2% 	
+5%
+	3
+6–7 Jan 	Opinium 	The Observer 	UK 	2,003 	39% 	40% 	6% 	5% 	4% 	— 	
+6%
+	1
+4–5 Jan 	YouGov 	The Times 	GB 	1,704 	39% 	39% 	6% 	5% 	6% 	3% 	
+3%
+	Tie
+2020
+For events during the year, see 2020 in the United Kingdom.
+Dates
+conducted 	Pollster 	Client 	Area 	Sample
+size 	Con 	Lab 	Lib Dems 	SNP 	Green 	Brexit 	Others 	Lead
+					
+26–30 Dec 	Deltapoll 	Daily Mirror 	GB 	1,608 	43% 	38% 	4% 	5% 	5% 	3% 	
+3%
+	5%
+4–29 Dec 	Focaldata (MRP) 	N/A 	GB 	22,186 	36% 	38% 	9% 	4% 	7% 	4% 	
+3%
+	2%
+22 Dec 	Survation 	N/A 	UK 	1,011 	39% 	38% 	8% 	5% 	4% 	1% 	
+6%
+	1%
+21–22 Dec 	YouGov 	The Times 	GB 	1,713 	37% 	41% 	5% 	5% 	5% 	4% 	
+2%
+	4%
+18–21 Dec 	Savanta ComRes Archived 9 January 2021 at the Wayback Machine 	Daily Express 	UK 	1,433 	41% 	39% 	8% 	5% 	4% 	2% 	
+2%
+	2%
+16–17 Dec 	Opinium 	The Observer 	UK 	2,001 	39% 	39% 	6% 	5% 	4% 	— 	
+7%
+	Tie
+15–16 Dec 	YouGov 	The Times 	GB 	1,898 	39% 	37% 	6% 	5% 	6% 	4% 	
+3%
+	2%
+10–14 Dec 	Kantar Public 	N/A 	GB 	1,137 	38% 	37% 	10% 	5% 	3% 	3% 	
+3%
+	1%
+11–13 Dec 	Savanta ComRes Archived 19 December 2020 at the Wayback Machine 	N/A 	UK 	1,295 	38% 	37% 	8% 	5% 	5% 	4% 	
+3%
+	1%
+4–10 Dec 	Ipsos 	Evening Standard 	GB 	1,027 	41% 	41% 	6% 	5% 	5% 	0% 	
+2%
+	Tie
+4–10 Dec 	Survation 	N/A 	UK 	3,452 	39% 	37% 	8% 	5% 	5% 	1% 	
+5%
+	2%
+8–9 Dec 	YouGov 	The Times 	GB 	1,699 	37% 	37% 	8% 	5% 	6% 	5% 	
+2%
+	Tie
+27 Nov – 8 Dec 	Opinium 	The Observer 	UK 	6,949 	40% 	38% 	6% 	5% 	4% 	0% 	
+5%
+	2%
+3–4 Dec 	Opinium 	The Observer 	UK 	2,002 	38% 	40% 	6% 	6% 	3% 	— 	
+8%
+	2%
+2–3 Dec 	YouGov 	The Times 	GB 	1,706 	38% 	38% 	6% 	5% 	5% 	3% 	
+4%
+	Tie
+2 Dec 	Redfield & Wilton 	N/A 	GB 	2,000 	40% 	37% 	9% 	5% 	6% 	— 	
+4%
+	3%
+27–29 Nov 	Savanta ComRes Archived 2 December 2020 at the Wayback Machine 	N/A 	UK 	1,428 	39% 	38% 	8% 	5% 	3% 	3% 	
+5%
+	1%
+26–28 Nov 	Deltapoll 	Daily Mail 	GB 	1,525 	37% 	38% 	9% 	4% 	4% 	3% 	
+5%
+	1%
+20–28 Nov 	Number Cruncher Politics 	N/A 	GB 	1,001 	39% 	37% 	7% 	5% 	5% 	4% 	
+2%
+	2%
+26–27 Nov 	YouGov 	The Times 	GB 	1,696 	37% 	40% 	5% 	6% 	5% 	5% 	
+3%
+	3%
+20–22 Nov 	Savanta ComRes Archived 27 November 2020 at the Wayback Machine 	N/A 	UK 	1,272 	39% 	37% 	7% 	5% 	4% 	3% 	
+5%
+	2%
+19–20 Nov 	Opinium 	The Observer 	UK 	2,001 	41% 	38% 	6% 	6% 	4% 	— 	
+5%
+	3%
+19 Nov 	Redfield & Wilton 	N/A 	GB 	2,500 	40% 	39% 	8% 	5% 	4% 	— 	
+4%
+	1%
+17–18 Nov 	YouGov 	The Times 	GB 	1,700 	38% 	37% 	7% 	6% 	6% 	4% 	
+3%
+	1%
+13–15 Nov 	Savanta ComRes Archived 21 November 2020 at the Wayback Machine 	N/A 	UK 	2,075 	41% 	38% 	5% 	5% 	4% 	2% 	
+4%
+	3%
+11–12 Nov 	YouGov 	The Times 	GB 	1,632 	38% 	40% 	5% 	5% 	5% 	4% 	
+2%
+	2%
+11 Nov 	Redfield & Wilton 	N/A 	GB 	2,500 	40% 	40% 	7% 	5% 	5% 	— 	
+3%
+	Tie
+6–9 Nov 	Savanta ComRes Archived 12 November 2020 at the Wayback Machine 	N/A 	UK 	2,130 	40% 	36% 	8% 	5% 	5% 	2% 	
+3%
+	4%
+5–9 Nov 	Kantar Public 	N/A 	GB 	1,141 	40% 	36% 	8% 	5% 	5% 	2% 	
+3%
+	4%
+5–6 Nov 	Opinium 	The Observer 	UK 	2,003 	38% 	42% 	7% 	5% 	3% 	— 	
+6%
+	4%
+5–6 Nov 	Survation 	N/A 	UK 	1,034 	39% 	37% 	9% 	5% 	4% 	2% 	
+4%
+	2%
+4–5 Nov 	YouGov 	The Times 	GB 	1,665 	35% 	40% 	7% 	5% 	4% 	6% 	
+3%
+	5%
+30 Oct – 2 Nov 	Savanta ComRes Archived 21 November 2020 at the Wayback Machine 	N/A 	UK 	2,126 	40% 	40% 	7% 	5% 	3% 	2% 	
+2%
+	Tie
+28–29 Oct 	YouGov 	The Times 	GB 	1,658 	38% 	38% 	6% 	5% 	5% 	4% 	
+3%
+	Tie
+28 Oct 	Redfield & Wilton 	N/A 	GB 	3,000 	39% 	41% 	7% 	4% 	4% 	— 	
+4%
+	2%
+22–28 Oct 	Ipsos 	Evening Standard 	GB 	1,007 	37% 	42% 	8% 	6% 	5% 	1% 	
+2%
+	5%
+23–26 Oct 	Savanta ComRes Archived 2 November 2020 at the Wayback Machine 	N/A 	UK 	2,111 	42% 	39% 	7% 	4% 	3% 	2% 	
+2%
+	3%
+22–24 Oct 	Deltapoll 	The Mail on Sunday 	GB 	1,589 	42% 	39% 	7% 	3% 	3% 	3% 	
+4%
+	3%
+22–23 Oct 	Opinium 	The Observer 	UK 	2,002 	38% 	40% 	6% 	5% 	5% 	— 	
+6%
+	2%
+21–22 Oct 	YouGov 	The Times 	GB 	1,665 	40% 	39% 	7% 	5% 	5% 	3% 	
+3%
+	1%
+21 Oct 	Redfield & Wilton 	N/A 	GB 	3,000 	40% 	40% 	7% 	5% 	4% 	— 	
+4%
+	Tie
+16–18 Oct 	Savanta ComRes 	N/A 	UK 	2,274 	42% 	36% 	8% 	4% 	3% 	2% 	
+5%
+	6%
+9–17 Oct 	Number Cruncher Politics 	Peston 	GB 	2,088 	41% 	38% 	5% 	5% 	6% 	4% 	
+1%
+	3%
+14–15 Oct 	YouGov 	The Times 	GB 	1,675 	39% 	38% 	6% 	5% 	6% 	5% 	
+2%
+	1%
+9–11 Oct 	Savanta ComRes 	N/A 	UK 	2,123 	39% 	39% 	7% 	5% 	4% 	3% 	
+4%
+	Tie
+8–9 Oct 	Opinium 	The Observer 	UK 	2,001 	40% 	40% 	6% 	6% 	3% 	— 	
+6%
+	Tie
+6–7 Oct 	Redfield & Wilton 	N/A 	GB 	3,000 	41% 	39% 	8% 	4% 	4% 	— 	
+3%
+	2%
+6–7 Oct 	YouGov 	The Times 	GB 	1,673 	41% 	38% 	5% 	5% 	6% 	3% 	
+5%
+	3%
+5–6 Oct 	Survation 	N/A 	UK 	1,022 	41% 	37% 	7% 	4% 	4% 	1% 	
+6%
+	4%
+2–4 Oct 	Savanta ComRes 	N/A 	UK 	2,081 	42% 	39% 	7% 	4% 	3% 	2% 	
+3%
+	3%
+30 Sep – 1 Oct 	Redfield & Wilton 	N/A 	GB 	4,000 	39% 	39% 	8% 	5% 	5% 	— 	
+3%
+	Tie
+29–30 Sep 	YouGov 	The Times 	GB 	1,700 	39% 	39% 	6% 	5% 	5% 	4% 	
+2%
+	Tie
+25–28 Sep 	Savanta ComRes 	N/A 	UK 	2,112 	41% 	38% 	8% 	5% 	3% 	2% 	
+2%
+	3%
+24–25 Sep 	Deltapoll 	The Mail on Sunday 	GB 	1,583 	42% 	38% 	6% 	5% 	4% 	3% 	
+2%
+	4%
+23–25 Sep 	Opinium 	The Observer 	UK 	2,002 	39% 	42% 	5% 	6% 	4% 	— 	
+4%
+	3%
+23–24 Sep 	YouGov 	The Times 	GB 	1,623 	41% 	38% 	6% 	4% 	5% 	3% 	
+3%
+	3%
+22–23 Sep 	Redfield & Wilton 	N/A 	GB 	2,500 	40% 	40% 	7% 	4% 	5% 	— 	
+3%
+	Tie
+17–21 Sep 	Kantar Public 	N/A 	GB 	1,125 	40% 	38% 	9% 	4% 	4% 	3% 	
+7%
+	2%
+18–20 Sep 	Savanta ComRes 	N/A 	UK 	2,109 	40% 	37% 	8% 	5% 	3% 	3% 	
+4%
+	3%
+11–18 Sep 	Ipsos 	Evening Standard 	GB 	1,013 	40% 	37% 	8% 	7% 	5% 	0% 	
+2%
+	3%
+16–17 Sep 	YouGov 	The Times 	GB 	1,618 	40% 	40% 	6% 	4% 	5% 	3% 	
+2%
+	Tie
+15–16 Sep 	Survation 	N/A 	UK 	1,003 	40% 	38% 	7% 	5% 	4% 	1% 	
+5%
+	2%
+15–16 Sep 	Redfield & Wilton 	N/A 	GB 	2,500 	41% 	39% 	8% 	5% 	5% 	— 	
+3%
+	2%
+9–11 Sep 	Opinium 	The Observer 	GB 	2,001 	42% 	39% 	6% 	5% 	4% 	— 	
+4%
+	3%
+8–9 Sep 	YouGov 	The Times 	GB 	1,615 	42% 	37% 	6% 	5% 	4% 	3% 	
+2%
+	5%
+4–8 Sep 	Number Cruncher Politics 	Bloomberg 	GB 	1,001 	42% 	38% 	6% 	5% 	5% 	2% 	
+2%
+	4%
+3–4 Sep 	YouGov 	The Times 	GB 	1,633 	43% 	37% 	6% 	6% 	4% 	3% 	
+2%
+	6%
+2–4 Sep 	Survation 	N/A 	UK 	1,047 	40% 	38% 	8% 	5% 	4% 	1% 	
+4%
+	2%
+1–2 Sep 	Redfield & Wilton 	N/A 	GB 	2,500 	43% 	37% 	8% 	4% 	4% 	— 	
+3%
+	6%
+26–28 Aug 	Opinium 	The Observer 	GB 	2,002 	40% 	40% 	6% 	5% 	3% 	— 	
+2%
+	Tie
+27 Aug 	Ed Davey is elected leader of the Liberal Democrats[31]
+24–25 Aug 	YouGov 	The Times 	GB 	1,669 	43% 	36% 	6% 	5% 	4% 	3% 	
+2%
+	7%
+24 Aug 	Redfield & Wilton 	N/A 	GB 	2,000 	42% 	37% 	9% 	4% 	5% 	— 	
+3%
+	5%
+21 Aug 	Survation 	N/A 	UK 	1,005 	41% 	37% 	9% 	5% 	4% 	1% 	
+3%
+	4%
+19 Aug 	Redfield & Wilton 	N/A 	GB 	2,000 	44% 	37% 	7% 	4% 	4% 	— 	
+3%
+	7%
+18–19 Aug 	YouGov 	The Times 	GB 	1,652 	40% 	38% 	6% 	5% 	6% 	4% 	
+2%
+	2%
+14–16 Aug 	Savanta ComRes 	N/A 	UK 	2,083 	42% 	37% 	7% 	4% 	3% 	2% 	
+5%
+	5%
+13–14 Aug 	Opinium 	The Observer 	GB 	2,005 	42% 	39% 	5% 	5% 	3% 	— 	
+6%
+	3%
+12 Aug 	Redfield & Wilton 	N/A 	GB 	2,000 	43% 	36% 	9% 	4% 	4% 	— 	
+3%
+	7%
+11–12 Aug 	YouGov 	The Times 	GB 	1,634 	44% 	35% 	5% 	6% 	5% 	3% 	
+2%
+	9%
+6–10 Aug 	Kantar Public 	N/A 	GB 	1,161 	42% 	35% 	8% 	6% 	3% 	3% 	
+3%
+	7%
+4–5 Aug 	YouGov 	The Times 	GB 	1,606 	42% 	36% 	8% 	5% 	5% 	2% 	
+2%
+	6%
+30 Jul – 4 Aug 	Ipsos 	Evening Standard 	GB 	1,019 	45% 	37% 	6% 	5% 	5% 	1% 	
+1%
+	8%
+31 Jul – 3 Aug 	Survation 	N/A 	UK 	1,019 	44% 	35% 	8% 	4% 	5% 	0% 	
+3%
+	9%
+30–31 Jul 	YouGov 	The Times 	GB 	1,623 	43% 	35% 	6% 	5% 	5% 	3% 	
+2%
+	8%
+30–31 Jul 	Opinium 	The Observer 	GB 	2,002 	41% 	38% 	6% 	6% 	4% 	— 	
+6%
+	3%
+29 Jul 	Redfield & Wilton 	N/A 	GB 	2,000 	43% 	38% 	7% 	4% 	4% 	— 	
+3%
+	5%
+23–24 Jul 	Opinium 	The Observer 	GB 	2,002 	42% 	38% 	6% 	5% 	4% 	— 	
+5%
+	4%
+22–23 Jul 	YouGov 	The Times 	GB 	1,648 	44% 	35% 	7% 	5% 	4% 	3% 	
+2%
+	9%
+22 Jul 	Redfield & Wilton 	N/A 	GB 	2,000 	44% 	36% 	8% 	4% 	5% 	— 	
+4%
+	8%
+17–19 Jul 	Savanta ComRes 	N/A 	UK 	2,085 	43% 	37% 	6% 	5% 	2% 	2% 	
+5%
+	6%
+15–17 Jul 	Opinium 	The Observer 	GB 	2,003 	44% 	36% 	6% 	6% 	4% 	— 	
+4%
+	8%
+15 Jul 	Redfield & Wilton 	N/A 	GB 	2,000 	44% 	37% 	8% 	4% 	4% 	— 	
+2%
+	7%
+9–13 Jul 	Kantar Public 	N/A 	GB 	1,131 	45% 	35% 	9% 	5% 	2% 	2% 	
+3%
+	10%
+10–12 Jul 	Survation 	N/A 	UK 	2,022 	42% 	36% 	8% 	4% 	5% 	1% 	
+4%
+	6%
+9–10 Jul 	Opinium 	The Observer 	GB 	2,002 	42% 	38% 	6% 	6% 	4% 	— 	
+4%
+	4%
+9–10 Jul 	Deltapoll 	The Mail on Sunday 	GB 	1,541 	44% 	38% 	7% 	3% 	3% 	3% 	
+2%
+	6%
+8–9 Jul 	YouGov 	The Times 	GB 	1,614 	46% 	36% 	6% 	5% 	3% 	2% 	
+2%
+	10%
+8 Jul 	Redfield & Wilton 	N/A 	GB 	2,000 	44% 	39% 	7% 	4% 	4% 	— 	
+2%
+	5%
+3–6 Jul 	Survation 	N/A 	UK 	1,012 	44% 	37% 	7% 	4% 	4% 	0% 	
+3%
+	7%
+2–3 Jul 	Deltapoll 	The Mail on Sunday 	GB 	1,549 	41% 	36% 	7% 	3% 	5% 	4% 	
+4%
+	5%
+1–3 Jul 	Opinium 	The Observer 	GB 	2,002 	41% 	37% 	8% 	5% 	4% 	— 	
+5%
+	4%
+1 Jul 	Redfield & Wilton 	Election Maps UK 	GB 	2,000 	42% 	38% 	8% 	4% 	5% 	— 	
+2%
+	4%
+26–28 Jun 	YouGov 	The Times 	GB 	1,626 	45% 	37% 	5% 	5% 	4% 	2% 	
+1%
+	8%
+25–26 Jun 	Opinium 	The Observer 	GB 	2,001 	43% 	39% 	6% 	5% 	4% 	— 	
+4%
+	4%
+25 Jun 	Redfield & Wilton 	Election Maps UK 	GB 	2,000 	44% 	38% 	7% 	4% 	4% 	— 	
+2%
+	6%
+24–25 Jun 	Survation 	N/A 	UK 	2,003 	43% 	36% 	8% 	5% 	4% 	0% 	
+4%
+	7%
+18–19 Jun 	Opinium 	The Observer 	GB 	2,001 	44% 	40% 	5% 	5% 	3% 	— 	
+3%
+	4%
+18 Jun 	Redfield & Wilton 	N/A 	GB 	2,000 	43% 	38% 	8% 	4% 	4% 	— 	
+4%
+	5%
+11–15 Jun 	Kantar Public 	N/A 	GB 	1,124 	43% 	35% 	8% 	5% 	4% 	2% 	
+1%
+	8%
+12–14 Jun 	Savanta ComRes 	The Daily Telegraph 	UK 	2,106 	40% 	36% 	9% 	5% 	3% 	3% 	
+5%
+	4%
+11–12 Jun 	Opinium 	The Observer 	GB 	2,001 	44% 	39% 	6% 	5% 	2% 	— 	
+2%
+	5%
+11–12 Jun 	YouGov 	The Times 	GB 	1,693 	45% 	37% 	6% 	5% 	4% 	2% 	
+1%
+	8%
+11 Jun 	Redfield & Wilton 	N/A 	GB 	1,500 	41% 	39% 	9% 	5% 	4% 	— 	
+2%
+	2%
+9–10 Jun 	Survation 	N/A 	UK 	1,062 	42% 	36% 	8% 	5% 	4% 	1% 	
+4%
+	6%
+5–10 Jun 	Ipsos 	Evening Standard 	GB 	1,059 	43% 	38% 	10% 	4% 	1% 	3% 	
+1%
+	5%
+4–5 Jun 	Opinium 	The Observer 	GB 	2,002 	43% 	40% 	6% 	5% 	3% 	— 	
+3%
+	3%
+4–5 Jun 	Deltapoll 	The Mail on Sunday 	GB 	1,547 	41% 	38% 	8% 	2% 	4% 	3% 	
+3%
+	3%
+3 Jun 	Survation 	N/A 	UK 	1,018 	41% 	39% 	7% 	4% 	4% 	1% 	
+4%
+	2%
+3 Jun 	Redfield & Wilton 	N/A 	GB 	1,500 	43% 	36% 	9% 	4% 	5% 	— 	
+4%
+	7%
+29–30 May 	YouGov 	The Times 	GB 	1,650 	45% 	35% 	6% 	5% 	5% 	2% 	
+1%
+	10%
+28–29 May 	Opinium 	The Observer 	GB 	2,012 	43% 	39% 	6% 	5% 	3% 	— 	
+4%
+	4%
+27–28 May 	Deltapoll 	The Mail on Sunday 	GB 	1,557 	43% 	38% 	8% 	3% 	4% 	2% 	
+2%
+	5%
+27 May 	Redfield & Wilton 	N/A 	GB 	1,500 	43% 	37% 	9% 	5% 	3% 	— 	
+3%
+	6%
+26–27 May 	YouGov 	DatapraxisEU 	GB 	2,029 	43% 	38% 	6% 	5% 	4% 	3% 	
+2%
+	5%
+25–26 May 	YouGov 	The Times 	GB 	1,629 	44% 	38% 	6% 	5% 	4% 	2% 	
+2%
+	6%
+22–26 May 	Survation 	N/A 	UK 	1,040 	46% 	33% 	8% 	5% 	4% 	0% 	
+4%
+	13%
+21–22 May 	Opinium 	The Observer 	GB 	2,008 	47% 	35% 	6% 	5% 	3% 	— 	
+3%
+	12%
+18–19 May 	YouGov 	The Times 	GB 	1,718 	48% 	33% 	6% 	5% 	5% 	2% 	
+2%
+	15%
+15–17 May 	Savanta ComRes Archived 21 May 2020 at the Wayback Machine 	N/A 	GB 	2,079 	46% 	33% 	7% 	4% 	4% 	2% 	
+2%
+	13%
+15 May 	Redfield & Wilton 	N/A 	GB 	1,500 	47% 	35% 	9% 	4% 	3% 	— 	
+2%
+	12%
+13–14 May 	Opinium 	The Observer 	GB 	1,062 	49% 	34% 	6% 	5% 	3% 	— 	
+3%
+	15%
+5–11 May 	Kantar Public 	N/A 	GB 	1,130 	51% 	32% 	7% 	5% 	2% 	2% 	
+2%
+	19%
+5–7 May 	Opinium 	The Observer 	GB 	1,053 	49% 	33% 	6% 	5% 	5% 	0% 	
+3%
+	16%
+6 May 	Redfield & Wilton 	N/A 	GB 	1,500 	50% 	31% 	7% 	4% 	5% 	— 	
+3%
+	19%
+5–6 May 	YouGov 	The Times 	GB 	1,667 	50% 	30% 	7% 	4% 	5% 	3% 	
+2%
+	20%
+27 Apr – 1 May 	Opinium 	The Observer 	GB 	1,072 	51% 	33% 	6% 	5% 	3% 	0% 	
+3%
+	18%
+27–28 Apr 	Survation 	N/A 	UK 	1,023 	48% 	31% 	8% 	4% 	5% 	1% 	
+4%
+	17%
+26 Apr 	Redfield & Wilton 	N/A 	GB 	1,500 	50% 	33% 	7% 	5% 	4% 	— 	
+1%
+	17%
+21–23 Apr 	Opinium 	The Observer 	GB 	2,000 	50% 	33% 	7% 	5% 	3% 	0% 	
+2%
+	17%
+16–20 Apr 	Kantar Public 	N/A 	GB 	1,118 	54% 	28% 	9% 	4% 	4% 	1% 	
+1%
+	26%
+17 Apr 	Redfield & Wilton 	N/A 	GB 	1,500 	52% 	31% 	8% 	4% 	3% 	— 	
+3%
+	21%
+16–17 Apr 	YouGov 	The Times 	GB 	2,015 	53% 	32% 	5% 	4% 	3% 	1% 	
+2%
+	21%
+15–17 Apr 	Opinium 	The Observer 	GB 	2,000 	51% 	32% 	6% 	5% 	3% 	0% 	
+2%
+	19%
+7–9 Apr 	Opinium 	The Observer 	GB 	2,005 	55% 	29% 	5% 	5% 	4% 	0% 	
+2%
+	26%
+7–9 Apr 	BMG 	The Independent 	GB 	1,541 	46% 	29% 	10% 	3% 	6% 	2% 	
+3%
+	17%
+4 Apr 	Keir Starmer is elected leader of the Labour Party[32]
+1–3 Apr 	Opinium 	The Observer 	GB 	2,000 	53% 	30% 	7% 	5% 	3% 	0% 	
+3%
+	23%
+1–2 Apr 	Redfield & Wilton 	N/A 	UK 	2,000 	49% 	29% 	8% 	4% 	4% 	— 	
+6%
+	20%
+1–2 Apr 	YouGov 	The Times 	GB 	1,631 	52% 	28% 	8% 	5% 	5% 	1% 	
+2%
+	24%
+26–27 Mar 	Opinium 	The Observer 	GB 	2,006 	54% 	28% 	6% 	5% 	3% 	0% 	
+3%
+	26%
+24–26 Mar 	Number Cruncher Politics 	Bloomberg 	GB 	1,010 	54% 	28% 	7% 	4% 	4% 	2% 	
+0%
+	26%
+23 Mar 	Redfield & Wilton 	N/A 	GB 	1,500 	47% 	29% 	8% 	5% 	5% 	— 	
+6%
+	18%
+19–20 Mar 	Opinium 	The Observer 	GB 	2,005 	51% 	31% 	7% 	5% 	3% 	0% 	
+3%
+	20%
+13–16 Mar 	Ipsos 	Evening Standard 	GB 	1,003 	52% 	30% 	9% 	4% 	4% 	0% 	
+1%
+	22%
+12–13 Mar 	Opinium 	The Observer 	GB 	2,005 	49% 	32% 	6% 	5% 	5% 	0% 	
+4%
+	17%
+5–9 Mar 	Kantar Public 	N/A 	GB 	1,171 	50% 	29% 	11% 	4% 	1% 	2% 	
+3%
+	21%
+3–6 Mar 	BMG 	The Independent 	GB 	1,498 	45% 	28% 	11% 	3% 	6% 	3% 	
+3%
+	17%
+19–20 Feb 	Savanta ComRes 	Sunday Express 	GB 	2,005 	47% 	31% 	9% 	4% 	4% 	3% 	
+1%
+	16%
+12–14 Feb 	Opinium Archived 18 February 2020 at the Wayback Machine 	The Observer 	GB 	2,007 	47% 	32% 	7% 	6% 	4% 	2% 	
+2%
+	15%
+12 Feb 	Redfield & Wilton 	N/A 	GB 	1,216 	49% 	31% 	9% 	4% 	4% 	— 	
+3%
+	18%
+9–10 Feb 	YouGov 	The Times 	GB 	1,694 	48% 	28% 	10% 	4% 	6% 	2% 	
+2%
+	20%
+4–7 Feb 	BMG 	The Independent 	GB 	1,503 	41% 	29% 	11% 	5% 	8% 	3% 	
+4%
+	12%
+31 Jan – 3 Feb 	Ipsos 	Evening Standard 	GB 	1,001 	47% 	30% 	11% 	4% 	5% 	1% 	
+2%
+	17%
+31 Jan – 2 Feb 	YouGov 	The Times 	GB 	1,575 	49% 	30% 	8% 	4% 	5% 	2% 	
+2%
+	19%
+30–31 Jan 	Survation 	N/A 	UK 	1,015 	44% 	33% 	10% 	5% 	3% 	3% 	
+2%
+	11%
+24–26 Jan 	YouGov 	The Times 	GB 	1,628 	49% 	29% 	10% 	5% 	4% 	2% 	
+1%
+	20%
+15–17 Jan 	Opinium 	The Observer 	GB 	1,978 	47% 	30% 	9% 	5% 	4% 	3% 	
+3%
+	17%
+8–10 Jan 	BMG 	The Independent 	GB 	1,508 	44% 	29% 	11% 	3% 	5% 	4% 	
+2%
+	15%
+12 Dec 2019 	2019 general election 	UK 	— 	43.6% 	32.1% 	11.6% 	3.9% 	2.7% 	2.0% 	3.7% 	11.5%
+12 Dec 2019 	GB 	44.7% 	32.9% 	11.8% 	4.0% 	2.8% 	2.1% 	2.2% 	11.8%
+Seat predictions
+
+Most polls are reported in terms of the overall popular vote share, and the pollsters do not typically project how these shares would equate to numbers of seats in the House of Commons. Other organisations including Electoral Calculus make rolling projections based on an aggregate of publicly available polls and provide a methodology whereby vote share numbers can be translated to a prediction of seat numbers.
+
+Tabulated below are the outputs from large polls have been carried out to run multilevel regression with poststratification (MRP) models, which yield predictions for each constituency.[33]
+
+In the 650-seat House of Commons, 326 seats are needed for a parliamentary majority. Negative values in the rightmost column below indicate that the party with the most seats would not have a majority.
+Dates
+conducted 	Pollster 	Client 	Sample
+size 	Area 	Con 	Lab 	SNP 	Lib Dems 	Plaid Cymru 	Green 	Others 	Majority
+					
+7–27 Mar 2024 	YouGov (MRP) 		18,761 	GB 	155 	403 	19 	49 	4 	1 	0 	Lab 156
+8–22 Mar 2024 	Survation (MRP) 	Best For Britain 	15,029 	GB 	98 	468 	41 	22 	2 	0 	0 	Lab 286
+24 Jan – 12 Feb 2024 	Find Out Now/Electoral Calculus (MRP) 	The Mirror 	18,151 	GB 	80 	452 	40 	53 	4 	2 	1 	Lab 254
+12 Dec – 4 Jan 2024 	YouGov (MRP) 	Conservative Britain Alliance[6] 	14,110 	GB 	169 	385 	25 	48 	3 	1 	0 	Lab 120
+18 Aug – 1 Sep 2023 	Survation (MRP) 	Greenpeace 	20,205 	GB 	142 	426 	36 	25 	2 	1 	5 	Lab 202
+29–31 Aug 2023 	Stonehaven (MRP) 		2,000 	GB 	196 	372 	25 	36 	– 	1 	5 	Lab 90
+31 Jul – 4 Aug 2023 	Find Out Now/Electoral Calculus 	Channel 4 	11,000 	GB 	90 	461 	38 	37 	4 	1 	1 	Lab 272
+20 Apr – 9 May 2023 	BestForBritain/Focaldata[h] 	N/A 	10,102 	GB 	129[i] 	470[i] 	26 	25[j] 	Lab 290
+10–17 Feb 2023 	Survation (MRP) 	38 Degrees 	6,434 	GB 	100 	475 	45 	5 	2 	2 	3[k] 	Lab 318
+27 Jan – 5 Feb 2023 	Find Out Now/Electoral Calculus (MRP) 	The Daily Telegraph 	28,000 	GB 	45 	509 	50 	23 	4 	1 	0 	Lab 368
+2–5 Dec 2022 	Savanta/Electoral Calculus (MRP) 	N/A 	6,237 	GB 	69 	482 	55 	21 	4 	1 	0 	Lab 314
+20–30 Oct 2022 	Focaldata/Best for Britain (MRP) 	N/A 	12,010[l] 	GB 	64 	518[m] 	38 	12 	0 	0 	0 	Lab 404
+26–30 Sep 2022 	Opinium (MRP) 	Trades Union Congress 	10,495 	GB 	138 	412 	37 	39 	5 	1 	0 	Lab 172
+23–27 Sep 2022 	FindOutNow/Electoral Calculus (MRP) 	Channel 4 News 	10,435 	GB 	174 	381 	51 	21 	4 	1 	0 	Lab 112
+15–16 Sep 2022 	Savanta ComRes/Electoral Calculus (MRP) 	LabourList 	6,226 	GB 	211 	353 	48 	15 	3 	1 	0 	Lab 56
+6–14 Apr 2022 	Focaldata (MRP) 	Best for Britain 	10,010 	GB 	230 	336 	53 	8 	4 	1 	18[n] 	Lab 22
+14–22 Mar 2022 	Survation (MRP) 	38 Degrees 	8,002 	GB 	273 	293 	54 	7 	3 	1 	1 	Lab –64
+14–18 Feb 2022 	Find Out Now/Electoral Calculus (MRP) 	N/A 	12,700 	GB 	243 	308 	59 	16 	5 	1 	N/A 	Lab –34
+11–23 Jan 2022 	JL Partners Polls (MRP) 	Sunday Times 	4,561 	GB 	201 	352 	58 	16 	4 	1 	N/A 	Lab 54
+20–22 Dec 2021 	Find Out Now/Electoral Calculus (MRP) 	The Daily Telegraph 	10,994 	GB 	249 	311 	59 	8 	5 	1 	N/A 	Lab –28
+1–21 Dec 2021 	Focaldata (MRP) 	The Times 	24,373 	GB 	237 	338 	48 	11 	1 	1 	N/A 	Lab 26
+29 Nov – 1 Dec 2021 	Find Out Now/Electoral Calculus (MRP) 	The Daily Telegraph 	10,272 	GB 	288 	271 	59 	8 	5 	1 	N/A 	Con –74
+5–8 Nov 2021 	Find Out Now/Electoral Calculus (MRP) 	The Daily Telegraph 	10,763 	GB 	301 	257 	58 	10 	5 	1 	N/A 	Con –48
+6–8 Sep 2021 	Find Out Now/Electoral Calculus (MRP) 	The Daily Telegraph 	10,673 	GB 	311 	244 	59 	12 	5 	1 	N/A 	Con –28
+13–15 May 2021 	Find Out Now/Electoral Calculus (MRP) 	The Sunday Telegraph 	14,715 	GB 	386 	172 	58 	9 	5 	2 	N/A 	Con 122
+4–29 Dec 2020 	Focaldata (MRP) 	Best for Britain 	22,186 	GB 	284 	282 	57 	2 	25[o] 	Con –82
+12 Dec 2019 	2019 general election 	– 	UK 	365 	202 	48 	11 	4 	1 	19 	Con 80
+Polling in the nations and regions
+English mayoral regions
+London
+Graph of opinion polls conducted in London
+Date(s)
+conducted 	Pollster 	Client 	Sample
+size 	Lab 	Con 	Lib Dems 	Green 	Reform 	Others 	Lead
+				
+24–30 Apr 2024 	YouGov 	N/A 	1,192 	54% 	17% 	9% 	9% 	9% 	2% 	37
+9–17 Apr 2024 	YouGov 	N/A 	1,157 	55% 	16% 	8% 	9% 	9% 	3% 	39
+8–17 Apr 2024 	Savanta 	Mile End Institute 	1,034 	52% 	27% 	10% 	4% 	6% 	1% 	25
+6–8 Apr 2024 	Redfield & Wilton 	N/A 	1,000 	51% 	23% 	13% 	7% 	5% 	0% 	28
+21–26 Mar 2024 	Survation 	ITV 	1,019 	52% 	21% 	11% 	6% 	9% 	1% 	31
+12–19 Feb 2024 	YouGov 	QMUL 	1,113 	52% 	17% 	10% 	10% 	10% 	1% 	35
+31 Oct – 8 Nov 2023 	Lord Ashcroft 	Evening Standard 	2,750 	51% 	23% 	13% 	6% 	6% 	1% 	28
+12–17 Oct 2023 	YouGov 	QMUL 	1,066 	55% 	20% 	9% 	9% 	4% 	2% 	35
+4–6 Sep 2023 	Redfield & Wilton 	N/A 	1,100 	47% 	27% 	17% 	4% 	4% 	1% 	20
+20 Jul 2023 	By-election in Uxbridge and South Ruislip
+30 Jun – 5 Jul 2023 	Survation 	N/A 	1,050 	53% 	23% 	14% 	4% 	3% 	
+2%
+	30
+27–31 Mar 2023 	YouGov 	N/A 	1,051 	58% 	18% 	9% 	7% 	6% 	1% 	40
+30 Sep – 4 Oct 2022 	Survation 	38 Degrees 	6,012 	59% 	22% 	13% 	– 	– 	6% 	37
+5 May 2022 	Local elections in London
+28 Feb – 3 Mar 2022 	YouGov 	Queen Mary University of London 	1,114 	56% 	24% 	8% 	8% 	2% 	1% 	32
+13–17 Jan 2022 	YouGov 	N/A 	1,166 	55% 	23% 	9% 	7% 	3% 	3% 	32
+7–10 Jan 2022 	YouGov 	N/A 	1,115 	51% 	23% 	11% 	9% 	4% 	2% 	28
+2 Dec 2021 	Old Bexley and Sidcup by-election[21]
+6 May 2021 	Elections to the Mayoralty and London Assembly[36]
+4–5 May 2021 	Panelbase 	N/A 	1,002 	47% 	32% 	12% 	6% 	– 	4% 	15
+2–4 May 2021 	YouGov 	N/A 	1,141 	51% 	33% 	7% 	7% 	1% 	1% 	18
+28 Apr – 03 May 2021 	Opinium 	N/A 	1,005 	47% 	32% 	11% 	6% 	0% 	
+4%
+	15
+7–10 Apr 2021 	Opinium 	N/A 	1,093 	49% 	33% 	9% 	6% 	0% 	
+4%
+	16
+29 Mar – 1 Apr 2021 	YouGov 	Queen Mary University of London 	1,192 	50% 	31% 	8% 	7% 	2% 	2% 	19
+17–20 Mar 2021 	Opinium 	N/A 	1,100 	49% 	34% 	9% 	6% 	0% 	
+3%
+	15
+13–14 Jan 2021 	Redfield & Wilton 	N/A 	1,500 	48% 	27% 	14% 	8% 	2% 	3% 	21
+16–19 Nov 2020 	YouGov 	Queen Mary University of London 	1,192 	55% 	30% 	7% 	5% 	3% 	1% 	25
+15–17 Oct 2020 	Redfield & Wilton 	N/A 	2,000 	53% 	26% 	12% 	6% 	– 	3% 	27
+7–8 Sep 2020 	Redfield & Wilton 	N/A 	2,000 	50% 	29% 	12% 	6% 	– 	3% 	21
+5–7 Aug 2020 	Redfield & Wilton 	N/A 	2,500 	48% 	29% 	14% 	7% 	– 	2% 	19
+2–6 Mar 2020 	YouGov 	Queen Mary University of London 	1,002 	46% 	34% 	11% 	7% 	1% 	1% 	12
+12 Dec 2019 	2019 general election 	– 	48.1% 	32.0% 	14.9% 	3.1% 	1.4% 	0.5% 	16.1
+Tees Valley
+
+The following polls related to the Tees Valley Combined Authority area.
+Dates
+conducted 	Pollster 	Client 	Sample
+size 	Con 	Lab 	Reform 	Lib Dems 	Green 	Other 	Lead
+				
+17–19 Apr 2024 	Redfield and Wilton 	N/A 	900 	26% 	49% 	15% 	6% 	4% 	0% 	23
+12 Dec 2019 	2019 general election 	– 	43.9% 	40.2% 	7.8% 	4.2% 	1.2% 	2.7% 	3.7
+West Midlands county
+
+The following polls relate to the West Midlands metropolitan county, as opposed to the statistical region.
+Dates
+conducted 	Pollster 	Client 	Sample
+size 	Con 	Lab 	Lib Dems 	Reform 	Green 	Other 	Lead
+				
+11–17 Apr 2024 	Savanta 	The News Agents 	1,018 	23% 	54% 	9% 	9% 	5% 	1% 	31
+10–14 Apr 2024 	Redfield and Wilton 	N/A 	1,000 	24% 	52% 	7% 	12% 	5% 	1% 	28
+12 Dec 2019 	2019 general election 	– 	44.4% 	44.1% 	6.1% 	2.5% 	2.3% 	0.6% 	0.2
+Northern Ireland
+Date(s)
+conducted 	Pollster 	Client 	Sample
+size 	DUP 	Sinn Féin 	Alliance 	SDLP 	UUP 	TUV 	Others 	Lead
+					
+28 Jan – 11 Feb 2024 	SMR Belfast[37] 	Irish News–University of Liverpool 	1,206 	23.5% 	31.1% 	15.2% 	8.1% 	11.1% 	4.8% 	– 	6.6
+26 Oct – 3 Nov 2023 	Social Market Research[38] 	Institute of Irish Studies 	1,074 	25% 	31% 	15% 	9% 	11% 	5% 	5% 	6
+12 Dec 2019 	2019 general election 	– 	30.6% 	22.8% 	16.8% 	14.9% 	11.7% 	N/A 	3.2% 	7.8%
+Scotland
+Graph of opinion polls conducted in Scotland
+Date(s)
+conducted 	Pollster 	Client 	Sample
+size 	SNP 	Con 	Lab 	Lib Dems 	Green 	Others 	Lead
+				
+8–9 May 2024 	Redfield & Wilton 	N/A 	1,078 	31% 	14% 	38% 	8% 	4% 	
+5%
+	7
+6–8 May 	John Swinney is elected Leader of the Scottish National Party and First Minister of Scotland
+3–8 May 2024 	Savanta 	The Scotsman 	1,080 	33% 	17% 	37% 	7% 	– 	4% 	4
+30 Apr – 3 May 2024 	Norstat 	The Sunday Times 	1,014 	29% 	16% 	34% 	8% 	4% 	
+10%
+	5
+29 Apr 2024 	Humza Yousaf announces his resignation as First Minister of Scotland.
+26–29 Apr 2024 	YouGov 	N/A 	1,043 	33% 	14% 	34% 	8% 	4% 	
+7%
+	1
+9–12 Apr 2024 	Norstat 	The Sunday Times 	1,086 	32% 	16% 	32% 	9% 	4% 	
+8%
+	Tie
+6–7 Apr 2024 	Redfield & Wilton 	N/A 	1,000 	32% 	17% 	33% 	8% 	2% 	
+6%
+	1
+25 Mar – 2 Apr 2024 	YouGov 	N/A 	1,100 	31% 	14% 	33% 	7% 	5% 	
+8%
+	2
+10–11 Mar 2024 	Redfield & Wilton 	N/A 	1,000 	34% 	16% 	34% 	6% 	4% 	
+5%
+	Tie
+14–20 Feb 2024 	Survation 	Quantum Communications 	1,043 	38% 	15% 	33% 	8% 	– 	7% 	5
+3–4 Feb 2024 	Redfield & Wilton 	N/A 	1,000 	33% 	18% 	34% 	8% 	2% 	
+5%
+	1
+25–31 Jan 2024 	Ipsos 	STV News 	1,005 	39% 	14% 	32% 	6% 	4% 	5% 	7
+23–25 Jan 2024 	Survation 	True North 	1,029 	36% 	16% 	34% 	8% 	– 	7% 	2
+22–25 Jan 2024 	Norstat 	The Sunday Times 	1,007 	33% 	16% 	36% 	7% 	– 	8% 	3
+9–11 Jan 2024 	Redfield & Wilton 	N/A 	1,040 	35% 	17% 	35% 	9% 	2% 	
+3%
+	Tie
+26–27 Nov 2023 	Redfield & Wilton 	N/A 	1,054 	34% 	17% 	36% 	6% 	3% 	
+3%
+	2
+20–26 Nov 2023 	Ipsos 	N/A 	990 	40% 	15% 	30% 	6% 	3% 	5% 	10
+29–30 Oct 2023 	Redfield & Wilton 	N/A 	1,092 	32% 	23% 	32% 	8% 	2% 	
+3%
+	Tie
+20–25 Oct 2023 	YouGov 	Scottish Elections Study 	1,200 	32% 	16% 	38% 	6% 	4% 	4% 	6
+6–11 Oct 2023 	Savanta 	The Scotsman 	1,018 	35% 	19% 	35% 	6% 	– 	4% 	Tie
+2–6 Oct 2023 	YouGov 	N/A 	1,028 	33% 	20% 	32% 	5% 	5% 	
+4%
+	1
+5 Oct 2023 	Rutherglen and Hamilton West by-election
+4–5 Oct 2023 	Redfield & Wilton 	N/A 	1,095 	34% 	21% 	32% 	9% 	2% 	2% 	4
+5–14 Sep 2023 	Opinium 	Tony Blair Institute 	1,004 	37% 	18% 	28% 	8% 	4% 	4% 	9
+8–13 Sep 2023 	YouGov 	The Times 	1,103 	38% 	16% 	27% 	7% 	6% 	
+6%
+	11
+2–4 Sep 2023 	Redfield & Wilton 	N/A 	1,100 	35% 	15% 	35% 	8% 	4% 	3% 	Tie
+15–18 Aug 2023 	Survation 	True North 	1,022 	37% 	17% 	35% 	6% 	– 	5% 	2
+3–8 Aug 2023 	YouGov 	The Times 	1,086 	36% 	15% 	32% 	6% 	6% 	
+5%
+	4
+5–6 Aug 2023 	Redfield & Wilton 	N/A 	1,050 	37% 	17% 	34% 	7% 	2% 	3% 	3
+1–2 Jul 2023 	Redfield & Wilton 	N/A 	1,030 	35% 	21% 	32% 	7% 	2% 	3% 	3
+23–28 Jun 2023 	Survation 	– 	2,026 	37% 	17% 	34% 	9% 	– 	4% 	3
+12–15 Jun 2023 	Panelbase 	The Sunday Times 	1,007 	34% 	18% 	34% 	7% 	– 	7% 	Tie
+9–14 Jun 2023 	Savanta 	The Scotsman 	1,018 	38% 	17% 	34% 	7% 	– 	4% 	4
+9–13 Jun 2023 	YouGov 	Scottish Elections Study 	1,200 	33% 	17% 	36% 	7% 	4% 	3% 	3
+3–5 Jun 2023 	Redfield & Wilton 	N/A 	1,466 	37% 	20% 	28% 	9% 	3% 	3% 	9
+15–21 May 2023 	Ipsos MORI 	STV News 	1,090 	41% 	16% 	29% 	6% 	3% 	4% 	12
+27 Apr – 3 May 2023 	Survation 	True North 	1,009 	38% 	18% 	31% 	9% 	2% 	4% 	7
+30 Apr – 2 May 2023 	Redfield & Wilton 	N/A 	1,295 	35% 	18% 	32% 	9% 	3% 	3% 	3
+17–20 Apr 2023 	YouGov 	The Times 	1,032 	37% 	17% 	28% 	8% 	5% 	
+4%
+	9
+29 Mar – 3 Apr 2023 	Survation 	N/A 	1,001 	40% 	17% 	32% 	7% 	1% 	3% 	8
+31 Mar – 1 Apr 2023 	Redfield & Wilton 	N/A 	1,000 	36% 	19% 	31% 	10% 	2% 	3% 	5
+28–31 Mar 2023 	Savanta 	The Scotsman 	1,009 	39% 	19% 	33% 	6% 	– 	4% 	6
+28–30 Mar 2023 	Panelbase 	The Sunday Times 	1,089 	39% 	19% 	31% 	5% 	– 	6% 	8
+27 Mar 2023 	Humza Yousaf is elected leader of the Scottish National Party
+9–13 Mar 2023 	YouGov 	Sky News 	1,002 	39% 	16% 	29% 	6% 	6% 	
+4%
+	10
+8–10 Mar 2023 	Survation 	Diffley Partnership 	1,037 	40% 	18% 	32% 	6% 	2% 	3% 	8
+7–10 Mar 2023 	Panelbase 	Scot Goes Pop 	1,013 	40% 	16% 	33% 	6% 	– 	5% 	7
+2–5 Mar 2023 	Redfield & Wilton 	N/A 	1,050 	39% 	22% 	29% 	6% 	2% 	3% 	10
+17–20 Feb 2023 	YouGov 	The Times 	1,017 	38% 	19% 	29% 	6% 	4% 	
+4%
+	9
+15–17 Feb 2023 	Survation 	N/A 	1,034 	43% 	17% 	30% 	6% 	TBA 	3% 	13
+15–17 Feb 2023 	Savanta 	The Scotsman 	1,004 	42% 	17% 	32% 	6% 	TBA 	3% 	10
+10–15 Feb 2023 	YouGov 	Scottish Election Study 	1,239 	38% 	16% 	35% 	6% 	3% 	3% 	3
+1–7 Feb 2023 	Survation 	N/A 	TBA 	42% 	18% 	29% 	6% 	TBA 	TBA 	13
+23–26 Jan 2023 	YouGov 	The Sunday Times 	1,088 	42% 	15% 	29% 	6% 	3% 	
+5%
+	13
+10–12 Jan 2023 	Survation 	True North 	1,002 	43% 	18% 	29% 	7% 	– 	2% 	14
+22 Dec – 1 Jan 2023 	Survation 	Scotland in Union 	1,025 	44% 	16% 	31% 	6% 	– 	1% 	13
+16–21 Dec 2022 	Savanta 	The Scotsman 	1,048 	43% 	19% 	30% 	6% 	– 	2% 	13
+6–9 Dec 2022 	YouGov 	The Times 	1,090 	43% 	14% 	29% 	6% 	4% 	
+4%
+	14
+28 Nov – 5 Dec 2022 	Ipsos MORI 	STV News 	1,045 	51% 	13% 	25% 	6% 	3% 		26
+26–27 Nov 2022 	Redfield & Wilton 	N/A 	1,000 	41% 	16% 	31% 	8% 	2% 	3% 	10
+7–11 Oct 2022 	Panelbase 	Alba Party 	1,000+ 	42% 	16% 	30% 	6% 	2% 	2% 	12
+5–7 Oct 2022 	Panelbase 	The Sunday Times 	1,017 	45% 	15% 	30% 	5% 	– 	4% 	15
+30 Sep – 4 Oct 2022 	YouGov 	The Times 	1,067 	45% 	12% 	31% 	7% 	3% 	
+2%
+	14
+30 Sep – 4 Oct 2022 	ComRes 	The Scotsman 	1,029 	46% 	15% 	30% 	8% 	– 	1% 	16
+28–29 Sep 2022 	Survation 	Scotland in Union 	1,011 	44% 	15% 	31% 	6% 	– 	4% 	13
+17–19 Aug 2022 	Panelbase 	The Sunday Times 	1,133 	44% 	20% 	23% 	8% 	– 	5% 	21
+29 Jun – 1 Jul 2022 	Panelbase 	The Sunday Times 	1,010 	47% 	19% 	23% 	8% 	– 	3% 	24
+23–28 Jun 2022 	Savanta ComRes 	The Scotsman 	1,029 	46% 	18% 	25% 	8% 	– 	3% 	21
+23–29 May 2022 	Ipsos 	STV News 	1,000 	44% 	19% 	23% 	10% 	3% 	2% 	21
+18–23 May 2022 	YouGov 	The Times 	1,115 	46% 	19% 	22% 	6% 	3% 	
+3%
+	24
+5 May 2022 	Local elections held in Scotland
+26–29 Apr 2022 	Panelbase 	The Sunday Times 	1,009 	42% 	21% 	24% 	7% 	– 	5% 	18
+25–31 Mar 2022 	BMG 	The Herald 	1,012 	42% 	19% 	26% 	6% 	4% 	2% 	16
+24–28 Mar 2022 	Survation 	Ballot Box Scotland 	1,002 	45% 	19% 	27% 	6% 	– 	2% 	18
+1–4 Feb 2022 	Panelbase 	The Sunday Times 	1,128 	44% 	20% 	24% 	8% 	2% 	2% 	20
+15–22 Dec 2021 	Opinium 	Daily Record 	1,328 	48% 	17% 	22% 	7% 	3% 	4% 	26
+18–22 Nov 2021 	YouGov 	The Times 	1,060 	48% 	20% 	18% 	6% 	3% 	
+4%
+	28
+9–12 Nov 2021 	Panelbase 	The Sunday Times 	1,000~ 	48% 	21% 	20% 	7% 	– 	4% 	27
+20–26 Oct 2021 	Panelbase 	Scot Goes Pop 	1,001 	48% 	21% 	21% 	7% 	– 	4% 	27
+6–10 Sep 2021 	Panelbase 	The Sunday Times 	2,003 	47% 	23% 	19% 	7% 	– 	4% 	24
+2–8 Sep 2021 	Opinium 	Sky News 	1,014 	51% 	21% 	17% 	5% 	2% 	3% 	30
+20 Aug 2021 	Alex Cole-Hamilton becomes leader of the Scottish Liberal Democrats[39]
+16–24 Jun 2021 	Panelbase 	The Sunday Times 	1,287 	47% 	25% 	18% 	6% 	– 	4% 	22
+13 May 2021 	Airdrie and Shotts by-election[25]
+6 May 2021 	Election to the Scottish Parliament[27]
+2–4 May 2021 	YouGov 	The Times 	1,144 	48% 	22% 	19% 	5% 	4% 	
+3%
+	26
+30 Apr – 4 May 2021 	Survation 	DC Thomson 	1,008 	48% 	22% 	20% 	7% 	1% 	1% 	26
+28 Apr – 03 May 2021 	Opinium 	Sky News 	1,015 	47% 	25% 	20% 	6% 	1% 	1% 	22
+27–30 Apr 2021 	BMG 	The Herald 	1,023 	48% 	20% 	20% 	7% 	3% 	1% 	28
+23–26 Apr 2021 	Survation 	Good Morning Britain 	1,008 	46% 	22% 	22% 	8% 	– 	2% 	24
+21–26 Apr 2021 	Panelbase 	Scot Goes Pop 	1,075 	45% 	22% 	19% 	7% 	4% 	3% 	23
+20–22 Apr 2021 	Survation 	DC Thomson 	1,037 	47% 	21% 	22% 	8% 	1% 	1% 	25
+16–20 Apr 2021 	YouGov 	The Times 	1,204 	48% 	24% 	19% 	4% 	3% 	
+3%
+	24
+1–6 Apr 2021 	Opinium 	Sky News 	1,023 	50% 	24% 	19% 	4% 	1% 	1% 	26
+29–30 Mar 2021 	Survation 	The Courier 	1,021 	49% 	21% 	21% 	8% 	1% 	0% 	28
+19–22 Mar 2021 	YouGov 	The Times 	TBA 	49% 	24% 	17% 	4% 	4% 	
+2%
+	25
+16–19 Mar 2021 	BMG 	The Herald 	1,021 	47% 	21% 	19% 	7% 	3% 	3% 	26
+11–18 Mar 2021 	Survation 	The Courier 	1,452 	49% 	21% 	21% 	7% 	1% 	1% 	28
+11–16 Mar 2021 	Opinium 	Sky News 	1,096 	50% 	23% 	19% 	5% 	3% 	1% 	27
+4–8 Mar 2021 	YouGov 	The Times 	1,100 	50% 	23% 	17% 	5% 	3% 	
+2%
+	27
+27 Feb 2021 	Anas Sarwar is elected leader of Scottish Labour[40]
+25–26 Feb 2021 	Survation 	Daily Record 	1,011 	48% 	23% 	21% 	6% 	– 	2% 	25
+11–13 Jan 2021 	Survation 	Scot Goes Pop 	1,020 	48% 	19% 	23% 	7% 	– 	3% 	25
+4–9 Dec 2020 	Survation 	N/A 	1,009 	51% 	20% 	21% 	6% 	3% 	– 	30
+5–11 Nov 2020 	Panelbase 	Scot Goes Pop 	1,020 	50% 	21% 	20% 	5% 	2% 	– 	29
+6–10 Nov 2020 	YouGov 	The Times 	1,089 	53% 	19% 	17% 	4% 	3% 	
+4%
+	34
+28 Oct – 4 Nov 2020 	Survation 	N/A 	1,059 	52% 	18% 	20% 	8% 	– 	2% 	32
+17–21 Sep 2020 	JL Partners 	Politico 	1,016 	56% 	18% 	15% 	7% 	3% 		38
+2–7 Sep 2020 	Survation 	N/A 	1,018 	51% 	20% 	21% 	6% 	– 	3% 	30
+6–10 Aug 2020 	YouGov 	The Times 	1,142 	54% 	20% 	16% 	5% 	2% 	
+2%
+	34
+5 Aug 2020 	Douglas Ross becomes leader of the Scottish Conservatives[41]
+30 Jun – 3 Jul 2020 	Panelbase 	The Sunday Times 	1,026 	53% 	21% 	19% 	6% 	– 	2% 	32
+1–5 Jun 2020 	Panelbase 	Scot Goes Pop 	1,022 	51% 	21% 	19% 	6% 	2% 	1% 	30
+1–5 May 2020 	Panelbase 	Wings Over Scotland 	1,086 	50% 	26% 	17% 	5% 	2% 	1% 	24
+24–27 Apr 2020 	YouGov 	N/A 	1,095 	51% 	25% 	15% 	6% 	2% 	
+1%
+	26
+24–26 Mar 2020 	Panelbase 	The Sunday Times 	1,023 	48% 	27% 	16% 	5% 	3% 	– 	21
+14 Feb 2020 	Jackson Carlaw becomes leader of the Scottish Conservatives[42]
+12 Dec 2019 	2019 general election 	– 	45.0% 	25.1% 	18.6% 	9.5% 	1.0% 	0.8% 	19.9
+Wales
+Graph of opinion polls conducted in Wales
+Dates
+conducted 	Pollster 	Client 	Sample
+size 	Lab 	Con 	Plaid Cymru 	Lib Dems 	Reform 	Green 	Others 	Lead
+					
+22–23 Apr 2024 	Redfield & Wilton 	N/A 	840 	40% 	18% 	14% 	6% 	18% 	4% 	0% 	22
+23–24 Mar 2024 	Redfield & Wilton 	N/A 	878 	49% 	16% 	10% 	5% 	15% 	5% 	1% 	33
+20 Mar 2024 	Vaughan Gething becomes First Minister of Wales[43]
+18 Feb 2024 	Redfield & Wilton 	N/A 	874 	45% 	22% 	10% 	5% 	13% 	5% 	1% 	23
+24–26 Jan 2024 	Redfield & Wilton 	N/A 	1,100 	48% 	20% 	10% 	4% 	12% 	4% 	1% 	28
+10–11 Dec 2023 	Redfield & Wilton 	N/A 	1,086 	47% 	22% 	11% 	6% 	10% 	2% 	0% 	25
+4–7 Dec 2023 	YouGov 	Barn Cymru 	1,004 	42% 	20% 	15% 	7% 	12% 	3% 	1% 	22
+12–13 Nov 2023 	Redfield & Wilton 	N/A 	1,100 	44% 	24% 	13% 	4% 	9% 	5% 	1% 	20
+14–15 Oct 2023 	Redfield & Wilton 	N/A 	959 	46% 	26% 	10% 	3% 	10% 	4% 	0% 	20
+16–17 Sep 2023 	Redfield & Wilton 	N/A 	1,172 	44% 	22% 	10% 	9% 	7% 	6% 	1% 	22
+1–6 Sep 2023 	YouGov 	Barn Cymru 	1,051 	50% 	19% 	12% 	5% 	8% 	5% 	2% 	31
+13–14 Aug 2023 	Redfield & Wilton 	N/A 	1,068 	41% 	24% 	13% 	7% 	11% 	4% 	0% 	17
+14–16 Jul 2023 	Redfield & Wilton 	N/A 	1,050 	46% 	24% 	10% 	7% 	10% 	3% 	1% 	22
+17–18 Jun 2023 	Redfield & Wilton 	N/A 	1,000 	43% 	22% 	10% 	7% 	12% 	4% 	1% 	21
+16 Jun 2023 	Rhun ap Iorwerth becomes leader of Plaid Cymru[44]
+12–17 May 2023 	YouGov 	Barn Cymru 	1,064 	49% 	19% 	10% 	8% 	9% 	4% 	1% 	30
+14–15 May 2023 	Redfield & Wilton 	N/A 	1,058 	43% 	23% 	11% 	8% 	9% 	4% 	1% 	20
+15–17 Apr 2023 	Redfield & Wilton 	N/A 	1,251 	44% 	24% 	12% 	7% 	9% 	4% 	0% 	20
+17–23 Feb 2023 	YouGov 	WalesOnline 	1,083 	53% 	19% 	12% 	4% 	8% 	3% 	1% 	34
+3–7 Feb 2023 	YouGov 	Barn Cymru 	1,081 	49% 	20% 	14% 	5% 	9% 	3% 	1% 	29
+25 Nov – 1 Dec 2022 	YouGov 	Barn Cymru 	1,042 	51% 	18% 	13% 	4% 	8% 	4% 	2% 	33
+30 Sep – 4 Oct 2022 	Survation 	38 Degrees 	6,012 	51% 	24% 	13% 	6% 	– 	– 	6% 	27
+20–22 Sep 2022 	YouGov 	Barn Cymru 	1,014 	46% 	23% 	15% 	5% 	5% 	3% 	3% 	23
+12–16 Jun 2022 	YouGov 	Barn Cymru 	1,020 	41% 	26% 	16% 	7% 	4% 	4% 	2% 	15
+5 May 2022 	Local elections held in Wales[45]
+25 Feb – 1 Mar 2022 	YouGov 	Barn Cymru 	1,086 	41% 	26% 	13% 	7% 	6% 	4% 	3% 	15
+13–16 Dec 2021 	YouGov 	Barn Cymru 	1,009 	41% 	26% 	13% 	3% 	7% 	6% 	3% 	15
+27 Sep – 1 Oct 2021 	YouGov 	? 	? 	39% 	29% 	17% 	3% 	5% 	– 	7% 	10
+13–16 Sep 2021 	YouGov 	ITV Cymru Wales/Cardiff University 	1,071 	37% 	31% 	15% 	4% 	6% 	5% 	2% 	6
+6 May 2021 	Election to the Senedd[28]
+2–4 May 2021 	YouGov 	ITV Cymru Wales/Cardiff University 	1,071 	37% 	36% 	14% 	3% 	4% 	3% 	3% 	1
+18–21 Apr 2021 	YouGov 	ITV Cymru Wales/Cardiff University 	1,142 	37% 	33% 	18% 	2% 	3% 	4% 	3% 	4
+9–19 Apr 2021 	Opinium 	Sky News 	2,005 	42% 	33% 	14% 	3% 	– 	3% 	
+5%
+	9
+16–19 Mar 2021 	YouGov 	ITV Cymru Wales/Cardiff University 	1,174 	35% 	35% 	17% 	4% 	2% 	3% 	3% 	Tie
+24 Jan 2021 	Andrew RT Davies becomes leader of the Welsh Conservatives[46]
+11–14 Jan 2021 	YouGov 	ITV Cymru Wales/Cardiff University 	1,018 	36% 	33% 	17% 	3% 	5% 	4% 	2% 	3
+26–30 Oct 2020 	YouGov 	ITV Cymru Wales/Cardiff University 	1,013 	43% 	32% 	13% 	3% 	5% 	3% 	2% 	11
+28 Aug – 4 Sep 2020 	YouGov 	ITV Cymru Wales/Cardiff University 	1,110 	41% 	33% 	15% 	2% 	4% 	3% 	2% 	8
+29 May – 1 Jun 2020 	YouGov 	ITV Cymru Wales/Cardiff University 	1,021 	39% 	35% 	15% 	5% 	2% 	3% 	1% 	4
+3–7 Apr 2020 	YouGov 	ITV Cymru Wales/Cardiff University 	1,008 	34% 	46% 	11% 	4% 	3% 	2% 	0% 	12
+20–26 Jan 2020 	YouGov 	ITV Cymru Wales/Cardiff University 	1,037 	36% 	41% 	13% 	5% 	3% 	2% 	1% 	5
+12 Dec 2019 	2019 general election 	– 	40.9% 	36.1% 	9.9% 	6.0% 	5.4% 	1.0% 	0.7% 	4.8
+Constituency polling
+Caerfyrddin (Carmarthen)
+
+Caerfyrddin (Carmarthen) will be a new seat at the next election, replacing Carmarthen East and Dinefwr and Carmarthen West and South Pembrokeshire.
+Dates
+conducted 	Pollster 	Client 	Sample
+size 	Con 	PC 	Lab 	Reform 	Lib Dems 	Ind (Edwards)[p] 	Others 	Lead
+					
+2 Jan – 4 Feb 2024 	Survation 	Plaid Cymru 	520 	24% 	30% 	24% 	4% 	4% 	10% 	3% 	6
+12 Dec 2019 	2019 general election[q] 	– 	39.2% 	30.7% 	25.1% 	3.8% 	1.3% 	– 	– 	8.5
+Chingford and Woodford Green
+
+Chingford and Woodford Green will have different boundaries between the 2019 and next elections.
+Dates
+conducted 	Pollster 	Client 	Sample
+size 	Con 	Lab 	Lib Dems 	Green 	Others 	Lead
+			
+31 Aug – 21 Sep 2021 	Opinium[r] 	Greenpeace 	525 	42% 	39% 	6% 	8% 	5% 	3
+12 Dec 2019 	2019 general election[q] 	– 	48.2% 	45.3% 	5.8% 	0.4% 	0.3% 	2.9
+Clacton
+
+Clacton will have different boundaries between the 2019 and next elections.
+Dates
+conducted 	Pollster 	Client 	Sample
+size 	Con 	Lab 	Lib Dems 	Green 	Reform 	Others 	Lead
+				
+11–12 Jan 2024 	Survation[r][s] 	Arron Banks 	509 	38% 	30% 	6% 	– 	18% 	9% 	8
+12 Dec 2019 	2019 general election[q] 	– 	71.9% 	15.6% 	6.2% 	2.9% 	– 	3.4% 	56.3
+Godalming and Ash
+
+Godalming and Ash will be a new seat at the next election, mostly replacing South West Surrey. The Conservative candidate is Chancellor of the Exchequer, Jeremy Hunt.[49][50]
+Dates
+conducted 	Pollster 	Client 	Sample
+size 	Con 	Lib Dems 	Lab 	Reform 	Green 	Others 	Lead
+				
+16–20 Feb 2024 	Survation 	38 Degrees 	507 	29% 	35% 	23% 	8% 	3% 	2% 	6
+12 Dec 2019 	2019 general election[q] 	– 	53.4% 	34.1% 	8.9% 	– 	1.6% 	– 	14.6
+Mid Bedfordshire
+
+Mid Bedfordshire will have different boundaries between the 2019 and next elections.
+Dates
+conducted 	Pollster 	Client 	Sample
+size 	Con 	Lab 	Lib Dems 	Green 	Reform 	Others 	Lead
+				
+19 Oct 2023 	2023 Mid Bedfordshire by-election[r] 	– 	31.1% 	34.1% 	23.1% 	1.8% 	3.7% 	6.7% 	3.0
+12–15 Sep 2023 	Survation[r] 	Labour Together 	559 	34% 	34% 	16% 	6% 	6% 	4% 	Tie
+12 Dec 2019 	2019 general election[q] 	– 	60.5% 	20.5% 	12.5% 	3.9% 	– 	2.6% 	40.0
+Portsmouth North
+
+Portsmouth North will maintain its 2019 boundaries at the next election..
+Dates
+conducted 	Pollster 	Client 	Sample
+size 	Con 	Lab 	Lib Dems 	Green 	Reform 	Others 	Lead
+				
+9–19 Apr 2024 	Techne 	N/A 	1,000 	39% 	35% 	7% 	4% 	15% 	– 	4
+12 Dec 2019 	2019 general election[q] 	– 	61.4% 	27.0% 	7.4% 	2.8% 	– 	1.4% 	34.4
+Wokingham
+
+Wokingham will have different boundaries between the 2019 and next elections.
+Dates
+conducted 	Pollster 	Client 	Sample
+size 	Con 	Lib Dems 	Lab 	Green 	Others 	Lead
+			
+31 Aug – 21 Sep 2021 	Opinium[r] 	Greenpeace 	607 	42% 	22% 	24% 	8% 	3% 	18
+12 Dec 2019 	2019 general election[q] 	– 	55.5% 	32.3% 	9.9% 	2.2% 	0.1% 	23.2
+Wycombe
+
+Wycombe will maintain its 2019 boundaries at the next election.
+Dates
+conducted 	Pollster 	Client 	Sample
+size 	Con 	Lab 	Lib Dems 	Green 	Others 	Lead
+			
+31 Aug – 21 Sep 2021 	Opinium[r] 	Greenpeace 	532 	37% 	33% 	16% 	8% 	5% 	4
+12 Dec 2019 	2019 general election[q] 	– 	43.1% 	39.9% 	11.3% 	2.6% 	3.1% 	3.2
+Ynys Môn
+
+Ynys Môn will maintain its 2019 boundaries at the next election.
+Dates
+conducted 	Pollster 	Client 	Sample
+size 	Con 	Lab 	PC 	Reform 	Lib Dems 	Others 	Lead
+				
+21 Dec 2023 – 5 Jan 2024 	Survation 	Plaid Cymru 	507 	26% 	27% 	39% 	4% 	1% 	3% 	12
+12 Dec 2019 	2019 general election 	– 	35.5% 	30.1% 	28.5% 	6.0% 	– 	– 	5.4
+Other polling
+"Red wall"
+See also: Red wall (British politics)
+
+Polling firms publish polls of the "red wall", which take respondents from a selection of constituencies gained by the Conservatives in the 2019 general election. Different pollsters use different sets of constituencies for their polling.
+Deltapoll
+
+Deltapoll have published a poll of the 57 constituencies that the Conservatives gained from Labour and the Liberal Democrats without specifying any regions.
+Dates
+conducted 	Pollster 	Client 	Sample
+size 	Con 	Lab 	Lib Dems 	Other 	Lead
+		
+23–30 Dec 2021 	Deltapoll 	The Mail on Sunday 	612 	33% 	49% 	8% 	10% 	16
+12 Dec 2019 	2019 general election 	– 	47.4% 	37.3% 	6.9% 	8.4% 	10.1
+Focaldata
+
+Focaldata have published a poll of the 44 seats the Conservatives gained from Labour in northern England and the Midlands.
+Dates
+conducted 	Pollster 	Client 	Sample
+size 	Con 	Lab 	Lib Dems 	Other 	Lead
+		
+29–30 Apr 2021 	Focaldata 	The Times 	573 	44% 	45% 	1% 	3% 	1
+12 Dec 2019 	2019 general election 	– 	47.8% 	39.0% 	4.8% 	8.4% 	8.8
+JL Partners
+
+JL Partners publishes polls of forty-five seats the Conservative Party gained from the Labour Party across northern England, the Midlands and Wales, apart from Bridgend, Clwyd South, the Vale of Clwyd, Wrexham and Ynys Môn.
+Dates
+conducted 	Pollster 	Client 	Sample
+size 	Con 	Lab 	Lib Dems 	Other 	Lead
+		
+2–8 Mar 2023 	JL Partners 	Channel 4 News 	508 	28% 	53% 	7% 	12% 	25
+7–22 Feb 2023 	JL Partners 	Channel 4 News 	520 	30% 	56% 	6% 	8% 	26
+14–27 Sep 2022 	JL Partners 	Kekst CNC and Conservatives in Communication 	538 	34% 	54% 	7% 	5% 	20
+6–16 Jan 2022 	JL Partners 	Channel 4 News 	518 	37% 	48% 	8% 	7% 	11
+25 Nov – 6 Dec 2021 	JL Partners 	Channel 4 News 	– 	45% 	43% 	6% 	5% 	2
+17–25 Mar 2021 	JL Partners 	Channel 4 News 	500 	47% 	43% 	4% 	6% 	4
+19–30 Nov 2020 	JL Partners 	Channel 4 News 	499 	41% 	47% 	3% 	8% 	6
+12 Dec 2019 	2019 general election 	– 	47.7% 	39.1% 	4.8% 	8.3% 	8.6
+Redfield & Wilton Strategies
+
+Redfield & Wilton Strategies publishes polls of 37 constituencies won by the Conservatives in 2019 that had been held by Labour in 2010, 2015 and 2017, as well as Burnley, Redcar and Vale of Clwyd
+Dates
+conducted 	Pollster 	Client 	Sample
+size 	Con 	Lab 	Reform 	Lib Dems 	Green 	Plaid 	Other 	Lead
+					
+16 Mar 2024 	Redfield & Wilton 	N/A 	1,072 	24% 	48% 	16% 	5% 	4% 	1% 	1% 	24
+25 Feb 2024 	Redfield & Wilton 	N/A 	1,000 	25% 	49% 	14% 	6% 	4% 	1% 	2% 	24
+30–31 Jan 2024 	Redfield & Wilton 	N/A 	1,055 	28% 	48% 	14% 	4% 	5% 	1% 	1% 	20
+17–18 Dec 2023 	Redfield & Wilton 	N/A 	975 	28% 	48% 	11% 	7% 	4% 	1% 	1% 	20
+19 Nov 2023 	Redfield & Wilton 	N/A 	1,000 	26% 	50% 	11% 	5% 	6% 	1% 	1% 	24
+22 Oct 2023 	Redfield & Wilton 	N/A 	1,000 	32% 	48% 	6% 	7% 	4% 	1% 	2% 	16
+23 Sep 2023 	Redfield & Wilton 	N/A 	1,250 	31% 	45% 	10% 	6% 	6% 	1% 	1% 	14
+3 Sep 2023 	Redfield & Wilton 	N/A 	1,000 	32% 	48% 	6% 	7% 	3% 	2% 	3% 	16
+20 Aug 2023 	Redfield & Wilton 	N/A 	1,060 	28% 	53% 	7% 	6% 	4% 	1% 	1% 	25
+6 Aug 2023 	Redfield & Wilton 	N/A 	1,400 	28% 	49% 	8% 	8% 	4% 	2% 	1% 	21
+23 Jul 2023 	Redfield & Wilton 	N/A 	1,000 	30% 	48% 	10% 	6% 	4% 	2% 	1% 	18
+9 Jul 2023 	Redfield & Wilton 	N/A 	1,150 	27% 	52% 	9% 	6% 	4% 	1% 	2% 	25
+25 Jun 2023 	Redfield & Wilton 	N/A 	1,020 	26% 	53% 	9% 	6% 	4% 	1% 	1% 	27
+11 Jun 2023 	Redfield & Wilton 	N/A 	1,200 	28% 	50% 	8% 	7% 	4% 	1% 	2% 	22
+28 May 2023 	Redfield & Wilton 	N/A 	1,158 	31% 	48% 	7% 	7% 	4% 	1% 	1% 	17
+14 May 2023 	Redfield & Wilton 	N/A 	1,100 	29% 	52% 	7% 	7% 	4% 	1% 	0% 	23
+30 Apr 2023 	Redfield & Wilton 	N/A 	1,000 	30% 	48% 	6% 	8% 	5% 	2% 	1% 	18
+16 Apr 2023 	Redfield & Wilton 	N/A 	1,000 	31% 	47% 	7% 	7% 	5% 	1% 	2% 	16
+3 Apr 2023 	Redfield & Wilton 	N/A 	1,000 	30% 	49% 	9% 	6% 	4% 	1% 	1% 	19
+19 Mar 2023 	Redfield & Wilton 	N/A 	1,100 	32% 	48% 	8% 	6% 	4% 	1% 	2% 	16
+5 Mar 2023 	Redfield & Wilton 	N/A 	1,000 	29% 	51% 	9% 	6% 	2% 	1% 	2% 	22
+19 Feb 2023 	Redfield & Wilton 	N/A 	1,000 	27% 	55% 	10% 	4% 	3% 	1% 	1% 	28
+5 Feb 2023 	Redfield & Wilton 	N/A 	1,100 	29% 	52% 	8% 	5% 	4% 	1% 	1% 	23
+23 Jan 2023 	Redfield & Wilton 	N/A 	1,200 	27% 	53% 	9% 	5% 	4% 	1% 	1% 	26
+8–9 Jan 2023 	Redfield & Wilton 	N/A 	1,200 	29% 	51% 	9% 	5% 	3% 	1% 	1% 	22
+21–22 Nov 2022 	Redfield & Wilton 	ITV Peston 	1,500 	30% 	53% 	5% 	6% 	3% 	1% 	1% 	23
+5–6 Nov 2022 	Redfield & Wilton 	N/A 	1,000 	28% 	53% 	6% 	5% 	4% 	2% 	1% 	25
+24–25 Oct 2022 	Redfield & Wilton 	N/A 	1,500 	28% 	56% 	5% 	8% 	2% 	1% 	1% 	28
+16–17 Oct 2022 	Redfield & Wilton 	N/A 	1,500 	21% 	61% 	8% 	5% 	3% 	1% 	1% 	40
+3–4 Oct 2022 	Redfield & Wilton 	N/A 	1,500 	23% 	61% 	3% 	7% 	4% 	1% 	1% 	38
+18–19 Sep 2022 	Redfield & Wilton 	N/A 	1,500 	34% 	49% 	7% 	5% 	4% 	0% 	1% 	15
+4 Sep 2022 	Redfield & Wilton 	N/A 	1,500 	31% 	48% 	7% 	7% 	5% 	1% 	1% 	17
+21 Aug 2022 	Redfield & Wilton 	N/A 	1,500 	34% 	47% 	5% 	8% 	3% 	2% 	1% 	13
+08 Aug 2022 	Redfield & Wilton 	N/A 	1,500 	33% 	48% 	6% 	7% 	5% 	1% 	3% 	15
+25–26 Jul 2022 	Redfield & Wilton 	N/A 	1,500 	34% 	45% 	3% 	10% 	5% 	1% 	3% 	11
+11 Jul 2022 	Redfield & Wilton 	N/A 	1,500 	32% 	46% 	7% 	10% 	4% 	0% 	1% 	13
+26–27 Jun 2022 	Redfield & Wilton 	N/A 	1,500 	35% 	46% 	3% 	8% 	3% 	1% 	2% 	11
+12–13 Jun 2022 	Redfield & Wilton 	N/A 	1,500 	36% 	46% 	6% 	5% 	4% 	2% 	2% 	10
+12 Dec 2019 	2019 general election 	– 	46.7% 	38.0% 	6.5% 	4.5% 	1.4% 	1.2% 	1.7% 	8.7
+YouGov
+
+YouGov publishes polls of all fifty seats the Conservative Party gained from the Labour Party across northern England, the Midlands and Wales.
+Dates
+conducted 	Pollster 	Client 	Sample
+size 	Con 	Lab 	Lib Dems 	Other 	Lead
+		
+17–28 Sep 2021 	YouGov (MRP) 	The Times 	9,931 	41% 	40% 	5% 	14% 	1
+6–18 Sep 2021 	YouGov 	N/A 	794 	44% 	38% 	4% 	14% 	6
+12 Dec 2019 	2019 general election 	– 	47.3% 	39.0% 	4.7% 	8.9% 	8.3
+"Blue wall"
+See also: Blue wall (British politics)
+
+Polling firms publish polls of the "blue wall", which take respondents from constituencies held by the Conservatives but which might be gained by Labour or the Liberal Democrats. Different pollsters use different sets of constituencies for their polling.
+JL Partners
+
+JL Partners have published a poll of the forty-five seats in southern England which the Conservatives won in 2019 with a majority of under 10,000 votes.
+Dates
+conducted 	Pollster 	Client 	Sample
+size 	Con 	Lab 	Lib Dems 	Green 	Other 	Lead
+			
+14–27 Sep 2022 	JL Partners 	Kekst CNC and Conservatives in Communication 	521 	34% 	40% 	20% 	3% 	3% 	6
+12 Dec 2019 	2019 general election 	– 	48.5% 	26.6% 	21.1% 	1.7% 	2.1% 	21.9
+More in Common
+
+More in Common have published a poll of the thirty-nine seats which the Conservatives won in 2019 and saw the largest total swing towards Labour and the Liberal Democrats in the 2017 and 2019 elections.
+Dates
+conducted 	Pollster 	Client 	Sample
+size 	Con 	Lib Dems 	Lab 	Green 	Reform 	Other 	Lead
+				
+20 Feb – 2 Mar 2024 	More in Common 	N/A 	1,005 	32% 	20% 	33% 	5% 	10% 	1% 	1
+12 Dec 2019 	2019 general election 	– 	51% 	25% 	20% 	2% 	0% 	2% 	26
+Opinium
+
+Opinium published a poll of the forty-one constituencies held by the Conservatives since 2010, where Labour or the Liberal Democrats outperformed their national swing against the Conservatives in 2017 and 2019, with a majority of under 10,000.[51]
+Dates
+conducted 	Pollster 	Client 	Sample
+size 	Con 	Lab 	Lib Dems 	Green 	Other 	Lead
+			
+31 Aug – 21 Sep 2021 	Opinium 	Greenpeace 	1,000 	43% 	34% 	14% 	5% 	4% 	9
+12 Dec 2019 	2019 general election 	– 	48.6% 	30.7% 	17.6% 	1.6% 	1.5% 	17.9
+Redfield & Wilton Strategies
+
+Redfield and Wilton Strategies publishes polls of the forty-two constituencies in southern England which voted Conservative in the last three general elections, where more than a quarter of adults have degrees, where more than 42.5% of voters are estimated to have voted to remain in the European Union in the 2016 referendum, and where the Conservative majority over Labour was under 10,000 or the Conservative majority over the Liberal Democrats was under 15,000, in the 2019 general election.[t]
+Dates
+conducted 	Pollster 	Client 	Sample
+size 	Con 	Lib Dems 	Lab 	Green 	Reform 	Other 	Lead
+				
+31 Mar 2024 	Redfield & Wilton 	N/A 	1,040 	26% 	20% 	34% 	6% 	14% 	0% 	8
+3 Mar 2024 	Redfield & Wilton 	N/A 	1,195 	28% 	19% 	37% 	5% 	10% 	1% 	9
+11 Feb 2024 	Redfield & Wilton 	N/A 	1,000 	30% 	21% 	37% 	4% 	7% 	2% 	7
+17–18 Jan 2024 	Redfield & Wilton 	N/A 	1,000 	30% 	24% 	31% 	2% 	11% 	1% 	1
+4 Dec 2023 	Redfield & Wilton 	N/A 	800 	29% 	26% 	30% 	3% 	11% 	1% 	1
+5 Nov 2023 	Redfield & Wilton 	N/A 	1,050 	30% 	25% 	34% 	4% 	6% 	1% 	4
+7 Oct 2023 	Redfield & Wilton 	N/A 	1,000 	36% 	25% 	32% 	3% 	4% 	1% 	4
+10 Sep 2023 	Redfield & Wilton 	N/A 	1,086 	31% 	26% 	33% 	4% 	6% 	1% 	2
+26–27 Aug 2023 	Redfield & Wilton 	N/A 	1,274 	32% 	25% 	33% 	4% 	5% 	1% 	1
+12–13 Aug 2023 	Redfield & Wilton 	N/A 	1,400 	33% 	25% 	32% 	5% 	5% 	0% 	1
+30 Jul 2023 	Redfield & Wilton 	N/A 	1,150 	31% 	24% 	35% 	3% 	6% 	1% 	4
+16 Jul 2023 	Redfield & Wilton 	N/A 	1,154 	32% 	23% 	36% 	5% 	5% 	0% 	4
+2 Jul 2023 	Redfield & Wilton 	N/A 	1,000 	29% 	25% 	36% 	4% 	5% 	1% 	7
+17–18 Jun 2023 	Redfield & Wilton 	N/A 	1,100 	31% 	22% 	38% 	4% 	5% 	0% 	7
+4 Jun 2023 	Redfield & Wilton 	N/A 	1,328 	30% 	26% 	34% 	5% 	5% 	1% 	4
+22 May 2023 	Redfield & Wilton 	N/A 	1,000 	34% 	22% 	33% 	3% 	6% 	2% 	1
+7 May 2023 	Redfield & Wilton 	N/A 	1,090 	32% 	23% 	36% 	2% 	5% 	1% 	4
+23 Apr 2023 	Redfield & Wilton 	N/A 	1,000 	32% 	24% 	34% 	5% 	5% 	1% 	2
+9 Apr 2023 	Redfield & Wilton 	N/A 	1,228 	35% 	20% 	37% 	5% 	4% 	0% 	2
+26 Mar 2023 	Redfield & Wilton 	N/A 	1,500 	31% 	21% 	39% 	4% 	4% 	0% 	8
+12 Mar 2023 	Redfield & Wilton 	N/A 	1,250 	34% 	23% 	36% 	3% 	4% 	1% 	2
+26 Feb 2023 	Redfield & Wilton 	N/A 	1,150 	32% 	18% 	41% 	5% 	4% 	1% 	9
+11–12 Feb 2023 	Redfield & Wilton 	N/A 	1,100 	34% 	17% 	41% 	4% 	3% 	2% 	7
+28–29 Jan 2023 	Redfield & Wilton 	N/A 	1,200 	32% 	19% 	42% 	4% 	4% 	0% 	10
+11 Jan 2023 	Redfield & Wilton 	N/A 	1,200 	30% 	21% 	40% 	3% 	6% 	1% 	10
+21–22 Nov 2022 	Redfield & Wilton 	ITV Peston 	1,200 	30% 	21% 	41% 	4% 	3% 	1% 	11
+13–14 Nov 2022 	Redfield & Wilton 	N/A 	1,250 	32% 	23% 	38% 	2% 	4% 	0% 	6
+29 Oct 2022 	Redfield & Wilton 	N/A 	1,250 	33% 	16% 	44% 	2% 	4% 	1% 	11
+7–8 Oct 2022 	Redfield & Wilton 	N/A 	1,500 	28% 	24% 	41% 	4% 	3% 	4% 	13
+12 Dec 2019 	2019 general election 	– 	49.7% 	27.4% 	20.6% 	1.3% 	- 	0.9% 	22.3
+YouGov
+
+YouGov specifies the blue wall to be constituencies held by the Conservative Party in the South or East of England in the 2019 election, with a population which by majority voted to remain in the European Union and have a higher level of graduates than the country at large.[52]
+Dates
+conducted 	Pollster 	Client 	Sample
+size 	Con 	Lib Dems 	Lab 	Green 	Other 	Lead
+			
+6–18 Sep 2021 	YouGov 	N/A 	841 	45% 	15% 	26% 	11% 	4% 	19
+20–28 Jul 2021 	YouGov 	N/A 	1,141 	44% 	18% 	24% 	9% 	6% 	20
+12 Dec 2019 	2019 general election 	– 	51.7% 	24.0% 	19.7% 	2.4% 	2.2% 	27.7
+Other geographical samples
+Find Out Now
+
+Find Out Now conducted a poll of voters in England and Wales.
+Date(s)
+conducted 	Pollster 	Client 	Sample
+size 	Con 	Lab 	Lib Dems 	Green 	Others 	Lead
+			
+4–6 Jun 2021 	Find Out Now 	The Constitution Society 	14,596 	45% 	36% 	6% 	1% 	11% 	9
+12 Dec 2019 	2019 general election 	– 	46.6% 	34.3% 	12.1% 	2.9% 	4.1% 	12.3
+Survation
+
+Survation has conducted a poll of voters in Cornwall, Cumbria, Gwynedd, Norfolk, and North Yorkshire.
+Dates
+conducted 	Pollster 	Client 	Sample
+size 	Con 	Lab 	Lib Dems 	Green 	Other 	Lead
+			
+7–14 Mar 2022 	Survation 	Woodrow Communications 	1,012 	38% 	36% 	10% 	8% 	
+7%
+	2
+12 Dec 2019 	2019 general election 	– 	53.3% 	25.8% 	14.0% 	2.2% 	4.7 	27.5
+
+Survation has conducted a poll of voters in Coventry.
+Dates
+conducted 	Pollster 	Client 	Sample
+size 	Lab 	Con 	Lib Dems 	Reform 	Green 	Other 	Lead
+				
+1–11 Apr 2022 	Survation 	Unite the Union 	528 	52% 	27% 	6% 	5% 	6% 	
+3%
+	25
+12 Dec 2019 	2019 general election 	– 	46.5% 	40.5% 	6.0% 	4.0% 	2.7% 	0.3% 	6
+
+Survation has published multiple polls of the 100 most rural constituencies in England.
+Dates
+conducted 	Pollster 	Client 	Sample
+size 	Con 	Lab 	Lib Dems 	Green 	Reform 	Other 	Lead
+				
+23–30 Jan 2024 	Survation 	Country Land and Business Association 	1,092 	34% 	37% 	14% 	4% 	9% 	2% 	3
+13–24 Apr 2023 	Survation 	Country Land and Business Association 	1,017 	41% 	36% 	13% 	5% 	4% 	0% 	5
+12 Dec 2019 	2019 general election 	– 	58.9% 	19.3% 	16.6% 	3.5% 	0.6% 	1.2% 	39.6
+YouGov
+
+YouGov produced a poll of seats in South West England that had elected a Conservative MP in every election since the 2015 general election and where a majority of voters were estimated to have voted to leave the European Union in the 2016 United Kingdom European Union membership referendum. They branded these seats the "Conservative Celtic Fringe".
+Dates
+conducted 	Pollster 	Client 	Sample
+size 	Con 	Lab 	Lib Dems 	Reform 	Green 	Other 	Lead
+				
+1–15 Jun 2022 	YouGov 	N/A 	813 	38% 	24% 	22% 	6% 	8% 	1% 	14
+12 Dec 2019 	2019 general election 	– 	56.7% 	19.2% 	19.1% 	0.1% 	3.0% 	1.9% 	37.5
+
+YouGov have also conducted a poll of voters in constituencies which contain settlements identified by the Office for National Statistics as coastal towns.
+Dates
+conducted 	Pollster 	Client 	Sample
+size 	Con 	Lab 	Lib Dems 	Green 	Reform 	PC 	Other 	Lead
+					
+21–23 Nov 2022 	YouGov 	Fabian Society 	631 	32% 	38% 	9% 	21% 	6
+12 Dec 2019 	2019 general election 	– 	51.2% 	29.2% 	11.4% 	2.6% 	2.0% 	1.7% 	1.7% 	22.0
+Labour Together
+
+A poll was conducted by, or on behalf of, Labour Together of "people in villages or rural areas".
+Dates
+conducted 	Pollster 	Client 	Sample
+size 	Con 	Lab 	Lib Dems 	Green 	Reform 	PC 	Other 	Lead
+					
+27 Oct – 1 Nov 2023 	??? 	Labour Together 	~5,000 	30% 	34% 	36% 	4
+12 Dec 2019 	2019 general election 	– 	?% 	?% 	? 	? 	? 	? 	? 	?[u]
+Ethnic minority voters
+Dates
+conducted 	Pollster 	Client 	Area 	Sample
+size 	Lab 	Con 	Lib Dems 	SNP 	Green 	Others 	Lead
+				
+21–27 Feb 2022 	Number Cruncher Politics 	ITV 	N/A 	1,001 	59% 	21% 	8% 	2% 	5% 	
+4%
+	38
+7–14 Jun 2021 	Number Cruncher Politics 	ITV 	N/A 	501 	51% 	28% 	7% 	3% 	9% 	
+3%
+	23
+25 Jan – 01 Feb 2021 	Number Cruncher Politics 	ITV 	N/A 	1,000 	58% 	22% 	6% 	2% 	8% 	
+4%
+	36
+9–17 Oct 2020 	Number Cruncher Politics 	ITV 	UK 	1,000 	60% 	22% 	5% 	3% 	5% 	
+3%
+	38
+12 Dec 2019 	2019 general election (Ipsos MORI)[53] 	GB 	27,591 	64% 	20% 	12% 	2% 	1% 	1% 	44
+Muslim voters
+Dates
+conducted 	Pollster 	Client 	Area 	Sample
+size 	Lab 	Con 	Lib Dems 	SNP 	Green 	Others 	Lead
+				
+16 Feb – 13 Mar 2024 	JL Partners 	Henry Jackson Society 	UK 	1000 	61% 	12% 	9% 	1% 	9% 	5% 	49
+18 Jan – 3 Feb 2024 	Survation 	Labour Muslim Network 	UK 	683 	60% 	8% 	9% 	4% 	14% 	5% 	46
+27 Oct – 3 Nov 2023 	Savanta 	N/A 	UK 	1,023 	64% 	19% 	9% 	1% 	5% 	
+2%
+	45
+12 Dec 2019
+2019 election (JL Partners) 	UK 	1,000 	72% 	17% 	7% 	0% 	3% 	0% 	55
+2019 election (Survation) 	UK 	504 	86% 	9% 	1% 	1% 	3% 	0% 	77
+2019 election (Savanta) 	UK 	1,023 	67% 	25% 	5% 	1% 	— 	1% 	42
+Private renter voters
+Dates
+conducted 	Pollster 	Client 	Area 	Sample
+size 	Lab 	Con 	Lib Dems 	Green 	Reform 	Others 	Lead
+				
+5–10 Apr 2024 	Survation 	38 Degrees 	UK 	2,009 	49% 	23% 	9% 	8% 	10% 	1% 	26
+2019 election (Ipsos) 	UK 	N/A 	46% 	31% 	11% 	– 	— 	12% 	15
+Young voters
+
+Savanta has published polls of voters aged between 18 and 25. The 2019 result comes from the British Election Study's estimate of voters aged 18 to 24.
+Dates
+conducted 	Pollster 	Client 	Area 	Sample
+size 	Lab 	Con 	Lib Dems 	Green 	SNP 	Others 	Lead
+				
+22–26 Sep 2023 	Savanta 	ITV Peston 	UK 	1,023 	56% 	15% 	16% 	5% 	3% 	5% 	40
+27 Apr – 3 May 2023 	Savanta 	ITV Peston 	UK 	1,023 	62% 	15% 	9% 	7% 	3% 	6% 	47
+12 Dec 2019 	2019 general election (British Election Study)[54] 	UK 	52% 	28% 	11% 	9% 	24
+See also
+
+    Leadership approval opinion polling for the next United Kingdom general election
+    Opinion polling on the United Kingdom's membership of the European Union (2016–2020)
+    Potential re-accession of the United Kingdom to the European Union
+    Opinion polling for the next Scottish Parliament election
+    Opinion polling for the next Senedd election
+
+Notes
+
+The headline voting intention figures are calculated by YouGov from its MRP seat projections.
+Values calculated from the weighted responses for each party, after excluding Don't Know and Would Not Vote.
+The published lead was 15 points. This is not apparent from the party numbers due to rounding.
+Including Plaid Cymru
+Survation also polled voting intention if Liz Truss were Prime Minister, which saw Labour on 46%, the Conservatives on 29%, Liberal Democrats on 11% and others on 12%.
+Opinium announced they had amended their methodology, so it cannot be compared directly to previous Opinium polls.
+SNP and Plaid Cymru are listed together.
+First MRP to take into account new constituency boundaries
+"The baseline MRP by Focaldata predicted Labour winning 469 seats and the Conservatives 128 seats. 'Don't Know' was predicted to win two seats, namely Aberdeenshire North and Moray East; as well as Boston and Skegness. Given in a General Election scenario 'Don't Know' would not be on the ballot paper, we reallocated these seats to the party in second place. This meant that we awarded Aberdeenshire North and Moray East to the Labour Party; and then Boston and Skegness to the Conservatives in all scenarios and analyses that we performed."
+This includes the 18 seats of Northern Ireland. No polling in Northern Ireland was conducted as part of this poll.
+2 Reform UK, 1 Other
+10,010 sample, 20–26 October 2022; 2,000 sample, 28–30 October 2022.[34] "The MRP poll by Focaldata of 10,010 people, on behalf of the internationalist campaign group Best for Britain, was conducted about the time of Truss's resignation and updated with an MRP poll of 2,000 people after Sunak took over."[35]
+517 listed; one seat (Clacton) is reported as "Don't Know", but "in reality the seat would be won by Labour", and is therefore added to Labour's projected total seat count.[34]
+Polling was of GB adults only, but 18 seats were assigned to "Northern Ireland Parties" — without differentiation — in the reporting of the MRP's outcome
+This includes the 18 seats of Northern Ireland. No polling in Northern Ireland was conducted as part of this poll.
+Jonathan Edwards is the incumbent MP for Carmarthen East and Dinefwr, elected as a Plaid MP. He was suspended from the party after being arrested for domestic assault.[47]
+Notional result[48]
+Poll conducted based on the previous boundaries for this constituency, not the boundaries used at the general election.
+They also conducted a poll in the scenario that Farage was the Reform UK candidate, which found Reform UK at 38%, Conservatives at 27%, and Labour at 23%
+These are: Bournemouth East, Chelsea and Fulham, Cheltenham, Chingford and Woodford Green, Chippenham, Chipping Barnet, Cities of London and Westminster, Colchester, Esher and Walton, Filton and Bradley Stoke, Finchley and Golders Green, Guildford, Harrow East, Hendon, Henley, Hitchin and Harpenden, Lewes, Milton Keynes North, Milton Keynes South, Mole Valley, Reading West, Romsey and Southampton North, South Cambridgeshire, South East Cambridgeshire, South West Surrey, St Ives, Sutton and Cheam, Taunton Deane, Thornbury and Yate, Totnes, Truro and Falmouth, Tunbridge Wells, Uxbridge and South Ruislip, Wantage, Watford, Wells, West Dorset, Wimbledon, Winchester, Woking, Wokingham, and Wycombe.
+
+    Results of poll displayed "a 17-point swing to Labour compared with 2019"
+
+References
+
+Jane Bainbridge, "ComRes Sold To Savanta", Research Live, 1 August 2019. Retrieved 13 January 2024.
+Katie McQuater. "ComRes Rebrands To Savanta ComRes", Research Live, 13 November 2019. Retrieved 13 January 2024.
+Katie McQuater, "Savanta Drops ComRes, MSI, Youthsight and Mindspark Brand Names", Research Live, 1 December 2022. Retrieved 13 January 2024.
+Mike Underwood, "Visit WeThink — the new home for polling by the team at Omnisis", Omnisis, 30 August 2023. Retrieved 13 January 2024.
+"Panelbase Message". www.panelbase.net. Retrieved 1 February 2024.
+Rayner, Gordon (15 January 2024). "Tories facing 1997-style wipeout". The Telegraph. p. 1. "The poll was commissioned by a group of Conservative donors called the Conservative Britain Alliance and carried out by Yougov, working with Lord Frost."
+"Northern Ireland local election results 2023". BBC News. Retrieved 19 May 2023.
+"England local election results 2023". BBC News. 5 May 2023. Retrieved 4 May 2023.
+"West Lancashire: Tories out of road, say Labour after by-election win". BBC News. 10 February 2023. Retrieved 11 February 2023.
+Faye Brown (16 December 2022). "Labour holds seat in Stretford and Urmston by-election". Sky News. Retrieved 16 December 2022.
+"Chester by-election: Labour hold seat in Rishi Sunak's first electoral test". BBC News. 2 December 2022. Retrieved 16 December 2022.
+Nevett, Joshua (25 October 2022). "Rishi Sunak calls for stability and unity as he wins contest to be PM". BBC News. Retrieved 27 October 2022.
+"How Liz Truss won the Conservative leadership race". BBC News. 5 September 2022. Retrieved 8 October 2022.
+"Tiverton and Honiton by-election: Lib Dems take seat". BBC News. 23 June 2022. Archived from the original on 6 July 2022. Retrieved 6 July 2022.
+"Wakefield by-election: Labour win a great result, says Keir Starmer". BBC News. 5 May 2022. Archived from the original on 6 July 2022. Retrieved 6 July 2022.
+"England Local Elections 2022". BBC News. 5 May 2022. Archived from the original on 20 July 2022. Retrieved 6 July 2022.
+"Northern Ireland Assembly Election Results 2022". BBC News. 5 May 2022. Archived from the original on 20 July 2022. Retrieved 6 July 2022.
+"Birmingham Erdington by-election: Starmer hails new MP as 'champion of working people'". BBC News. 3 March 2022. Archived from the original on 6 July 2022. Retrieved 6 July 2022.
+"Southend West by-election: Anna Firth wins seat for Tories". BBC News. 3 February 2022. Archived from the original on 4 February 2022. Retrieved 6 July 2022.
+"Tories lose North Shropshire seat they held for nearly 200 years". BBC News. 17 December 2021. Archived from the original on 17 December 2021. Retrieved 18 December 2021.
+"Old Bexley and Sidcup: Tories hold safe London seat at by-election". BBC News. 3 December 2021. Archived from the original on 18 December 2021. Retrieved 18 December 2021.
+"Green Party's new leadership team to focus on power not protests". BBC News. 1 October 2021. Archived from the original on 1 October 2021. Retrieved 1 October 2021.
+"Batley and Spen: Labour hold seat in by-election". BBC News. 2 July 2021. Archived from the original on 2 July 2021. Retrieved 2 July 2021.
+"Chesham and Amersham by-election won by Lib Dems". BBC News. 18 June 2021. Archived from the original on 18 June 2021. Retrieved 18 June 2021.
+"SNP holds Airdrie and Shotts seat in by-election". BBC News. 14 May 2021. Archived from the original on 14 May 2021. Retrieved 15 May 2021.
+"England local elections 2021 – BBC News". BBC News. Archived from the original on 26 November 2021. Retrieved 15 May 2021.
+"Scottish Parliament election 2021". BBC News. Archived from the original on 11 October 2021. Retrieved 15 May 2021.
+"Welsh Parliament election 2021". BBC News. Archived from the original on 9 October 2021. Retrieved 15 May 2021.
+"Elections 2021: Conservatives hail historic Labour defeat in Hartlepool by-election". BBC News. 7 May 2021. Archived from the original on 10 May 2021. Retrieved 15 May 2021.
+"Nigel Farage: Brexit-backing politician to quit as leader of Reform UK". BBC News. 6 March 2021. Archived from the original on 7 March 2021. Retrieved 8 March 2021.
+"Davey wins Liberal Democrat leadership race". BBC News. 27 August 2020. Archived from the original on 27 August 2020. Retrieved 29 August 2020.
+"Labour leadership winner: Sir Keir Starmer". BBC News. 4 April 2020. Archived from the original on 7 April 2020. Retrieved 4 April 2020.
+"YouGov UK General Election MRP Estimates – February 2019" (PDF). YouGov. 11 February 2019. Archived (PDF) from the original on 12 February 2019. Retrieved 22 May 2019.
+"THE WAVERING WALL: THE IMPACT OF UNDECIDED VOTERS ON BRITAIN'S NEXT GENERAL ELECTION". Best for Britain. 31 December 2022. Retrieved 31 December 2022.
+Wheeler, Caroline (31 December 2022). "Exclusive: poll reveals millions of undecided voters will swing the next election". The Times. Retrieved 31 December 2022.
+"London elections 2021". BBC News. 9 May 2021. Archived from the original on 16 September 2021. Retrieved 2 October 2021.
+Manley, John (11 March 2024). "Sinn Féin on course for record performance in Westminster election". The Irish News. Retrieved 14 March 2023.
+Manley, John (13 November 2023). "Sinn Féin on course to break Westminster record". The Irish News. Archived from the original on 13 November 2023. Retrieved 13 November 2023.
+"Alex Cole-Hamilton confirmed as new Lib Dem leader". BBC News. 20 August 2020. Archived from the original on 20 August 2021. Retrieved 21 August 2021.
+"Anas Sarwar elected as new leader of Scottish Labour Party". Labour List. 27 February 2021. Archived from the original on 22 May 2021. Retrieved 8 March 2021.
+"Douglas Ross confirmed as Scottish Conservative leader". BBC News. 5 August 2020. Archived from the original on 26 January 2022. Retrieved 8 March 2021.
+"Scottish Conservatives: Jackson Carlaw succeeds Ruth Davidson as leader". BBC News. 14 February 2020. Archived from the original on 9 March 2022. Retrieved 8 March 2021.
+"Vaughan Gething confirmed as Wales' new first minister". BBC News. 19 March 2024. Retrieved 20 March 2024.
+"Plaid Cymru: What we know about new leader Rhun ap Iorwerth". 16 June 2023 – via www.bbc.co.uk.
+"Wales Local Elections 2022". BBC News. 6 May 2022. Retrieved 22 February 2023.
+"Andrew RT Davies returns as Welsh Conservatives leader". BBC News. 24 January 2021. Archived from the original on 22 May 2021. Retrieved 15 May 2021.
+Youle, Richard (18 January 2023). "MP who accepted domestic assault caution may stand against Plaid". Wales Online. Retrieved 1 February 2024.
+"Results spreadsheet (download)". BBC. Retrieved 19 January 2024.
+Hunt, Jeremy (2023). "Godalming and Ash Survey 2023 – Jeremy Hunt MP". Jeremy Hunt. Archived from the original on 10 December 2023. Retrieved 4 March 2024. "Following the redrawing of the parliamentary boundaries by the Boundary Commission, I am the Conservative Candidate for the Godalming and Ash constituency at the next election."
+Adu, Aletha (3 March 2024). "Jeremy Hunt has given over £100,000 to local Tory party in bid to retain seat". The Guardian. Retrieved 4 March 2024.
+Akehurst, Steve (21 October 2021). "The 'Blue Wall'". Strong Message Here. Retrieved 21 October 2021.[permanent dead link]
+English, Patrick (30 July 2021). "Conservative vote share down 8pts in 'Blue Wall', with party potentially losing up to 16 seats". YouGov. Archived from the original on 30 July 2021. Retrieved 5 October 2021.
+"How Britain voted in the 2019 election". Ipsos MORI. 20 December 2019. Archived from the original on 15 February 2020. Retrieved 5 February 2021.
+
+    "Age and voting behaviour at the 2019 General Election – The British Election Study". www.britishelectionstudy.com. Retrieved 7 May 2023.
+
+    vte
+
+Opinion polling for elections, referendums and other issues in United Kingdom
+
+    vte
+
+Opinion polling for future elections
+Categories:
+
+    Opinion polling for future electionsOpinion polling for United Kingdom general electionsOpinion polling for United Kingdom votes in the 2020s
+
+    This page was last edited on 10 May 2024, at 18:00 (UTC).
+    Text is available under the Creative Commons Attribution-ShareAlike License 4.0; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
